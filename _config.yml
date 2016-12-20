@@ -107,3 +107,13 @@ prose:
               value: page
             - name: faculty
               value: faculty
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.md
+  - s3_website.yml
+  - .sass-cache
+  - .travis.yml
+  - .ruby-version
+  - .gitignore
