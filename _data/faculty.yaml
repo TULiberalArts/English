@@ -288,8 +288,41 @@
   phone: "3333333333"
   website: "http://twitter.com/example"
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
-  expertise: 
-  bio: 
+  expertise: ""
+  bio: >
+  
+- name: "Zach Smith"
+  title: <i>Dean</i>
+  room: "832"
+  building: "Anderson Hall"  
+  email: "zach.smith@temple.com"
+  phone: "3333333333"
+  website: "http://twitter.com/example"
+  photo: "https://randomuser.me/api/portraits/men/12.jpg"
+  expertise: ""
+  bio: >
+  
+- name: "Zach Smith"
+  title: <i>Dean</i>
+  room: "832"
+  building: "Anderson Hall"  
+  email: "zach.smith@temple.com"
+  phone: "3333333333"
+  website: "http://twitter.com/example"
+  photo: "https://randomuser.me/api/portraits/men/12.jpg"
+  expertise: ""
+  bio: >
+  
+- name: "Zach Smith"
+  title: <i>Dean</i>
+  room: "832"
+  building: "Anderson Hall"  
+  email: "zach.smith@temple.com"
+  phone: "3333333333"
+  website: "http://twitter.com/example"
+  photo: "https://randomuser.me/api/portraits/men/12.jpg"
+  expertise: ""
+  bio: >
   
 - name: "Zach Smith"
   title: <i>Dean</i>
@@ -300,37 +333,4 @@
   website: "http://twitter.com/example"
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: 
-  bio: 
-  
-- name: "Zach Smith"
-  title: <i>Dean</i>
-  room: "832"
-  building: "Anderson Hall"  
-  email: "zach.smith@temple.com"
-  phone: "3333333333"
-  website: "http://twitter.com/example"
-  photo: "https://randomuser.me/api/portraits/men/12.jpg"
-  expertise: 
-  bio: 
-  
-- name: "Zach Smith"
-  title: <i>Dean</i>
-  room: "832"
-  building: "Anderson Hall"  
-  email: "zach.smith@temple.com"
-  phone: "3333333333"
-  website: "http://twitter.com/example"
-  photo: "https://randomuser.me/api/portraits/men/12.jpg"
-  expertise: 
-  bio: 
-  
-- name: "Zach Smith"
-  title: <i>Dean</i>
-  room: "832"
-  building: "Anderson Hall"  
-  email: "zach.smith@temple.com"
-  phone: "3333333333"
-  website: "http://twitter.com/example"
-  photo: "https://randomuser.me/api/portraits/men/12.jpg"
-  expertise: 
-  bio: 
+  bio: >
