@@ -4,33 +4,32 @@ permalink: /resources/
 layout: page
 published: true
 ---
+**Chair:**
 
-Chair:
+Katherine Henry<br/>
+1042 Anderson Hall<br/>
+[(215) 204-7516](tel:2152047516)<br/>
+[khenry@temple.edu](mailto:khenry@temple.edu)<br/>
 
-Katherine Henry
-1042 Anderson Hall
-[(215) 204-7516](tel:2152047516)
-[khenry@temple.edu](mailto:khenry@temple.edu)
+**Graduate Chair:**
 
-Graduate Chair:
+Steve Newman<br/>
+938 Anderson Hall<br/>
+[(215)204-3181](tel:2152043181)<br/>
+[snewman@temple.edu](mailto:snewman@temple.edu)<br/>
 
-Steve Newman
-938 Anderson Hall
-[(215)204-3181](tel:2152043181)
-[snewman@temple.edu](mailto:snewman@temple.edu)
+**Administrator:**
 
-Administrator:
+Stephanie Morawski<br/>
+1041 Anderson Hall<br/>
+[(215) 204-8516](tel:2152048516)<br/>
+[morawski@temple.edu](mailto:morawski@temple.edu)<br/>
 
-Stephanie Morawski
-1041 Anderson Hall
-[(215) 204-8516](tel:2152048516)
-[morawski@temple.edu](mailto:morawski@temple.edu)
+**Coordinator:**
 
-Coordinator:
-
-Sharon Logan
-[(215) 204-1796](tel:2152041796)
-[logansd@temple.edu](mailto:logansd@temple.edu)
+Sharon Logan<br/>
+[(215) 204-1796](tel:2152041796)<br/>
+[logansd@temple.edu](mailto:logansd@temple.edu)<br/>
 
 ## Undergraduate Resources
 
