@@ -149,3 +149,9 @@ The Dean of the Graduate School considers exceptions to the admissions requireme
 - Scored above the 65th percentile on the verbal and quantitative portions of the Graduate Record Exam (or other standardized test, such as the Graduate Management Admission Test).
 - Earned a 3.5 grade point average during her/his final two years of undergraduate work.
 - In special circumstances, particularly with an exceptional writing sample, other exceptions may be granted.
+
+## Ph.D. in English
+
+The Department of English houses a doctoral program to which applicants with a B.A. can be admitted directly, that is, without first earning a master’s degree. Applicants are required to declare an intention to proceed toward the Ph.D., although they can still receive an M.A. along the way or choose to stop at the M.A. The Department also accepts applications to the doctoral program from applicants who have earned an M.A. elsewhere.
+
+For information on how to apply to the Ph.D. program, please visit the [Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/english-phd/#admissiontext).
