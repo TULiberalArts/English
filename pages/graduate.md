@@ -4,7 +4,42 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /graduate/
 layout: page
 published: true
+sidebar: true
+sidebar-content: > #
+  ### Contact Us
+
+  <hr>
+
+  **Chair:** <br/>
+  Katherine Henry<br/>
+  1042 Anderson Hall<br/>
+  [(215) 204-7516](tel:2152047516)<br/>
+  [khenry@temple.edu](mailto:khenry@temple.edu)<br/>
+
+  <hr>
+
+  **Graduate Chair:** <br/>
+  Steve Newman<br/>
+  938 Anderson Hall<br/>
+  [(215)204-3181](tel:2152043181)<br/>
+  [snewman@temple.edu](mailto:snewman@temple.edu)<br/>
+
+  <hr>
+
+  **Administrator:** <br/>
+  Stephanie Morawski<br/>
+  1041 Anderson Hall<br/>
+  [(215) 204-8516](tel:2152048516)<br/>
+  [morawski@temple.edu](mailto:morawski@temple.edu)<br/>
+
+  <hr>
+ 
+  **Coordinator:** <br/>
+  Sharon Logan<br/>
+  [(215) 204-1796](tel:2152041796)<br/>
+  [logansd@temple.edu](mailto:logansd@temple.edu)<br/>
 ---
+
 ## Graduate Overview of Programs
 
 The Ph.D. program features faculty teaching a wide range of courses in all historical periods of British and American literature, Anglophone literature, and critical and cultural theory. The program is designed to give students a solid grounding in the methods of literary study and a broad perspective on literary production and meaning. The program balances theoretical sophistication with historical scope and methodological variety. The Literature faculty is strong in traditional areas of literary scholarship with concentrations in criticism, literary forms and periods, cultural studies, rhetoric and composition. Our aim is to produce students who will write publishable dissertations and pursue productive careers as scholar-teachers. In addition to challenging course work, students receive attentive mentoring from individual faculty members assigned to entering students in their first semester. Course work is usually completed in two to three years. The dissertation is expected within six years. The program requirements include completion of course work (14 courses), written and oral preliminary exams, and completion and defense of the dissertation.
