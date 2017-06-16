@@ -4,6 +4,40 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /undergraduate/
 layout: page
 published: true
+sidebar: true
+sidebar-content: > #
+  ### Contact Us
+
+  <hr>
+
+  **Chair:** <br/>
+  Katherine Henry<br/>
+  1042 Anderson Hall<br/>
+  [(215) 204-7516](tel:2152047516)<br/>
+  [khenry@temple.edu](mailto:khenry@temple.edu)<br/>
+
+  <hr>
+
+  **Undergraduate Advisor:** <br/>
+  Gabriel Wettach<br/>
+  1030 Anderson Hall<br/>
+  [(215)204-8510](tel:2152048510)<br/>
+  [gabe@temple.edu](mailto:gabe@temple.edu)<br/>
+
+  <hr>
+
+  **Administrator:** <br/>
+  Stephanie Morawski<br/>
+  1041 Anderson Hall<br/>
+  [(215) 204-8516](tel:2152048516)<br/>
+  [morawski@temple.edu](mailto:morawski@temple.edu)<br/>
+
+  <hr>
+ 
+  **Coordinator:** <br/>
+  Sharon Logan<br/>
+  [(215) 204-1796](tel:2152041796)<br/>
+  [logansd@temple.edu](mailto:logansd@temple.edu)<br/>
 ---
 
 ## A Field With Instant Applications
