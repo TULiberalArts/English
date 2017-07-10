@@ -6,38 +6,34 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: > #
-  ### Contact Us
+  **Chair:**  
+   Katherine Henry  
+   1042 Anderson Hall  
+   [(215) 204-7516](tel:2152047516)  
+   [khenry@temple.edu](mailto:khenry@temple.edu)  
+   
+   ___
+   
+   **Graduate Chair:**  
+   Steve Newman  
+   938 Anderson Hall  
+   [(215) 204-3181](tel:2152043181)  
+   [snewman@temple.edu](mailto:snewman@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Stephanie Morawski  
+   1041 Anderson Hall   
+   [(215) 204-8516](tel:2152048516)  
+   [morawski@temple.edu](mailto:morawski@temple.edu)  
+   
+   ___
 
-  <hr>
-
-  **Chair:** <br/>
-  Katherine Henry<br/>
-  1042 Anderson Hall<br/>
-  [(215) 204-7516](tel:2152047516)<br/>
-  [khenry@temple.edu](mailto:khenry@temple.edu)<br/>
-
-  <hr>
-
-  **Graduate Chair:** <br/>
-  Steve Newman<br/>
-  938 Anderson Hall<br/>
-  [(215)204-3181](tel:2152043181)<br/>
-  [snewman@temple.edu](mailto:snewman@temple.edu)<br/>
-
-  <hr>
-
-  **Administrator:** <br/>
-  Stephanie Morawski<br/>
-  1041 Anderson Hall<br/>
-  [(215) 204-8516](tel:2152048516)<br/>
-  [morawski@temple.edu](mailto:morawski@temple.edu)<br/>
-
-  <hr>
- 
-  **Coordinator:** <br/>
-  Sharon Logan<br/>
-  [(215) 204-1796](tel:2152041796)<br/>
-  [logansd@temple.edu](mailto:logansd@temple.edu)<br/>
+   **Coordinators:**  
+   Sharon Logan      
+   [(215) 204-1796](tel:2152041796)   
+   [logansd@temple.edu](mailto:logansd@temple.edu)  
 ---
 
 ## Graduate Overview of Programs
