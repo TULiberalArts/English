@@ -30,7 +30,7 @@ sidebar-content: > #
    
    ___
 
-   **Coordinators:**  
+   **Coordinator:**  
    Sharon Logan      
    [(215) 204-1796](tel:2152041796)   
    [logansd@temple.edu](mailto:logansd@temple.edu)  
