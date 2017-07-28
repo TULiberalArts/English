@@ -5,7 +5,7 @@ permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Chair:**  
    Katherine Henry  
    1042 Anderson Hall  
@@ -33,7 +33,7 @@ sidebar-content: > #
    **Coordinator:**  
    Sharon Logan      
    [(215) 204-1796](tel:2152041796)   
-   [logansd@temple.edu](mailto:logansd@temple.edu)  
+   [logansd@temple.edu](mailto:logansd@temple.edu)
 ---
 
 ## A Field With Instant Applications
@@ -46,6 +46,8 @@ Our distinguished, award-winning and internationally renowned faculty are exciti
 experts in their fields, but are also skilled advisors who help students navigate the college and broader university and provide valuable counsel about the vocational impact of English studies.
 
 Our career seminar and internship program, which relies on our faculty contacts with local businesses, institutions and organizations, offers students excellent experience working before graduation.
+
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
 
 ## Academic Offerings
 
