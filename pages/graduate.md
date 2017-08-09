@@ -5,7 +5,7 @@ permalink: /graduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Chair:**  
    Katherine Henry  
    1042 Anderson Hall  
@@ -33,7 +33,7 @@ sidebar-content: > #
    **Coordinator:**  
    Sharon Logan      
    [(215) 204-1796](tel:2152041796)   
-   [logansd@temple.edu](mailto:logansd@temple.edu)  
+   [logansd@temple.edu](mailto:logansd@temple.edu)
 ---
 
 ## Graduate Overview of Programs
@@ -71,7 +71,7 @@ For more details on the M.A. program, visit the [Graduate Policies and Procedure
 
 ## How to Apply
 
-For information on how to apply to the M.A. program, please see the “Admission to the M.A. and Ph.D. Programs” heading on the Graduate Programs homepage [here](http://www.cla.temple.edu/english/graduate/).
+For information on how to apply to the M.A. program, please see the “Admission to the M.A. and Ph.D. Programs” page.
 
 ## M.F.A. in Creative Writing
 
