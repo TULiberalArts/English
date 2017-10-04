@@ -1,8 +1,6 @@
 ---
 title: Undergraduate
 permalink: /undergraduate/
-description: >-
-keywords: ''
 layout: page
 published: true
 sidebar: true
@@ -65,7 +63,7 @@ When you are ready to apply, submit your application online at [admissions.templ
 
 The Main Campus office of the First Year Writing Program is room 1046 in Anderson Hall, which is 1114 Polett Walk, between 11th and 12th Streets and between Montgomery and Berks Streets.
 
-English 0701 and English 0802 and the ESL equivalents form a year-long sequence designed to introduce students to academic discourse. Entering first-year students are either placed into the 0701/0802 sequence, placed only in 0802, or exempted from first-year writing courses entirely.
+[English 0701 and English 0802](http://bulletin.temple.edu/courses/eng/) and the ESL equivalents form a year-long sequence designed to introduce students to academic discourse. Entering first-year students are either placed into the 0701/0802 sequence, placed only in 0802, or exempted from first-year writing courses entirely.
 
 Placement into First Year Writing courses is determined by Institutional Research and Assessment. Information on English placement can be found [here](https://atlas.ocis.temple.edu/MarcPlmts/Splash.html). Questions about placement can be directed to [placements@temple.edu](mailto:placements@temple.edu) or 215-204-8611.
 
