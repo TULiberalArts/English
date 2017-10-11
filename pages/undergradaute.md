@@ -55,7 +55,7 @@ When you are ready to apply, submit your application online at [admissions.templ
 - [Minor in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/minor-english/)
 - Combined BA/MA 4+1 program in English
 - [MA in English](http://bulletin.temple.edu/graduate/scd/cla/english-ma/)
-- MFA in Creative Writing
+- [MFA in Creative Writing](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/)
 - [PhD in English](http://bulletin.temple.edu/graduate/scd/cla/english-phd/)
 - [Certificate in Writing](http://bulletin.temple.edu/undergraduate/liberal-arts/english/certificate-writing/)
 
