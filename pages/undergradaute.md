@@ -65,15 +65,19 @@ The Main Campus office of the First Year Writing Program is room 1046 in Anderso
 
 [English 0701 and English 0802](http://bulletin.temple.edu/courses/eng/) and the ESL equivalents form a year-long sequence designed to introduce students to academic discourse. Entering first-year students are either placed into the 0701/0802 sequence, placed only in 0802, or exempted from first-year writing courses entirely.
 
-Placement into First Year Writing courses is determined by Institutional Research and Assessment. Information on English placement can be found [here](https://atlas.ocis.temple.edu/MarcPlmts/Splash.html). Questions about placement can be directed to [placements@temple.edu](mailto:placements@temple.edu) or 215-204-8611.
+Placement into First Year Writing courses is determined by Institutional Research and Assessment. Information on English placement can be found [here](https://atlas.ocis.temple.edu/MarcPlmts/Splash.html). Questions about placement can be directed to [placements@temple.edu](mailto:placements@temple.edu) or [215-204-8611](tel:2152048611).
 
 **If you have any questions about the First-Year Writing Program, we invite you to stop by the office or contact us.**
 
 ## Certificate in Writing
 
-The Writing Certificate option allows students enrolled in Temple programs to focus their attention on the skills and theory of writing. Because it is not a degree program, the Writing Certificate is only available to matriculated Temple students who are already pursuing an undergraduate degree with the university. Students earn the Certificate by receiving an average of B or above in five of the writing courses listed below, including at least one from each of the three certificate areas: Advanced Expository and Professional Writing, Creative Writing, and Writing Theory. See programs details in the [Undergraduate Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/english/certificate-writing/.) 
+The Writing Certificate option allows students enrolled in Temple programs to focus their attention on the skills and theory of writing. Because it is not a degree program, the Writing Certificate is only available to matriculated Temple students who are already pursuing an undergraduate degree with the university. Students earn the Certificate by receiving an average of B or above in five of the writing courses listed below, including at least one from each of the three certificate areas: **Advanced Expository and Professional Writing, Creative Writing, and Writing Theory**. See programs details and course requirements in the [Undergraduate Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/english/certificate-writing/.) 
 
 Students interested in the Writing Certificate are urged to seek advice on their goals and course choices from Professor Eli Goldblatt, at [eligold@temple.edu](mailto:eligold@temple.edu).
+
+## Creative Writing Concentration 
+
+English majors with an interest in Creative Writing should consider a Creative Writing concentration. Such a concentration will allow for focused study of a particular genre and will provide good preparation for those students interested in graduate study in Creative Writing. **(LINK TO NEW CREATIVE WRITING UNDERGRAD PAGE ON CREATIVE WRITING PROGRAM PAGE)**
 
 ## 4+1 Accelerated B.A./M.A. Degree Program
 
