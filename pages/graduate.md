@@ -52,7 +52,7 @@ Our M.F.A. degree in Creative Writing is a two-year, 33-credit program in either
 
 ## Admissions Process
 
-Applicants to the English Ph.D. and English M.A. programs should follow the instructions below. Applicants to the Creative Writing M.F.A. program should see below and follow those applications instructions.
+**Applicants to the English Ph.D. and English M.A. programs should follow the instructions below. Applicants to the Creative Writing M.F.A. program should see below and follow those applications instructions.**
 
 For questions about any of the English graduate programs, please call: (215) 204-1796 or email [eng1grad@temple.edu](mailto:eng1grad@temple.edu).
 
