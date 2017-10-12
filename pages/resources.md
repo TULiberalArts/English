@@ -2,8 +2,6 @@
 title: Resources
 permalink: /resources/
 layout: page
-keywords: ''
-description: >-
 published: true
 ---
 
@@ -36,6 +34,10 @@ Securing an internship is excellent practice for a job search after graduation. 
 **How are interns registered for the course?**
 
 Students cannot register themselves for English 3085. In order to be registered, a student who has been accepted as an intern should email Professor Robison, [prob@temple.edu](mailto:prob@temple.edu).
+
+## Awards and Scholarships
+
+The entire list of awards and scholarships offered along with applications and instructions for all English majors can be found on the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4593&field_awards_academics_class_value=All) page. 
 
 ### Study Abroad
 
