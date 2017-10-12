@@ -2,14 +2,12 @@
 title: Next Stops
 permalink: /next-stops/
 layout: page
-meta-keywords: ''
-description: >-
 published: true
 ---
 
 ## Next Stops
 
-Recently, English students have secured internships in numerous fields across many industries, including:
+Students who major in English go on to careers in university and secondary teaching, law, library and information science, editing and publishing, media and the arts, and non-profit organizations. Recently, English students have secured internships in numerous fields across many industries, including:
 
 - Philadelphia Museum of Art
 - Wilma Theater
@@ -18,6 +16,20 @@ Recently, English students have secured internships in numerous fields across ma
 - Comcast SportsNet Philadelphia
 - American Cancer Society
 
+With a rapid increase in newer multimedia technologies and social media to reach a more technology friendly customer and to meet the upward demand for online information, employers are looking for individuals with expertise in writing and editing. Aside from attaining those specific proficiencies, English majors also develop skills such as creativity, clear expression of ideas and persuasiveness, which are attractive to a wide variety of employers and organizations.
+
+### Alumni Career Paths:
+
+- Advertising Copywriter
+- Sports, News, Book Editor
+- Biographer
+- Technical Writer
+- Journalist
+- Sportswriter
+- Foreign Correspondent
+- Media Relations Representative
+- Librarian
+- Public Relations Executive
 
 ## Make Your Declaration
 
