@@ -78,7 +78,7 @@ For more information, please see the Education Abroad [site](https://studyabroad
 
 The Journal of Modern Literature (JML) is a journal of scholarly research covering literature written in the twentieth century and beyond. It is published four times a year, including its annual review issue which consists of approximately 250 reviews, plus thousands of listings of books, articles, and dissertations that appeared during the preceding year. Temple University English professors Morton Levitt (retired) and [Daniel O’Hara](http://www.cla.temple.edu/english/faculty/daniel-ohara/) are two of JML’s Editors; many English faculty are on the Advisory staff.
 
-The editors welcome research-based studies of American, English, and world literature published during the last century. Manuscripts should follow MLA guidelines. For subscription information, visit the [JML website](http://www.jstor.org/page/journal/jmodelite/about.html).
+The editors welcome research-based studies of American, English, and world literature published during the last century. Manuscripts should follow MLA guidelines. For subscription information, visit the [JML website](https://www.jstor.org/journal/jmodelite).
 
 ### Hyphen
 
