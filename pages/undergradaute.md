@@ -79,6 +79,10 @@ Students interested in the Writing Certificate are urged to seek advice on their
 
 English majors with an interest in Creative Writing should consider a Creative Writing concentration. Such a concentration will allow for focused study of a particular genre and will provide good preparation for those students interested in graduate study in Creative Writing. **(LINK TO NEW CREATIVE WRITING UNDERGRAD PAGE ON CREATIVE WRITING PROGRAM PAGE)**
 
+## English 1801: Career Seminar
+
+The career seminar is a one-credit course designed to provide English majors with resources and support to help them make informed decisions about career development and other professional opportunities. The course aims to provide students with the opportunity to meet a range of English majors who can discuss what they have done with their training in the liberal arts, to become familiar with the skills employers are looking for, to revise and edit cover letters and resumes, and to develop a strategy for employment.
+
 ## 4+1 Accelerated B.A./M.A. Degree Program
 
 The 4+1 Accelerated BA/MA Degree Program is open to Temple English Majors and is designed to allow students to graduate with both a master’s degree and an undergraduate B.A. in English within 5 years of matriculating at Temple University. The program is designed for high achieving English majors who have excelled in the first three years of their undergraduate studies, and who seek out the credential of a master’s degree as an aid in teaching, publishing, or writing positions or in acquiring a competitive edge in applying to Ph.D. programs. Students apply during their junior year.
