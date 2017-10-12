@@ -5,6 +5,14 @@ layout: page
 published: true
 ---
 
+## Undergraduate Resources
+
+- [Changing your Major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp) 
+- [Graduation Application Process](http://www.temple.edu/registrar/students/graduation/)
+- [Financing your Education](http://sfs.temple.edu/) 
+- [Undergraduate Policies and Procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
+- [Undergraduate Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/english/)
+
 ### Internships
 
 Internships are becoming an increasingly important part of an education. College graduates today find themselves in diverse workforce settings, and would benefit from hands-on experience and training that strengthen their resume and prepare for a future career. The English Department is dedicated to providing a wealth of internship opportunities for students throughout the University. Internships are made available through the English **3805** course.
@@ -66,6 +74,12 @@ Temple students who successfully complete (with a C- or better) credit-bearing c
 
 For more information, please see the Education Abroad [site](https://studyabroad.temple.edu/sites/temple-summer-in-the-uk-english-culture) and/or the [slideshow](https://sites.temple.edu/snewmanbio/files/2016/08/london-summer-2017-slideshow.pptx) Prof. Newman has put together.
 
+## Journal of Modern Literature
+
+The Journal of Modern Literature (JML) is a journal of scholarly research covering literature written in the twentieth century and beyond. It is published four times a year, including its annual review issue which consists of approximately 250 reviews, plus thousands of listings of books, articles, and dissertations that appeared during the preceding year. Temple University English professors Morton Levitt (retired) and [Daniel O’Hara](http://www.cla.temple.edu/english/faculty/daniel-ohara/) are two of JML’s Editors; many English faculty are on the Advisory staff.
+
+The editors welcome research-based studies of American, English, and world literature published during the last century. Manuscripts should follow MLA guidelines. For subscription information, visit the [JML website](http://www.jstor.org/page/journal/jmodelite/about.html).
+
 ### Hyphen
 
 Hyphen is an interdisciplinary journal, by and for Temple undergraduates, that publishes literature and visual art. To get involved, please contact us at [hyphen@temple.edu](mailto:hyphen@temple.edu) or visit our Facebook page [here](https://www.facebook.com/HyphenLit). Our faculty advisor is Don Lee.
@@ -85,3 +99,36 @@ The Creative Writing Program invites a distinguished novelist (in the fall) and 
 ## DuPlessis Lecture in Poetry and Poetics
 
 The DuPlessis Lecture is named after Professor Emeritus Rachel Blau DuPlessis. DuPlessis is a widely published poet and critic and one of her significant contributions to the field of poetry and poetics is her interweaving of these two practices. Her poetry often speaks to the concerns of her critical work and her critical works often stretch the conventions of the scholarly essay. This lecture series honors DuPlessis’ expansions of literary form, and features poets who write in a number of different registers.
+
+## Graduate Resources
+
+- [Graduate Policies and Procedures](http://www.temple.edu/grad/policies/gradpolicies.htm)
+- [English Graduate Handbook]
+(https://liberalarts.temple.edu/sites/liberalarts/files/English%20Graduate%20Handbook.pdf) 
+
+## Graduate Summer Seminar: Temple Rome
+
+### Program Overview
+
+Temple University Rome offers a four-week graduate seminar designed to bring together the disciplines of aesthetics and cultural studies. In its interdisciplinary thrust, the six-credit seminar is intended to serve as a foundation for advanced study in the human sciences and to reflect the most current trends of thought in post-modern culture. The seminar convenes at Temple University’s campus in Rome.
+
+The Temple Seminars in Art and Culture welcome applications from advanced undergraduate, graduate, and post-doctoral students in fields such as literature, film studies, philosophy, art, and social theory. The seminar entails an intensive program of class work, field trips and guest lectures. The city of Rome is used extensively as a resource. The Villa Caproni overlooks the River Tiber and is located just off the Piazza del Popolo and the Borghese Gardens. Accommodations can be arranged in a Temple student Residenza or students can make their own living arrangements in advance. All classes are taught in English.
+
+### Vision and Rationality
+
+This topic of the seminar focuses on the troubled relation between perception and cognition in three historical moments of Western culture: the Renaissance and the birth of single point perspective; the Baroque and Counter-Reformation; and the postmodern critique of Enlightenment rationality. We speculate about how our culture has been shaped by collaboration and conflict among visual, visionary, ideological and rational ways of knowing the world. The scope of our inquiry embraces literary, philosophical, painterly and cinematic texts.
+
+Among the questions to be raised are: What is the relation between visual and verbal representation? Is the perceptual realm of sight necessarily subordinated to rationality? What is the place of visual representation in the tug-of-war between imaginary and real spheres of being? What historical and ideological exchanges between vision and rationality continue to affect our social and political orders? What role does aesthetics play in the making of a public sphere?
+
+For more detailed information on program specifics, including the dates of the seminar, a prospective reading list, and scholarships, visit [Temple’s Education Abroad website](http://studyabroad.temple.edu/sites/temple-rome-graduate-summer), or contact the program director:
+
+Dr. Alan Singer<br>
+954 Anderson Hall<br> 
+[alan.singer@temple.edu](mailto:alan.singer@temple.edu)<br>
+[(215) 870-8704](tel:2158708704)
+
+## Graduate English Association
+
+The [Graduate English Association (GEA)](http://sites.temple.edu/gradenglish/about/) is an organization for all graduate students in the English department, regardless of program (Literature or Creative Writing) or funding status (TA, GA, fellowship, or otherwise).
+
+The organization conducts regular monthly meetings, and its purpose is to make recommendations to the faculty on departmental issues (instructor training, program changes, etc.) and to enrich the graduate experience with developmental workshops and social events.
