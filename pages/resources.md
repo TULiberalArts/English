@@ -72,7 +72,7 @@ _Embark on this exciting study abroad program for the opportunity to:_
 
 Temple students who successfully complete (with a C- or better) credit-bearing coursework worth at least three semester hours in this program will satisfy the World Society (GG) requirement.
 
-For more information, please see the Education Abroad [site](https://studyabroad.temple.edu/sites/temple-summer-in-the-uk-english-culture) and/or the [slideshow](https://sites.temple.edu/snewmanbio/files/2016/08/london-summer-2017-slideshow.pptx) Prof. Newman has put together.
+For more information, please see the Education Abroad [site](https://studyabroad.temple.edu/) and/or the [slideshow](https://sites.temple.edu/snewmanbio/files/2016/08/london-summer-2017-slideshow.pptx) Prof. Newman has put together.
 
 ## Journal of Modern Literature
 
