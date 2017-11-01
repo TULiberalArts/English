@@ -60,11 +60,23 @@ The 4+1 Accelerated BA/MA Degree Program allows English majors to graduate with 
 In addition to fulfilling all the requirements for the BA in English by the end of your senior year, students in the 4+1 Accelerated BA/MA Degree Program must complete all of the following requirements for the MA in English by the end of your fifth year. The complete list of requirements are listed below. 
 
 - **9 English graduate courses (27 credits)**: One of which must be at the advanced level (8000-9000)
-- **3 graduate courses in the fourth or senior year**: These 3 graduate courses will substitute for 3 required courses for the undergraduate major. We recommend students take Eng 9001: Introduction to Graduate Studies or enroll in an alternate Eng 5000-7000 level course. In the spring semester, students take two courses that should also be at the 5000-7000 level. The 3 graduate courses taken senior year substitute for one of the required undergraduate 2000-level courses, and 2 of the required 3000-level courses. 
+- **3 graduate courses in the fourth or senior year**: These 3 graduate courses will substitute for 3 required courses for the undergraduate major. We recommend students take Eng 9001: Introduction to Graduate Studies or enroll in an alternate Eng 5000-7000 level course. In the spring semester, students take two courses that should also be at the 5000-7000 level. The 3 graduate courses taken senior year substitute for one of the required undergraduate 2000 level courses, and 2 of the required 3000 level courses. 
 - **6 graduate English courses in their fifth or MA year** 
-- **English 9996: Masters Essay (3 credits)**:  Students take this course in the Spring semester of fifth year.
-- Masters Qualifying Essay.
-- Language Requirement.
+- **English 9996: Masters Essay (3 credits)**: Student work under the guidance of a faculty mentor on the Masters Qualifying Essay and submit the Qualifying Essay by the Spring semester deadline for acceptance.
+- **Masters Qualifying Essay**: The Qualifying Essay is typically a substantial revision of a paper submitted for a course and is written in the final semester under the guidance of a faculty mentor, who also approves the essay for submission. The Qualifying Essay demonstrates the student’s ability to write perceptively, lucidly, and at length (4,000-6,000 words) on a literary subject, and is due in the final semester by a date specified in the Graduate English Calendar.
+- **Language Requirement**: Students are required to demonstrate reading knowledge of one foreign language by either passing a translation exam or completing 6 credits of language courses beyond the intermediate language level in either the fourth or fifth year of the program.
+
+### Application Requirements
+Students interested in the “4+1” Accelerated B.A./M.A. Degree Program should apply for admission in the spring semester of their junior year. Applications are due to the English Graduate Office by March 15th, and a decision will be provided to the applicant by April 1st.
+
+Students admitted to the accelerated M.A. program will have demonstrated exceptional achievement in their coursework during the first 5 semesters at Temple University. Prospective applicants to the program should be English majors who are able to complete the undergraduate English B.A. in four years. However, in rare instances, a student who will be able to complete the requirements of the English major in the course of a five year program will be allowed to enter the B.A./M.A. program.  Eligibility is limited to students who will be able to complete both the B.A. and M.A. in five years; transfer students who will be able to complete both programs in five years are eligible to apply.
+
+
+- Undergraduate GPA in English of at least 3.8
+- Overall GPA of at least 3.5 in at least 45 credits of coursework taken at Temple.
+- Completion of required 2000 level courses (English 2097, English 2201, English 2202, English 2301, English 2302) by the end of junior year. Of the additional two elective 2000 level courses, students with a maximum of 1 elective 2000 level course left to complete senior year may be admitted to the program.
+- Students must complete at least 21 of the the 36 required credits for the BA in English for admission consideration.
+- Students who complete more than 24 credits required for the English major in the Spring semester of junior year are given preference in the admissions process.
 
 ## English 1801: Career Seminar
 The career seminar is a one-credit course designed to provide English majors with resources and support to help them make informed decisions about career development and other professional opportunities. The course aims to provide students with the opportunity to meet a range of English majors who can discuss what they have done with their training in the liberal arts, to become familiar with the skills employers are looking for, to revise and edit cover letters and resumes, and to develop a strategy for employment.
