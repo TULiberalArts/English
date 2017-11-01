@@ -52,10 +52,19 @@ The Writing Certificate option allows students enrolled in Temple programs to fo
 ## Creative Writing Concentration 
 If writing is your passion, Temple’s Department of English offers a BA in English with a Concentration in Creative Writing. Our students are immersed in poetry and fiction and gain experience writing in different genres. Prominent and award-winning writers lead Temple’s undergraduate Creative Writing program - students work closely with faculty to become better writers and readers. We recommend Creative Writing Concentration students focus on either poetry, fiction or screenwriting. 
 
-[Learn More about Majoring in English with a Concentration in Creative Writing](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english-creative-writing/)
+Learn More about Majoring in English with a Concentration in Creative Writing (will need link) 
 
 ## 4+1 Accelerated BA/MA Degree Program
+The 4+1 Accelerated BA/MA Degree Program allows English majors to graduate with both a BA and MA in 5 years. We designed the program for high-achieving English majors who excel during their first three years at the Department of English, and who seek out the added credential of a master's degree. Having an MA in English is helpful for teaching, publishing and writing positions - the 4+1 program also provides applicants a competitive edge when applying to PhD programs. If you are interested in the  4+1 Accelerated BA/MA Degree Program, you will apply during your junior year. 
 
+In addition to fulfilling all the requirements for the BA in English by the end of your senior year, students in the 4+1 Accelerated BA/MA Degree Program must complete all of the following requirements for the MA in English by the end of your fifth year. The complete list of requirements are listed below. 
+
+- **9 English graduate courses (27 credits)**: One of which must be at the advanced level (8000-9000)
+- **3 graduate courses in the fourth or senior year**: These 3 graduate courses will substitute for 3 required courses for the undergraduate major. We recommend students take Eng 9001: Introduction to Graduate Studies or enroll in an alternate Eng 5000-7000 level course. In the spring semester, students take two courses that should also be at the 5000-7000 level. The 3 graduate courses taken senior year substitute for one of the required undergraduate 2000-level courses, and 2 of the required 3000-level courses. 
+- **6 graduate English courses in their fifth or MA year** 
+- **English 9996: Masters Essay (3 credits)**:  Students take this course in the Spring semester of fifth year.
+- Masters Qualifying Essay.
+- Language Requirement.
 
 ## English 1801: Career Seminar
 The career seminar is a one-credit course designed to provide English majors with resources and support to help them make informed decisions about career development and other professional opportunities. The course aims to provide students with the opportunity to meet a range of English majors who can discuss what they have done with their training in the liberal arts, to become familiar with the skills employers are looking for, to revise and edit cover letters and resumes, and to develop a strategy for employment.
