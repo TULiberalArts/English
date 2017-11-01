@@ -2,10 +2,16 @@
 title: Home
 permalink: /
 layout: home
+description: >-
+  Study English Lit at Temple University in Philadelphia - a world-class city for the arts. 
+keywords: >-
+  MA in English Literature, BA in English, Minor in English, Temple Department of English
 published: true
-feature: false
+feature: true
 feature-title: null
 feature-image: null
+feature-body: >- 
+  Our classes topics that range from Shakespeare in movies to depictions of race in literature from distinguished and internationally     renown faculty.
 ---
 ## Why Study English Literature?
 Powerful, persuasive writing, sharp analytic skills, and creative, flexible thinking are essential abilities for tomorrow’s leaders and professionals. Courses in Temple's Department of English cultivate these abilities through the study of the language, literatures, and cultures of the United States, Britain, the English-speaking world, and beyond. Our classes teach students to think and write with clarity and imagination, to think deeply and innovatively, and to conduct research with curiosity and attention to detail. Both our undergraduate and graduate programs go on to lead rich lives as professionals, members of their communities and global citizens. 
