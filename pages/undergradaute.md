@@ -35,10 +35,14 @@ sidebar-content: |
    [logansd@temple.edu](mailto:logansd@temple.edu)
 ---
 ## Major in English at Temple
-A BA in English not only prepares you for graduate-level study in English literature and other academic fields, but also prepares you for careers in fields that include advertising, business, education, law and government. English majors become critical and reflective readers, aware of the history and development of writing in English. They are also strong, inventive writers who are able to analyze problems, do careful and innovative research, argue and evaluate the arguments of others. Courses in the English Department explore past and present
-artistic, literary, linguistic, and social movements and their aftermaths. Learn about topics that range from Shakespeare in movies to depictions of race in literature from distinguished and internationally renown faculty. Like all undergraduate programs in the College of Liberal Arts, majoring in English teaches you how to think creatively and critically, solve problems and cultivate social intelligence. 
+A BA in English not only prepares you for graduate-level study in English literature and other academic fields, but also prepares you for careers in fields that include advertising, business, education, law and government. English majors become critical and reflective readers, aware of the history and development of writing in English. They are also strong, inventive writers who are able to analyze problems, do careful and innovative research, argue and evaluate the arguments of others. Courses in the English Department explore past and present artistic, literary, linguistic, and social movements and their aftermaths. Learn about topics that range from Shakespeare in movies to depictions of race in literature from distinguished and internationally renown faculty. Like all undergraduate programs in the College of Liberal Arts, majoring in English teaches you how to think creatively and critically, solve problems and cultivate social intelligence. 
 
-Learn More about Majoring in English
+[Learn More about Majoring in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english/)
+
+## Minor in English
+The Minor in English is an excellent way to extend the breadth of your education and experience the rich history of English, American and global literature. Whether you plan to become a lawyer, a scientist or a doctor, minoring in English helps you develop strong analytical thinking and writing skills. As a result, the English minor gives you better leverage in the job search or in graduate admissions after college. English Minors take introduction courses to English, American and Global literature in addition to a course in interpreting literature that teaches rigorous methods of literary analysis and critical thinking. 
+
+[Learn More about Minoring in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/minor-english/)
 
 ## Certificate in Writing
 The Writing Certificate option allows students enrolled in Temple programs to focus their attention on the skills and theory of writing. Because it is not a degree program, the Writing Certificate is only available to matriculated Temple students who are already pursuing an undergraduate degree with the university. Students earn the Certificate by receiving an average of B or above in five of the writing courses listed below, including at least one from each of the three certificate areas: **Advanced Expository and Professional Writing, Creative Writing, and Writing Theory**. See programs details and course requirements in the [Undergraduate Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/english/certificate-writing/.) 
@@ -50,5 +54,3 @@ English majors with an interest in Creative Writing should consider a Creative W
 
 ## English 1801: Career Seminar
 The career seminar is a one-credit course designed to provide English majors with resources and support to help them make informed decisions about career development and other professional opportunities. The course aims to provide students with the opportunity to meet a range of English majors who can discuss what they have done with their training in the liberal arts, to become familiar with the skills employers are looking for, to revise and edit cover letters and resumes, and to develop a strategy for employment.
-
-
