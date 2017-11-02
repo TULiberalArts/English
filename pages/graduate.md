@@ -34,40 +34,21 @@ sidebar-content: |
    [(215) 204-1796](tel:2152041796)   
    [logansd@temple.edu](mailto:logansd@temple.edu)
 ---
+## Earn Your MA or PhD in English
 
-## Graduate Overview of Programs
+## MA in English
 
-The Ph.D. program features faculty teaching a wide range of courses in all historical periods of British and American literature, Anglophone literature, and critical and cultural theory. The program is designed to give students a solid grounding in the methods of literary study and a broad perspective on literary production and meaning. The program balances theoretical sophistication with historical scope and methodological variety. The Literature faculty is strong in traditional areas of literary scholarship with concentrations in criticism, literary forms and periods, cultural studies, rhetoric and composition. Our aim is to produce students who will write publishable dissertations and pursue productive careers as scholar-teachers. In addition to challenging course work, students receive attentive mentoring from individual faculty members assigned to entering students in their first semester. Course work is usually completed in two to three years. The dissertation is expected within six years. The program requirements include completion of course work (14 courses), written and oral preliminary exams, and completion and defense of the dissertation.
+## PhD in English
 
-For students who are unclear about their desires to enter the doctoral program, we offer a two-year, 30-credit M.A. program. In pursuit of the M.A. degree, students will take a range of courses grounding them in traditional literary periods and theoretical approaches to literature. The M.A. culminates in a qualifying paper developed out of course work. Temple M.A.s in English find employment at the high school or preparatory school, in editing or publishing, or as professional writers; they also go on to doctoral study at Temple and other institutions.
-
-Our M.F.A. degree in Creative Writing is a two-year, 33-credit program in either fiction or poetry. The Creative Writing faculty includes nationally recognized writers in poetry, fiction, and nonfiction. The writing component features small, intensive workshops, supplemented by one-on-one tutorials and courses in literature and the craft of writing. The program culminates in a thesis. Temple M.F.A.s in Creative Writing find employment as writers, teachers, publicists, writing consultants, or publishers; they also go on to doctoral study in English or other disciplines.
-
-## Academic Offerings
-
-- [Ph.D. in English](http://www.cla.temple.edu/english/graduate/ph-d-in-english/)
-- [M.A. in English](http://www.cla.temple.edu/english/graduate/ma-in-english/)
-- [4+1 Accelerated B.A./M.A. Degree Program in English](http://www.cla.temple.edu/english/undergraduate/41-accelerated-b-a-m-a-degree-program/)
-- [M.F.A. in Creative Writing](http://www.cla.temple.edu/english/mfa/)
-
-## Admissions Process
-
-**Applicants to the English Ph.D. and English M.A. programs should follow the instructions below. Applicants to the Creative Writing M.F.A. program should see below and follow those applications instructions.**
-
-For questions about any of the English graduate programs, please call: (215) 204-1796 or email [eng1grad@temple.edu](mailto:eng1grad@temple.edu).
-
-## Application Deadline
-
-The deadline for applications is **December 15** for those students applying for funding (i.e. teaching fellowships). We will continue to accept applications until February 15.
+## Study Abroad in Rome
+The Rome Seminar in Art and Culture is offered in the Summer term at Temple University's Rome campus, the Villa Caproni. This 6-credit graduate seminar is designed to bring together the disciplines of aesthetics and cultural studies. In its interdisciplinary thrust, the seminar is intended to serve as a foundation for advanced study in the human sciences and to reflect the most current trends of thought in post-modern culture. Applications are welcome from advanced undergraduate, graduate, and postdoctoral students in fields such as art, film studies, literature, philosophy, and social theory. The seminar entails an intensive program of classwork, field trips, and guest lectures. The city of Rome is used extensively as a resource. Accommodations are available in a Temple student Residenza or through student-arranged living accommodations in advance. All classes are taught in English.
 
 ## Prerequisites for Admission to the M.A. and Ph.D. Programs
-
 To be accepted into the M.A. or Ph.D. programs, a student should have the equivalent of an undergraduate concentration in English with broad chronological coverage and a strong record of achievement. Applicants are required to declare their terminal degree at the time of application, although Ph.D. students can choose to stop at the Master’s degree.
 
 ## Application Process
 
 1. **Begin by applying online to Temple University Graduate School:** 
-
 [http://www.temple.edu/apply/common/appcheck.asp](http://www.temple.edu/apply/common/appcheck.asp). You can track your application using the nine digit TUid number issued to you once you have submitted your application, along with the PIN number you receive.  You will need your ID number and PIN in order to log onto the system.
 
 2. **Submission of Supporting Materials: Supporting materials can be submitted in several ways.**
@@ -84,7 +65,6 @@ Anderson Hall, 10th Floor
 Philadelphia, PA 19122-6090
 
 3. **Assembling your application:**
-
 **3A. Test Scores:** Please make sure that you schedule the GRE and LITERATURE subject exam (for PhD and MA in Literature) as soon as possible so that your scores will be received by the December 15th deadline.  Your GRE scores (and TOEFL scores if required) should be sent to Temple University electronically by ETS. Scores are good for five years from date of test. Foreign applicants: TOEFL scores (minimum score 620).
 
 **3B.** Transcripts: Two copies of all your transcripts must be submitted, one official copy by mail, and one unofficial copy electronically.
@@ -118,14 +98,12 @@ Philadelphia, PA 19122-6090
 
 4D.  Check out and complete the electronic delivery.
 
-## M.F.A. in Creative Writing
+## Application Deadline
+The deadline for applications is **December 15** for those students applying for funding (i.e. teaching fellowships). We will continue to accept applications until February 15.
 
-### Immerse Yourself in the Art of Writing
 
-Our M.F.A. students work closely with faculty in fiction and poetry over the course of two years, participating in small workshops and one-on-one tutorials, as well as special topics, literature, and craft classes. Students can also take electives in theater, film, and other graduate programs throughout the university. ****(LINK TO CREATIVE WRITING WEBSITE, GRADUATE PAGE)****
-
-## Ph.D. in English
-
-The Department of English houses a doctoral program to which applicants with a B.A. can be admitted directly, that is, without first earning a master’s degree. Applicants are required to declare an intention to proceed toward the Ph.D., although they can still receive an M.A. along the way or choose to stop at the M.A. The Department also accepts applications to the doctoral program from applicants who have earned an M.A. elsewhere.
-
-For information on how to apply to the Ph.D. program, please visit the [Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/english-phd/#admissiontext).
+## Academic Offerings
+- [Ph.D. in English](http://www.cla.temple.edu/english/graduate/ph-d-in-english/)
+- [M.A. in English](http://www.cla.temple.edu/english/graduate/ma-in-english/)
+- [4+1 Accelerated B.A./M.A. Degree Program in English](http://www.cla.temple.edu/english/undergraduate/41-accelerated-b-a-m-a-degree-program/)
+- [M.F.A. in Creative Writing](http://www.cla.temple.edu/english/mfa/)
