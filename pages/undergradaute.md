@@ -52,7 +52,7 @@ The Writing Certificate option allows students enrolled in Temple programs to fo
 ## Creative Writing Concentration 
 If writing is your passion, Temple’s Department of English offers a BA in English with a Concentration in Creative Writing. Our students are immersed in poetry and fiction and gain experience writing in different genres. Prominent and award-winning writers lead Temple’s undergraduate Creative Writing program - students work closely with faculty to become better writers and readers. We recommend Creative Writing Concentration students focus on either poetry, fiction or screenwriting. 
 
-Learn More about Majoring in English with a Concentration in Creative Writing (will need link) 
+Learn More about Temple's Creative Writing Concentration(will need link) 
 
 ## Career Seminar
 The Department of English has both a well-established internship program and a popular Career Seminar that prepares English majors for life after graduation. The 1 credit course provides our students with resources designed to support career development. English majors meet alumni who discuss how they've used their training at the College of Liberal after graduation. The course familiarizes students with the skills employers look for and also offers instruction in editing cover letters, resumes and job search strategy. 
@@ -60,6 +60,9 @@ The Department of English has both a well-established internship program and a p
 ## Hyphen Interdisciplinary Journal
 ![Creative Writing Undergrads at Temple University]({{site.baseurl}}/media/undergrad-creative-writing.jpg){:.img-right}
 Hyphen is Temple University’s only undergraduate student literary magazine. Founded by Professor Jena Osman twelve years ago, the journal has published close to 400 fiction writers, poets and visual artists. We release a print magazine every spring, and also host open mic nights and other events to support Temple’s literary and artistic community. To get involved, please contact us at [hyphen@temple.edu](mailto:hyphen@temple.edu) or visit our Facebook page [here](https://www.facebook.com/HyphenLit). 
+
+## Study Abroad in England
+
 
 ## Academic Advising and Professional Development
 Take full advantage of the [College of Liberal Arts](https://liberalarts.temple.edu/)’ flexible curriculum with the help of our award-winning advisors. We help you select a major or a minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with internships, study abroad programs and other experiential learning opportunities.
@@ -85,7 +88,7 @@ Ready to apply? [Submit your application online](http://admissions.temple.edu/ap
 ## Academic Offerings
 [BA in English with a Concentration in Creative Writing](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english-creative-writing/#text)
 
-### Temple Admissions Deadlines
+## Temple Admissions Deadlines
 - **Feb. 1**: Freshman Application Deadline for Fall Semester
 - **March 1**: FAFSA Financial Aid Application Deadline
 - **Nov. 1**: Transfer Deadline for Spring Semester
