@@ -35,9 +35,10 @@ sidebar-content: |
    [logansd@temple.edu](mailto:logansd@temple.edu)
 ---
 ## Earn Your MA or PhD in English
-Temple offers MA and PhD programs in English that prides itself on providing students the advantages of the resources of a Research I institution in an energetic urban environment. Students are encouraged to engage in serious interdisciplinary projects and work closely with a faculty member engaged in research and publications projects that take them regularly into the areas of History, Philosophy, Psychology, the arts, and non-print media. Foundational courses provide the broad background needed for independent research, while our advanced graduate classes allow students to engage with cutting-edge faculty research. Special topics courses cover  Feminist Rhetoric of Science, Joyce and Lacan, Literary Aesthetics, Photography and Literature, Fetishism and the 19th Century Imagination, Transatlantic Feminist Theory and Queer Poetry and Poetics. 
+Temple University's MA and PhD programs in English offer students the advantages of the resources of a Research I institution in an energetic urban environment. Students are encouraged to engage in serious interdisciplinary projects and work closely with a faculty member engaged in research and publications projects that take them regularly into the areas of History, Philosophy, Psychology, the arts, and non-print media. Foundational courses provide the broad background needed for independent research, while our advanced graduate classes allow students to engage with cutting-edge faculty research. Special topics courses cover  Feminist Rhetoric of Science, Joyce and Lacan, Literary Aesthetics, Photography and Literature, Fetishism and the 19th Century Imagination, Transatlantic Feminist Theory and Queer Poetry and Poetics. We are affiliated with the Association of Departments of English (ADE) and the Modern Language Association (MLA).
 
 ## MA in English
+The English program enjoys a high reputation for teaching and research in both traditional and innovative areas of literary history and literary criticism. 
 
 
 ## PhD in English
