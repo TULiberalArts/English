@@ -2,6 +2,10 @@
 title: Graduate
 permalink: /graduate/
 layout: page
+description: >-
+  Earn an MA or PhD in English from Temple University. We excel in 18th and 19th century literature as well as contemporary literature.
+keywords: >-
+  MA in English Literature, PhD in English, Temple Department of English
 published: true
 sidebar: true
 sidebar-content: |
@@ -10,23 +14,23 @@ sidebar-content: |
    1042 Anderson Hall  
    [(215) 204-7516](tel:2152047516)  
    [khenry@temple.edu](mailto:khenry@temple.edu)  
-   
+
    ___
-   
+
    **Graduate Chair:**  
    Steve Newman  
    938 Anderson Hall  
    [(215) 204-3181](tel:2152043181)  
    [snewman@temple.edu](mailto:snewman@temple.edu)  
-   
+
    ___
-   
+
    **Administrator:**  
    Stephanie Morawski  
    1041 Anderson Hall   
    [(215) 204-8516](tel:2152048516)  
    [morawski@temple.edu](mailto:morawski@temple.edu)  
-   
+
    ___
 
    **Coordinator:**  
@@ -35,10 +39,10 @@ sidebar-content: |
    [logansd@temple.edu](mailto:logansd@temple.edu)
 ---
 ## Earn Your MA or PhD in English
-Temple University's MA and PhD programs in English offer students the advantages of the resources of a Research I institution in an energetic urban environment. Both the MA and PhD programs in English provide options for intensive study in critical theory, cultural theory, film theory, interdisciplinary methods, minority literature and women’s studies. Traditional areas of study include Renaissance, eighteenth-century, nineteenth-century, modern and contemporary literature, as well as rhetoric and composition. Students are encouraged to engage in serious interdisciplinary projects and work closely with a faculty member engaged in research and publications projects that take them regularly into the arts, history, non-print media, philosophy and psychology. We are affiliated with the Association of Departments of English (ADE) and the Modern Language Association (MLA). 
+Temple University's MA and PhD programs in English offer students the advantages of the resources of a Research I institution in an energetic urban environment. Both the MA and PhD programs in English provide options for intensive study in critical theory, cultural theory, film theory, interdisciplinary methods, minority literature and women’s studies. Traditional areas of study include Renaissance, eighteenth-century, nineteenth-century, modern and contemporary literature, as well as rhetoric and composition. Students are encouraged to engage in serious interdisciplinary projects and work closely with a faculty member engaged in research and publications projects that take them regularly into the arts, history, non-print media, philosophy and psychology. We are affiliated with the Association of Departments of English (ADE) and the Modern Language Association (MLA).
 
 ## MA in English
-If you want to earn only a master's degree or you want to explore education at the graduate level before you commit to a PhD program, the Department of English offers an MA in English program. Temple's graduate programs in English enjoy are highly regarded for teaching and research in both traditional and innovative areas of literary history and literary criticism. The MA in English program provides options for intensive study in critical theory, cultural theory, film theory, interdisciplinary methods, minority literature, and women’s studies. If at any point in the program you choose to apply and are accepted for Temple's PhD in English program, all the credits you earn are transferable. Graduates from our MA program find employment in high schools or preparatory schools, in editing or publishing, or as professional writers. Others go on to doctoral study at Temple and other institutions. Funding is not ordinarily available for this degree. 
+If you want to earn only a master's degree or you want to explore education at the graduate level before you commit to a PhD program, the Department of English offers an MA in English program. Temple's graduate programs in English enjoy are highly regarded for teaching and research in both traditional and innovative areas of literary history and literary criticism. The MA in English program provides options for intensive study in critical theory, cultural theory, film theory, interdisciplinary methods, minority literature, and women’s studies. If at any point in the program you choose to apply and are accepted for Temple's PhD in English program, all the credits you earn are transferable. Graduates from our MA program find employment in high schools or preparatory schools, in editing or publishing, or as professional writers. Others go on to doctoral study at Temple and other institutions. Funding is not ordinarily available for this degree.
 
 [Learn More about the MA in English](http://bulletin.temple.edu/graduate/scd/cla/english-ma/)
 
@@ -56,7 +60,7 @@ For more than 130 years, we have focused on providing a world-class education at
 ## How to Apply
 To be accepted into the MA or PhD programs, a student should have the equivalent of an undergraduate concentration in English with broad chronological coverage and a strong record of achievement. Applicants are required to declare their terminal degree at the time of application, although Ph.D. students can choose to stop at the Master’s degree.
 
-1. **Begin by applying online to Temple University Graduate School:** 
+1. **Begin by applying online to Temple University Graduate School:**
 [http://www.temple.edu/apply/common/appcheck.asp](http://www.temple.edu/apply/common/appcheck.asp). You can track your application using the nine digit TUid number issued to you once you have submitted your application, along with the PIN number you receive.  You will need your ID number and PIN in order to log onto the system.
 
 2. **Submission of Supporting Materials: Supporting materials can be submitted in several ways.**
