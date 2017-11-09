@@ -35,10 +35,13 @@ sidebar-content: |
    [logansd@temple.edu](mailto:logansd@temple.edu)
 ---
 ## Earn Your MA or PhD in English
+Temple offers MA and PhD programs in English that prides itself on providing students the advantages of the resources of a Research I institution in an energetic urban environment. Students are encouraged to engage in serious interdisciplinary projects and work closely with a faculty member engaged in research and publications projects that take them regularly into the areas of History, Philosophy, Psychology, the arts, and non-print media. Foundational courses provide the broad background needed for independent research, while our advanced graduate classes allow students to engage with cutting-edge faculty research. Special topics courses cover  Feminist Rhetoric of Science, Joyce and Lacan, Literary Aesthetics, Photography and Literature, Fetishism and the 19th Century Imagination, Transatlantic Feminist Theory and Queer Poetry and Poetics. 
 
 ## MA in English
 
+
 ## PhD in English
+The PhD program features faculty teaching a wide range of courses in all historical periods of British and American literature, Anglophone literature, and critical and cultural theory. The program is especially strong in 19th and 20 century studies.  It also emphasizes training in Composition and Rhetoric. Graduates with a PhD typically go on to careers in college teaching and related fields.  We also offer a two-year, 30-credit M.A. program. Temple M.A.s in English find employment in high schools or preparatory schools, in editing or publishing, or as professional writers; they also go on to doctoral study at Temple and other institutions. Please see the main description of the program here. 
 
 ## Study Abroad in Rome
 The Rome Seminar in Art and Culture is offered in the Summer term at Temple University's Rome campus, the Villa Caproni. This 6-credit graduate seminar is designed to bring together the disciplines of aesthetics and cultural studies. In its interdisciplinary thrust, the seminar is intended to serve as a foundation for advanced study in the human sciences and to reflect the most current trends of thought in post-modern culture. Applications are welcome from advanced undergraduate, graduate, and postdoctoral students in fields such as art, film studies, literature, philosophy, and social theory. The seminar entails an intensive program of classwork, field trips, and guest lectures. The city of Rome is used extensively as a resource. Accommodations are available in a Temple student Residenza or through student-arranged living accommodations in advance. All classes are taught in English.
