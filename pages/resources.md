@@ -39,6 +39,7 @@ Bryn Mawr can be easily reached via public transportation by taking the Paoli/Th
 - [Undergraduate Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/english/)
 
 ## Graduate Resources
+- [Graduate FAQ's](https://liberalarts.temple.edu/sites/liberalarts/files/English-.FAQs_.final_.pdf)
 - [Graduate Handbook](http://www.temple.edu/grad/policies/gradpolicies.htm)
 - [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm)
 - [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
