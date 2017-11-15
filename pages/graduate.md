@@ -17,11 +17,11 @@ sidebar-content: |
 
    ___
 
-   **Graduate Chair:**  
-   Steve Newman  
-   938 Anderson Hall  
-   [(215) 204-3181](tel:2152043181)  
-   [snewman@temple.edu](mailto:snewman@temple.edu)  
+   **Director of Graduate Studies:**  
+   Miles Orvell  
+   022-29 Anderson Hall  
+   [(215) 204-1796](tel:2152041796)  
+   [orvell@temple.edu](mailto:orvell@temple.edu)  
 
    ___
 
