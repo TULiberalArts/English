@@ -70,10 +70,10 @@ For more than 130 years, we have focused on providing a world-class education at
 ## Admission Requirements
 Applicants to the MA or PhD in English should have the equivalent of an undergraduate concentration in English with broad chronological coverage and a strong record of achievement. You must declare whether you plan on stopping after you finish your master's or doctorate degree when you apply. However, MA students sometimes choose to apply to our PhD program and PhD students sometimes choose to stop after a master's degree. If you are accepted to our MA program, you may choose to apply to the PhD program. Any credits you earn as an MA student are transferable toward your PhD. We accept from 10 to 20 students each year, and typically 5 to 10 students enroll. Applicants to the Creative Writing MFA program should follow the instructions on Temple's Creative Writing website (link). 
 
-Learn How to Apply to Our Graduate Programs in English (link) 
+[Learn How to Apply to Our Graduate Programs in English](https://liberalarts.temple.edu/admissions/graduate/english)
 
 ## Application Deadline
-The deadline for applications is **December 15** for those students applying for funding (i.e. teaching fellowships). We will continue to accept applications until February 15.
+The deadline for applications is **December 15** for those students applying for funding (i.e. teaching fellowships). We continue to accept applications until February 15.
 
 ## Academic Offerings
 - [MA in English](http://bulletin.temple.edu/graduate/scd/cla/english-ma/)
