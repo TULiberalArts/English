@@ -52,7 +52,9 @@ Temple's PhD in English program features faculty teaching a wide range of course
 Following course work, students generally choose a concentration in one or two of our main areas of strength, each of which will prepare them to teach and do research in the field:   British Literature; American Literature; Postcolonial and Global Literatures; Ethnic and African American Literatures; Literature and Visual Studies; Critical and Cultural Theories; Poetry and Poetics;  Gender and Sexuality; Composition and Rhetoric. Our PhD in English takes anywhere from 5-7 years to finish, depending on whether you already have an master's degree and whether you have fellowship support, teaching responsibilities and other factors. 
 
 ## Study Abroad in Rome
-The Rome Seminar in Art and Culture is offered in the Summer term at Temple University's Rome campus, the Villa Caproni. This 6-credit graduate seminar is designed to bring together the disciplines of aesthetics and cultural studies. In its interdisciplinary thrust, the seminar is intended to serve as a foundation for advanced study in the human sciences and to reflect the most current trends of thought in post-modern culture. Applications are welcome from advanced undergraduate, graduate, and postdoctoral students in fields such as art, film studies, literature, philosophy, and social theory. The seminar entails an intensive program of classwork, field trips, and guest lectures. The city of Rome is used extensively as a resource. Accommodations are available in a Temple student Residenza or through student-arranged living accommodations in advance. All classes are taught in English.
+The Rome Seminar in Art and Culture is offered in the Summer term at Temple University's Rome campus, the Villa Caproni. The interdisciplinary seminar serves as a foundation for advanced study in the human sciences and reflects the most current trends of though in post-modern culture. Graduate and post-doctoral students in literature, film studies, philosophy, art and social theory are welcome to apply. The seminar, taught in English, entails an intensive program of class work, field trips and guest lectures and uses the Rome extensively as a resource. 
+
+[Learn More about the Rome Seminar in Art and Culture](https://studyabroad.temple.edu/sites/temple-rome-graduate-summer)
 
 ## Graduate English Association
 The [Graduate English Association](http://www.cla.temple.edu/english/graduate/graduate-english-association/) (GEA) is an organization for all graduate students in the English department, regardless of program (Literature or Creative Writing) or funding status (fellowship, GA, TA or otherwise). The organization conducts regular monthly meetings, and its purpose is to make recommendations to the faculty on departmental issues (instructor training, program changes, etc.) and to enrich the graduate experience with developmental workshops and social events.
@@ -69,7 +71,7 @@ Applicants to the MA or PhD in English should have the equivalent of an undergra
 [Learn How to Apply to Our Graduate Programs in English](https://liberalarts.temple.edu/admissions/graduate/english)
 
 ## Application Deadline
-The deadline for applications is **December 15** for those students applying for funding (i.e. teaching fellowships). We continue to accept applications until February 15.
+The deadline for applications is **December 15** for those students applying for funding (i.e. teaching fellowships). We accept applications until February 15.
 
 ## Academic Offerings
 - [MA in English](http://bulletin.temple.edu/graduate/scd/cla/english-ma/)
