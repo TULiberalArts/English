@@ -39,7 +39,7 @@ sidebar-content: |
    [logansd@temple.edu](mailto:logansd@temple.edu)
 ---
 ## Major in English at Temple
-![Department of English Undergraduates]({{site.baseurl}}/media/english-undergraduates.jpg){:.img-right}
+![Department of English Undergraduates]({{site.baseurl}}/media/temple-undergrad-english.jpg){:.img-right}
 A BA in English not only prepares you for graduate-level study in English literature and other academic fields, but also prepares you for careers in fields that include advertising, business, education, law and government. English majors become critical and reflective readers, aware of the history and development of writing in English. They are also strong, inventive writers who are able to analyze problems, do careful and innovative research, argue and evaluate the arguments of others. Courses in the English Department explore past and present artistic, literary, linguistic, and social movements and their aftermaths. Learn about topics that range from Shakespeare in movies to depictions of race in literature from distinguished and internationally renown faculty. Like all undergraduate programs in the College of Liberal Arts, majoring in English teaches you how to think creatively and critically, solve problems and cultivate social intelligence.
 
 [Learn More about Majoring in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english/)
