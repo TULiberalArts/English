@@ -39,6 +39,7 @@ sidebar-content: |
    [logansd@temple.edu](mailto:logansd@temple.edu)
 ---
 ## Major in English at Temple
+![Department of English Undergraduates]({{site.baseurl}}/media/english-undergraduates.jpg){:.img-right}
 A BA in English not only prepares you for graduate-level study in English literature and other academic fields, but also prepares you for careers in fields that include advertising, business, education, law and government. English majors become critical and reflective readers, aware of the history and development of writing in English. They are also strong, inventive writers who are able to analyze problems, do careful and innovative research, argue and evaluate the arguments of others. Courses in the English Department explore past and present artistic, literary, linguistic, and social movements and their aftermaths. Learn about topics that range from Shakespeare in movies to depictions of race in literature from distinguished and internationally renown faculty. Like all undergraduate programs in the College of Liberal Arts, majoring in English teaches you how to think creatively and critically, solve problems and cultivate social intelligence.
 
 [Learn More about Majoring in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english/)
@@ -54,7 +55,6 @@ The Writing Certificate option allows students enrolled in Temple programs to fo
 [Learn More about the Writing Certificate](http://bulletin.temple.edu/undergraduate/liberal-arts/english/certificate-writing/)
 
 ## Creative Writing Concentration
-
 ![Jasmine-Combs-Temple-Poet]({{site.baseurl}}/media/jasmine-combs-temple-poet.jpg){:.img-right}
 If writing is your passion, Temple’s Department of English offers a BA in English with a Concentration in Creative Writing. Our students are immersed in poetry and fiction and gain experience writing in different genres. Prominent and award-winning writers lead Temple’s undergraduate Creative Writing program - students work closely with faculty to become better writers and readers. We recommend Creative Writing Concentration students focus on either poetry, fiction or screenwriting.
 
@@ -67,7 +67,7 @@ If you major in English and choose to intern, the English Department assists you
 The Department of English has both a well-established internship program and a popular Career Seminar that prepares English majors for life after graduation. The 1 credit course provides our students with resources designed to support career development. English majors meet alumni who discuss how they've used their training at the College of Liberal after graduation. The course familiarizes students with the skills employers look for and also offers instruction in editing cover letters, resumes and job search strategy.
 
 ## Hyphen Interdisciplinary Journal
-![Creative Writing Undergrads at Temple University]({{site.baseurl}}/media/undergrad-creative-writing.jpg){:.img-right}
+![Creative Writing Undergrads at Temple University]({{site.baseurl}}/english/media/undergrad-creative-writing.jpg){:.img-right}
 Hyphen is Temple University’s only undergraduate student literary magazine. Founded by Professor Jena Osman twelve years ago, the journal has published close to 400 fiction writers, poets and visual artists. We release a print magazine every spring, and also host open mic nights and other events to support Temple’s literary and artistic community. To get involved, please contact us at [hyphen@temple.edu](mailto:hyphen@temple.edu) or visit our Facebook page [here](https://www.facebook.com/HyphenLit).
 
 ## Academic Advising and Professional Development
