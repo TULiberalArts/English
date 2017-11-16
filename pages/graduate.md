@@ -56,9 +56,6 @@ The Rome Seminar in Art and Culture is offered in the Summer term at Temple Univ
 
 [Learn More about the Rome Seminar in Art and Culture](https://studyabroad.temple.edu/sites/temple-rome-graduate-summer)
 
-## Graduate English Association
-The [Graduate English Association](http://www.cla.temple.edu/english/graduate/graduate-english-association/) (GEA) is an organization for all graduate students in the English department, regardless of program (Literature or Creative Writing) or funding status (fellowship, GA, TA or otherwise). The organization conducts regular monthly meetings, and its purpose is to make recommendations to the faculty on departmental issues (instructor training, program changes, etc.) and to enrich the graduate experience with developmental workshops and social events.
-
 ## English PhD Job Placement
 In recent years, 40% of our PhDs have found work in tenure-track positions, another 24% in non-tenure full time teaching. In addition, 15% are working in non-teaching position for which a PhD serves as a qualification. While some PhDs find work immediately upon graduating, it’s not uncommon for recent graduates to hold positions as adjuncts for one or more years before securing a full-time position. Our graduates tend to find jobs in the Northeast, demonstrating the enriching effect of Temple's English graduate program on the region. However, our PhDs also take jobs outside the region in state that include California, New York, Ohio and Wisconsin. 
 
