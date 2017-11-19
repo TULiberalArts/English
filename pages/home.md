@@ -8,13 +8,13 @@ keywords: >-
   MA in English Literature, BA in English, Minor in English, Temple Department of English
 published: true
 feature: true
-feature-title: null
+feature-title: Learn from outstanding faculty in a world-class city for the arts - Philadelphia
 feature-image: null
 feature-body: >-
   Our classes teach students to think and write with clarity and imagination, to think deeply and with innovation, and to conduct research with curiosity and attention to detail.
 ---
 ## Why Study English Literature?
-Powerful, persuasive writing, sharp analytic skills, and creative, flexible thinking are essential abilities for tomorrow’s leaders and professionals. Courses in Temple's Department of English cultivate these abilities through the study of the language, literatures, and cultures of the United States, Britain, the English-speaking world and beyond. Our classes teach students to think and write with clarity and imagination, to think deeply and with innovation. Both our undergraduate and graduate programs go on to lead rich lives as professionals, members of their communities and global citizens.
+Courses in Temple's Department of English study of the language, literatures and cultures of the United States, Britain, the English-speaking world and beyond. Whether you major, minor or pursue a graduate degree in English, our award-winning faculty lead students on explorations of past and present artistic, linguistic, literary and social movements and their aftermaths. Our students learn to think and write with clarity and imagination, develop sharp skills of analysis and go on to lead rich lives as professionals and global citizens. Learn from outstanding faculty in a world-class city for the arts - Philadelphia.
 
 ## Academic Offerings
 - [BA in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english/)
@@ -37,7 +37,7 @@ Powerful, persuasive writing, sharp analytic skills, and creative, flexible thin
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html
       title="Study Abroad in Rome "
-      content="The seminar, taught in English, entails an intensive program of class work, field trips and guest lectures and uses the Rome extensively as a resource."
+      content="Taught in English, the seminar entails an intensive program of class work, field trips and guest lectures using the Rome extensively as a resource. The Rome Seminar in Art and Culture is offered in the Summer term at Temple University’s Rome campus, the Villa Caproni."
       image=""
       button-link="https://studyabroad.temple.edu/sites/temple-rome-graduate-summer"
       button-text="Learn More" %}
