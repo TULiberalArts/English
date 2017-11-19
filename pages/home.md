@@ -8,7 +8,7 @@ keywords: >-
   MA in English Literature, BA in English, Minor in English, Temple Department of English
 published: true
 feature: true
-feature-title: Learn from outstanding faculty in a world-class city for the arts - Philadelphia
+feature-title: Study at the Department of English in Philadelphia
 feature-image: null
 feature-body: >-
   Our classes teach students to think and write with clarity and imagination, to think deeply and with innovation, and to conduct research with curiosity and attention to detail.
@@ -37,7 +37,7 @@ Courses in Temple's Department of English study of the language, literatures and
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html
       title="Study Abroad in Rome "
-      content="Taught in English, the seminar entails an intensive program of class work, field trips and guest lectures using the Rome extensively as a resource. The Rome Seminar in Art and Culture is offered in the Summer term at Temple University’s Rome campus, the Villa Caproni."
+      content="Taught in English, the Rome seminar entails intensive class work, field trips and guest lectures using the Rome extensively as a resource. The Rome Seminar in Art and Culture is offered in the Summer term."
       image=""
       button-link="https://studyabroad.temple.edu/sites/temple-rome-graduate-summer"
       button-text="Learn More" %}
