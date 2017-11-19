@@ -11,10 +11,10 @@ feature: true
 feature-title: null
 feature-image: null
 feature-body: >-
-Our classes teach students to think and write with clarity and imagination, to think deeply and innovatively, and to conduct research with curiosity and attention to detail. 
+  Our classes teach students to think and write with clarity and imagination, to think deeply and with innovation, and to conduct research with curiosity and attention to detail.
 ---
 ## Why Study English Literature?
-Powerful, persuasive writing, sharp analytic skills, and creative, flexible thinking are essential abilities for tomorrow’s leaders and professionals. Courses in Temple's Department of English cultivate these abilities through the study of the language, literatures, and cultures of the United States, Britain, the English-speaking world, and beyond. Our classes teach students to think and write with clarity and imagination, to think deeply and innovatively, and to conduct research with curiosity and attention to detail. Both our undergraduate and graduate programs go on to lead rich lives as professionals, members of their communities and global citizens.
+Powerful, persuasive writing, sharp analytic skills, and creative, flexible thinking are essential abilities for tomorrow’s leaders and professionals. Courses in Temple's Department of English cultivate these abilities through the study of the language, literatures, and cultures of the United States, Britain, the English-speaking world and beyond. Our classes teach students to think and write with clarity and imagination, to think deeply and with innovation. Both our undergraduate and graduate programs go on to lead rich lives as professionals, members of their communities and global citizens. 
 
 ## Academic Offerings
 - [BA in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english/)
