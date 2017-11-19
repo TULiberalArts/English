@@ -20,7 +20,7 @@ Powerful, persuasive writing, sharp analytic skills, and creative, flexible thin
 - [BA in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english/)
 - [BA in English with a Concentration in Creative Writing](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english-creative-writing/)
 - [Minor in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/minor-english/)
-- Combined BA/MA 4+1 program in English
+- [Combined BA/MA 4+1 program in English](/english/four-plus-one/)
 - [Certificate in Writing](http://bulletin.temple.edu/undergraduate/liberal-arts/english/certificate-writing/)
 - [MA in English](http://bulletin.temple.edu/graduate/scd/cla/english-ma/)
 - [MFA in Creative Writing](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/)
@@ -28,18 +28,18 @@ Powerful, persuasive writing, sharp analytic skills, and creative, flexible thin
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
-    title=" "
-    content=" "
+    title="Study Creative Writing "
+    content="Prominent and award-winning writers lead Temple’s undergraduate Creative Writing program - students work closely with faculty to become better writers and readers."
     image=""
-    button-link=" "
+    button-link="will add later "
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html
-      title=" "
-      content=" "
+      title="Study Abroad in Rome "
+      content="The seminar, taught in English, entails an intensive program of class work, field trips and guest lectures and uses the Rome extensively as a resource."
       image=""
-      button-link=" "
+      button-link="https://studyabroad.temple.edu/sites/temple-rome-graduate-summer"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
@@ -47,7 +47,7 @@ Powerful, persuasive writing, sharp analytic skills, and creative, flexible thin
         title=" "
         content=" "
         image=""
-        button-link=" "
+        button-link="/english/faculty/"
         button-text="Learn More" %}
       </div>
 </div>
