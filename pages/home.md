@@ -3,7 +3,7 @@ title: Home
 permalink: /
 layout: home
 description: >-
-  Study English Literature at Temple University in Philadelphia. Temple University offers a BA, MA and PhD in English. 
+  Study English Literature at Temple University in Philadelphia. Temple University offers a BA, MA and PhD in English.
 keywords: >-
   MA in English Literature, BA in English, Minor in English, Temple Department of English
 published: true
@@ -31,7 +31,7 @@ Whether you major, minor or pursue a graduate degree in English, our award-winni
     title="Study Creative Writing "
     content="Prominent and award-winning writers lead Temple’s undergraduate Creative Writing program - students work closely with faculty to become better writers and readers."
     image=""
-    button-link="will add later "
+    button-link="http://develop.cla.temple.edu/creative-writing/"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
