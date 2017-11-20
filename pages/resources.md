@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 ## Awards and Scholarships
-The entire list of awards and scholarships for English majors is listed along with applications and instructions on the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4593&field_awards_academics_class_value=All) page. 
+The entire list of awards and scholarships for English majors is listed along with applications and instructions on the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4593&field_awards_academics_class_value=All) page.
 
 ## Association of Departments of English
 The [Association of Departments of English](https://www.ade.mla.org/) advocates for English departments and promotes the value of English studies. As a project of the Modern Language Association, the ADE provides information and research for its member departments, creating institutional, national, and professional contexts for exploring policy, disciplinary challenges, trends, and best practices in the broad field of English studies in higher education.
@@ -19,11 +19,11 @@ The [Graduate English Association](http://www.cla.temple.edu/english/graduate/gr
 ## Tinge Magazine
 TINGE Magazine, Temple University’s online literary journal, is usually published twice a year, in the Spring (May) and in the Fall (December). The journal is edited by the graduate students of Temple’s MFA Program in Creative Writing. The journal has an open submission policy. Learn more about our Creative Writing programs (LINK).
 
-## Hyphen 
+## Hyphen
 Hyphen Literary and Arts Magazine is Temple University's only undergraduate literary magazine. We were founded in 2000 by Jena Osman, with the mission of providing Temple students with an outlet to showcase their creative skills. Every year, we are proud to present a new round of the best of student writing and art. Interested in becoming a part of Hyphen? Contact us at [hyphen.temple@gmail.com](hyphen.temple@gmail.com), or message us on [Facebook](https://www.facebook.com/HyphenLit/).
 
-## Writer-in-Residence Program 
-The Creative Writing Program invites a distinguished novelist (in the fall) and poet (in the spring) to be in residence for several days in order to work with MFA students. These guests read student manuscripts in their genre, meet with students individually in conference, give a reading, attend graduate workshops, and spend informal time with the students over the course of their visit. During the two years of the Master’s program, students will have the opportunity to engage with four of these visitors and have conferences on their work with two of them (in their specific genre). The writers brought to Temple under this program are a distinctive and internationally recognized group. Recent Writers-in-Residence have included Alexander Chee, Norma Cole, Craig Dworkin, Brian Evenson, C.S. Giscombe, Francisco Goldman, Jaimy Gordon, Mat Johnson, Bhanu Kapil, Tracie Morris, Peter Straub, Cole Swenson, and John Yau.
+## Writer-in-Residence Program
+The Creative Writing Program invites a distinguished novelist (in the fall) and poet (in the spring) to be in residence for several days in order to work with MFA students. These guests read student manuscripts in their genre, meet with students individually in conference, give a reading, attend graduate workshops, and spend informal time with the students over the course of their visit.  Recent Writers-in-Residence have included Alexander Chee, Norma Cole, Craig Dworkin, Brian Evenson, C.S. Giscombe, Francisco Goldman, Jaimy Gordon, Mat Johnson, Bhanu Kapil, Tracie Morris, Peter Straub, Cole Swenson, and John Yau.
 
 ## DuPlessis Lecture in Poetry and Poetics
 The DuPlessis Lecture is named after Professor Emeritus Rachel Blau DuPlessis. DuPlessis is a widely published poet and critic and one of her significant contributions to the field of poetry and poetics is her interweaving of these two practices. Her poetry often speaks to the concerns of her critical work and her critical works often stretch the conventions of the scholarly essay. This lecture series honors DuPlessis’ expansions of literary form, and features poets who write in a number of different registers.
@@ -40,9 +40,9 @@ Bryn Mawr can be easily reached via public transportation by taking the Paoli/Th
 - [Villanova Literary Festival](https://www1.villanova.edu/villanova/artsci/english/newsandevents/literaryfestival.html) This festival happens every Spring semester. Villanova can be easily reached via public transportation by taking the Paoli/Thorndale line to the Villanova station.
 
 ## Undergraduate Resources
-- [Changing your Major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp) 
+- [Changing your Major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp)
 - [Graduation Application Process](http://www.temple.edu/registrar/students/graduation/)
-- [Financing your Education](http://sfs.temple.edu/) 
+- [Financing your Education](http://sfs.temple.edu/)
 - [Undergraduate Policies and Procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
 - [Undergraduate Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/english/)
 
