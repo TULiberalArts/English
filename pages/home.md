@@ -14,7 +14,7 @@ feature-body: >-
   Learn to think and write with clarity and imagination, conduct research and live an innovative life. Study under outstanding faculty in a world-class city for the arts - Philadelphia.
 ---
 ## Why Study English Literature?
-Whether you major, minor or pursue a graduate degree in English, our award-winning faculty lead students on explorations of past and present artistic, linguistic, literary and social movements and their aftermaths. Courses in Temple's Department of English study of the language, literatures and cultures of the United States, Britain, the English-speaking world and beyond. Our students become critical and reflective readers, aware of the history and development of writing in English. In addition, studying English helps develop strong writing skills and the ability to analyze problems.
+Whether you major, minor or pursue a graduate degree in English, our award-winning faculty lead courses that explore past and present artistic, linguistic, literary and social movements and their aftermaths. Courses in Temple's Department of English study the language, literatures and cultures of the United States, Britain, the English-speaking world and beyond. Our students become critical and reflective readers, aware of the history and development of writing in English. In addition, studying English helps develop strong writing skills and the ability to analyze problems.
 
 ## Academic Offerings
 - [BA in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english/)
