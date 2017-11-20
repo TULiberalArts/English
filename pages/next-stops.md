@@ -3,17 +3,17 @@ title: Next Stops
 permalink: /next-stops/
 layout: page
 description: >-
-  Major or minor in English at Temple University. A BA in English teaches you how to think creatively, solve problems and write clearly. 
+ What can I do with a BA in English? You're more valuable than you think. The skills you develop as an English major translate into many careers.
 keywords: >-
-  BA in English, Minor in English, Temple Department of English
+  careers for English majors, careers for English degree, Temple Department of English, internships English majors
 published: true
 ---
 
 ## What Can I Do with an English Degree?
-![Career Symposium for English Majors at Temple University]({{site.baseurl}}/media/english-major-career-symposium.jpg){:.img-right} 
-Take your pick! Employers look for creative people with critical thinking skills. The BA in English at Temple — with its emphasis on both creative and critical scholarship - prepares students for success in careers in the academic, corporate and non-profit sectors and beyond. From mayoral campaigns to musicology, recent Temple grads are putting their English degrees to work in many careers and fields. English majors are prepared for careers that involve writing or editing - whether the subject matter is an advertising campaign, an essay, a grant proposal, a legal document or a website. English majors also find non-writing and editing careers in fields that include business, education, government, law, librarianship, marketing and social services. 
+![Career Symposium for English Majors at Temple University]({{site.baseurl}}/media/english-major-career-symposium.jpg){:.img-right}
+Take your pick! Employers look for creative people with critical thinking skills. The BA in English at Temple — with its emphasis on both creative and critical scholarship - prepares students for success in careers in the academic, corporate and non-profit sectors and beyond. From mayoral campaigns to musicology, recent Temple grads are putting their English degrees to work in many careers and fields. English majors are prepared for careers that involve writing or editing - whether the subject matter is an advertising campaign, an essay, a grant proposal, a legal document or a website. English majors also find non-writing and editing careers in fields that include business, education, government, law, librarianship, marketing and social services.
 
-The Department of English offers a popular career seminar that introduces students to working professionals with backgrounds in English who work in rewarding and relevant fields that include blogging, comics, non-profit leadership and publishing. All offer valuable resources for students hoping to break into these careers and more. We also have a well-established internship program that offers English majors a wealth of opportunities to work in the real world while still enrolled at Temple. Recently, English majors have secured internships at organizations that include the following. 
+The Department of English offers a popular career seminar that introduces students to working professionals with backgrounds in English who work in rewarding and relevant fields that include blogging, comics, non-profit leadership and publishing. All offer valuable resources for students hoping to break into these careers and more. We also have a well-established internship program that offers English majors a wealth of opportunities to work in the real world while still enrolled at Temple. Recently, English majors have secured internships at organizations that include the following.
 
 - American Cancer Society
 - Comcast SportsNet Philadelphia
