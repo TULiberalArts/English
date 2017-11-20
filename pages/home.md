@@ -8,13 +8,13 @@ keywords: >-
   MA in English Literature, BA in English, Minor in English, Temple Department of English
 published: true
 feature: true
-feature-title: Study at the Department of English in Philadelphia
+feature-title: Study English Literature in Philadelphia
 feature-image: null
 feature-body: >-
-  Our classes teach students to think and write with clarity and imagination, to think deeply and with innovation, and to conduct research with curiosity and attention to detail.
+  Learn to think and write with clarity and imagination, conduct research and live an innovative life. Study under outstanding faculty in a world-class city for the arts - Philadelphia.
 ---
 ## Why Study English Literature?
-Courses in Temple's Department of English study of the language, literatures and cultures of the United States, Britain, the English-speaking world and beyond. Whether you major, minor or pursue a graduate degree in English, our award-winning faculty lead students on explorations of past and present artistic, linguistic, literary and social movements and their aftermaths. Our students learn to think and write with clarity and imagination, develop sharp skills of analysis and go on to lead rich lives as professionals and global citizens. Learn from outstanding faculty in a world-class city for the arts - Philadelphia.
+Whether you major, minor or pursue a graduate degree in English, our award-winning faculty lead students on explorations of past and present artistic, linguistic, literary and social movements and their aftermaths. Courses in Temple's Department of English study of the language, literatures and cultures of the United States, Britain, the English-speaking world and beyond. Our students become critical and reflective readers, aware of the history and development of writing in English. In addition, studying English helps develop strong writing skills and the ability to analyze problems. 
 
 ## Academic Offerings
 - [BA in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english/)
