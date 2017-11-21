@@ -40,17 +40,17 @@ sidebar-content: |
 ---
 ## Major in English at Temple
 ![Department of English Undergraduates]({{site.baseurl}}/media/temple-undergrad-english.jpg){:.img-right}
-English majors become reflective readers and strong, inventive writers. Courses in the Department of English explore past and present artistic, linguistic, literary and social movements and their aftermaths. Learn about topics that range from Shakespeare to depictions of race in literature from distinguished and internationally renown faculty. Like all undergraduate programs in the College of Liberal Arts, majoring in English teaches you how to think creatively and critically, cultivate social intelligence and solve problems. A BA in English not only prepares you for graduate-level study in English literature and in other academic disciplines, but also prepares you for careers that include advertising, business, education, government and law. We offer a [well-established internship program](/english/resources) and a popular [career seminar](http://bulletin.temple.edu/search/?P=ENG%201801) that prepares English majors for life after graduation.
+English majors become reflective readers and strong, inventive writers. Courses in the Department of English explore past and present artistic, linguistic, literary and social movements and their aftermaths. Learn about topics that range from Shakespeare to depictions of race in literature from distinguished and internationally renown faculty. Like all undergraduate programs in the College of Liberal Arts, majoring in English teaches you how to think creatively and critically, cultivate social intelligence and solve problems. A BA in English not only prepares you for graduate-level study in English literature and in other academic disciplines, but also prepares you for careers that include advertising, business, education, government and law. We offer a [well-established internship program](/english/resources/) and a popular [career seminar](http://bulletin.temple.edu/search/?P=ENG%201801) that prepares English majors for life after graduation.
 
 [Learn More about Majoring in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english/)
 
 ## Minor in English
-The Minor in English is an excellent way to extend the breadth of your education and experience the rich history of American, English and global literature. Whether you plan to become a lawyer, a scientist or a doctor, minoring in English helps you develop strong analytical thinking and writing skills. As a result, minoring in English gives you better leverage in the job search or in graduate admissions after college. English minors take introduction courses in American, British and global literature in addition to a course in interpreting literature that teaches rigorous methods of literary analysis and critical thinking.
+The Minor in English is an excellent way to extend the breadth of your education and experience the rich history of American, English and global literature. Whether you plan to become a lawyer, a doctor or a social worker, minoring in English helps you develop strong analytical thinking and writing skills. As a result, minoring in English gives you better leverage in the job search or in graduate admissions after college. English minors take introduction courses in American, British and global literature in addition to a course in interpreting literature.
 
 [Learn More about Minoring in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/minor-english/)
 
 ## Certificate in Writing
-If you attend a different Temple program, the Certificate in Writing always you to focus on the skills and theory of writing. Because it is not a degree program, the Writing Certificate is only available to matriculated students who are already pursuing an undergraduate degree at Temple. Students earn the Certificate by receiving an average of B or above in five of the writing courses listed on the bulletin, including at least one from each of the three certificate areas. If you are interested in the certificate email [Professor Eli Goldblatt](mailto:eligold@temple.edu).
+If you attend a different Temple program, the Certificate in Writing allows you to focus on the skills and theory of writing. Because it is not a degree program, the Writing Certificate is only available to matriculated students who are already pursuing an undergraduate degree at Temple. Students earn the Certificate by receiving an average of B or above in five of the writing courses listed on the bulletin, including at least one from each of the three certificate areas. If you are interested in the certificate email [Professor Eli Goldblatt](mailto:eligold@temple.edu).
 
 [Learn More about the Writing Certificate](http://bulletin.temple.edu/undergraduate/liberal-arts/english/certificate-writing/)
 
@@ -58,10 +58,8 @@ If you attend a different Temple program, the Certificate in Writing always you 
 ![Jasmine-Combs-Temple-Poet]({{site.baseurl}}/media/jasmine-combs-temple-poet.jpg){:.img-right}
 If writing is your passion, Temple’s Department of English offers a BA in English with a Concentration in Creative Writing. Our students are immersed in poetry and fiction and gain experience writing in different genres. Prominent and award-winning writers lead Temple’s undergraduate Creative Writing program - students work closely with faculty to become better writers and readers. We recommend Creative Writing Concentration students focus on either fiction, poetry or screenwriting.
 
-Learn More about Temple's Creative Writing Concentration(will need link)
-
 ## Hyphen Interdisciplinary Journal
-Hyphen is Temple University’s only undergraduate student literary magazine. Founded by Professor Jena Osman twelve years ago, the journal has published close to 400 fiction writers, poets and visual artists. We release a print magazine every spring and host open mic nights and other events to support Temple’s literary and artistic community. To get involved, please contact us at [hyphen@temple.edu](mailto:hyphen@temple.edu) or visit our Facebook page [here](https://www.facebook.com/HyphenLit).
+Hyphen is Temple's only undergraduate student literary magazine. Founded by Professor Jena Osman twelve years ago, the journal has published close to 400 fiction writers, poets and visual artists. We release a print magazine every spring and host open mic nights and other events to support Temple’s literary and artistic community. To get involved, please contact us at [hyphen@temple.edu](mailto:hyphen@temple.edu) or visit our Facebook page [here](https://www.facebook.com/HyphenLit).
 
 ## Academic Advising and Professional Development
 Take full advantage of the [College of Liberal Arts](https://liberalarts.temple.edu/)’ flexible curriculum with the help of our award-winning advisors. We help you select a major or a minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with internships, study abroad programs and other experiential learning opportunities.
@@ -85,7 +83,10 @@ At Temple, we believe that students from all walks of life should have access to
 Ready to apply? [Submit your application online](http://admissions.temple.edu/apply).
 
 ## Academic Offerings
-[BA in English with a Concentration in Creative Writing](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english-creative-writing/#text)
+[BA in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english/)
+[BA in English with a Concentration in Creative Writing](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english-creative-writing/)
+[Minor in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/minor-english/)
+[Certificate in Writing](http://bulletin.temple.edu/undergraduate/liberal-arts/english/certificate-writing/)
 
 ## Temple Admissions Deadlines
 - **Feb. 1**: Freshman Application Deadline for Fall Semester
