@@ -59,8 +59,12 @@ The Rome Seminar in Art and Culture is offered in the Summer term at Temple Univ
 ## English PhD Job Placement
 In recent years, 40% of our PhDs have found work in tenure-track positions, another 24% in non-tenure full time teaching. In addition, 15% are working in non-teaching position for which a PhD serves as a qualification. While some PhDs find work immediately upon graduating, it’s not uncommon for recent graduates to hold positions as adjuncts for one or more years before securing a full-time position. Our graduates tend to find jobs in the Northeast, demonstrating the enriching effect of Temple's English graduate program on the region. However, our PhDs also take jobs outside the region in state that include California, New York, Ohio and Wisconsin.
 
-## Doctoral Faculty
+## Admission Requirements
+Applicants to Temple's MA or PhD programs in English should have the equivalent of an undergraduate concentration in English with broad chronological coverage of literature or have completed equivalent coursework. Successful applicants also have a strong record of academic achievement. When applying to our programs, you must declare whether you plan on earning your master's or doctorate. However, PhD students may choose to stop at the master's degree. If at any point you choose to apply and are accepted for Temple’s English PhD, all the credits you earn are transferable. Funding is available to available to eligible PhD candidates, including University Fellowships, Future Faculty Fellowships and Teaching Assistantships. 
 
+[Learn About Funding and How to Apply to Our Graduate Programs](https://liberalarts.temple.edu/admissions/graduate/english)
+
+## Doctoral Faculty
 **American Literature** - [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan), [Brian Teare](https://liberalarts.temple.edu/academics/faculty/teare-brian), [Daniel T. O’Hara](https://liberalarts.temple.edu/academics/faculty/o-hara-daniel), [James Salazar](https://liberalarts.temple.edu/academics/faculty/salazar-james), [Jena Osman](https://liberalarts.temple.edu/academics/faculty/osman-jena), [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce), [Katherine Henry](https://liberalarts.temple.edu/academics/faculty/henry-katherine), [Michael Kaufmann](https://liberalarts.temple.edu/academics/faculty/kaufmann-michael), [Miles Orvell](https://liberalarts.temple.edu/academics/faculty/orvell-miles), [Roland L. Williams Jr.](https://liberalarts.temple.edu/academics/faculty/williams-roland), [Sue-Im Lee](https://liberalarts.temple.edu/academics/faculty/lee-sue-im)
 
 **British Literature** - [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan), [Carissa M. Harris](https://liberalarts.temple.edu/academics/faculty/harris-carissa), [Daniel T. O’Hara](https://liberalarts.temple.edu/academics/faculty/o-hara-daniel), [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence), [Nichole Miller](https://liberalarts.temple.edu/academics/faculty/miller-nichole), [Peter Logan](https://liberalarts.temple.edu/academics/faculty/joshi-priya), [Priya Joshi](https://liberalarts.temple.edu/academics/faculty/joshi-priya), [Steve Newman](https://liberalarts.temple.edu/academics/faculty/newman-steve), [Talissa Ford](https://liberalarts.temple.edu/academics/faculty/ford-talissa)
@@ -82,8 +86,6 @@ In recent years, 40% of our PhDs have found work in tenure-track positions, anot
 ## Temple Tuition and Fees
 For more than 130 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other universities and see what we mean. Temple tuition rates vary by college or school, residency status, student level and more. Use the [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates) to estimate your tuition rate.
 
-[Learn How to Apply to Our Graduate Programs in English](https://liberalarts.temple.edu/admissions/graduate/english)
-
 ## Application Deadline
 The deadline for applications is **December 15** for those students applying for funding (i.e. teaching fellowships). We accept applications until February 15.
 
@@ -91,4 +93,4 @@ The deadline for applications is **December 15** for those students applying for
 - [MA in English](http://bulletin.temple.edu/graduate/scd/cla/english-ma/)
 - [4+1 Accelerated B.A./M.A. Degree Program in English](/english/four-plus-one/)
 - [PhD in English](http://bulletin.temple.edu/graduate/scd/cla/english-phd/)
-- [MFA in Creative Writing](link)
+- [MFA in Creative Writing](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/)
