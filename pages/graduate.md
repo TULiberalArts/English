@@ -3,9 +3,9 @@ title: Graduate
 permalink: /graduate/
 layout: page
 description: >-
-  Earn an MA or PhD in English from Temple University. We excel in 18th and 19th century literature as well as contemporary literature.
-keywords: >-
-  MA in English Literature, PhD in English, Temple Department of English
+  Earn an MA or PhD in English from Temple University. We excel in 18th and 19th
+  century literature as well as contemporary literature.
+keywords: 'MA in English Literature, PhD in English, Temple Department of English'
 published: true
 sidebar: true
 sidebar-content: |
@@ -59,11 +59,28 @@ The Rome Seminar in Art and Culture is offered in the Summer term at Temple Univ
 ## English PhD Job Placement
 In recent years, 40% of our PhDs have found work in tenure-track positions, another 24% in non-tenure full time teaching. In addition, 15% are working in non-teaching position for which a PhD serves as a qualification. While some PhDs find work immediately upon graduating, it’s not uncommon for recent graduates to hold positions as adjuncts for one or more years before securing a full-time position. Our graduates tend to find jobs in the Northeast, demonstrating the enriching effect of Temple's English graduate program on the region. However, our PhDs also take jobs outside the region in state that include California, New York, Ohio and Wisconsin.
 
+## Doctoral Faculty
+
+**American Literature** - [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan), [Brian Teare](https://liberalarts.temple.edu/academics/faculty/teare-brian), [Daniel T. O’Hara](https://liberalarts.temple.edu/academics/faculty/o-hara-daniel), [James Salazar](https://liberalarts.temple.edu/academics/faculty/salazar-james), [Jena Osman](https://liberalarts.temple.edu/academics/faculty/osman-jena), [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce), [Katherine Henry](https://liberalarts.temple.edu/academics/faculty/henry-katherine), [Michael Kaufmann](https://liberalarts.temple.edu/academics/faculty/kaufmann-michael), [Miles Orvell](https://liberalarts.temple.edu/academics/faculty/orvell-miles), [Roland L. Williams Jr.](https://liberalarts.temple.edu/academics/faculty/williams-roland), Sue-Im Lee
+
+**British Literature** - [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan), [Carissa M. Harris](https://liberalarts.temple.edu/academics/faculty/harris-carissa), [Daniel T. O’Hara](https://liberalarts.temple.edu/academics/faculty/o-hara-daniel), [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence), Nichole Miller, Peter Logan, Priya Joshi, Steven Newman, Talissa Ford
+
+**Composition and Rhetoric** - [Eli Goldblatt](https://liberalarts.temple.edu/academics/faculty/goldblatt-eli), Shannon Walters
+
+**Critical and Cultural Theories** - [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan), [Daniel T. O'Hara](https://liberalarts.temple.edu/academics/faculty/o-hara-daniel), [Eli Goldblatt](https://liberalarts.temple.edu/academics/faculty/goldblatt-eli), [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence), [Michael Kaufmann](https://liberalarts.temple.edu/academics/faculty/kaufmann-michael), Nichole Miller, Suzanne Gauch
+
+**Gender and Sexuality** - [Brian Teare](https://liberalarts.temple.edu/academics/faculty/teare-brian), [Carissa M. Harris](https://liberalarts.temple.edu/academics/faculty/harris-carissa), Joyce A. Joyce, Suzanne Gauch, Talissa Ford
+
+**Ethnic and African American Literatures** - [James Salazar](https://liberalarts.temple.edu/academics/faculty/salazar-james), [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce), [Katherine Henry](https://liberalarts.temple.edu/academics/faculty/henry-katherine), [Miles Orvell](https://liberalarts.temple.edu/academics/faculty/orvell-miles), [Roland L. Williams Jr.](https://liberalarts.temple.edu/academics/faculty/williams-roland), Sue-Im Lee
+
+**Literature and Visual Studies (film, photography)** - [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan), [Jena Osman](https://liberalarts.temple.edu/academics/faculty/osman-jena), [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence), [Miles Orvell](https://liberalarts.temple.edu/academics/faculty/orvell-miles), Priya Joshi, [Roland L. Williams Jr.](https://liberalarts.temple.edu/academics/faculty/williams-roland), Suzanne Gauch
+
+**Poetry and Poetics** - [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan), [Brian Teare](https://liberalarts.temple.edu/academics/faculty/teare-brian), [Eli Goldblatt](https://liberalarts.temple.edu/academics/faculty/goldblatt-eli), [Jena Osman](https://liberalarts.temple.edu/academics/faculty/osman-jena), [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence), Steven Newman
+
+**Postcolonial and Global Literatures** - [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce), [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence), Priya Joshi, Suzanne Gauch, Talissa Ford
+
 ## Temple Tuition and Fees
 For more than 130 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other universities and see what we mean. Temple tuition rates vary by college or school, residency status, student level and more. Use the [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates) to estimate your tuition rate.
-
-## Admission Requirements
-Applicants to the MA or PhD in English should have the equivalent of an undergraduate concentration in English with broad chronological coverage and a strong record of achievement. You must declare whether you plan on stopping after you finish your master's or doctorate degree when you apply. However, MA students sometimes choose to apply to our PhD program and PhD students sometimes choose to stop after a master's degree. If you are accepted to our MA program, you may choose to apply to the PhD program. Any credits you earn as an MA student are transferable toward your PhD. We accept from 10 to 20 students each year, and typically 5 to 10 students enroll. Applicants to the Creative Writing MFA program should follow the admission instructions on [Temple's College of Liberal Arts website](https://liberalarts.temple.edu/admissions/graduate/creative-writing). 
 
 [Learn How to Apply to Our Graduate Programs in English](https://liberalarts.temple.edu/admissions/graduate/english)
 
