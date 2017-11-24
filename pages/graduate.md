@@ -39,7 +39,7 @@ sidebar-content: |
    [logansd@temple.edu](mailto:logansd@temple.edu)
 ---
 ## Earn Your MA or PhD in English
-Temple University's MA and PhD programs in English offer students the resources of a Research I institution in an energetic urban environment. Both the MA and PhD programs provide options for intensive study in critical theory, cultural theory, film theory, interdisciplinary methods, minority literature and women’s studies. Students are encouraged to engage in serious interdisciplinary projects and work closely with the English department's faculty  to engage in research and publication projects. Temple's graduate programs in English enjoy are highly regarded for teaching and research in both traditional and innovative areas of literary history and literary criticism. We are especially strong in 19th and 20th century studies. Our graduate programs also emphasize training in Composition and Rhetoric. We are affiliated with the Association of Departments of English (ADE) and the Modern Language Association (MLA).
+Temple University's MA and PhD programs in English offer students the resources of a Research I institution in an energetic urban environment. Both the MA and PhD programs provide options for intensive study in critical theory, cultural theory, film theory, minority literature and women’s studies. As a graduate student at the Department of English, you are encouraged to work closely with faculty and engage in serious research and publication projects. Temple's graduate programs in English are highly regarded for teaching and research in both traditional and innovative areas of literary criticism and history. We are especially strong in 18th century studies, 19th century studies and we emphasize training in composition and rhetoric. We are affiliated with the Association of Departments of English (ADE) and the Modern Language Association (MLA).
 
 ## MA in English
 If you want to earn only a master's degree or you want to explore education at the graduate level before you commit to a PhD program, the Department of English offers an two year MA in English program. Graduates from our MA program find employment in high schools or preparatory schools, in editing or publishing, or as professional writers. Others go on to doctoral study at Temple and other institutions. Funding is usually reserved for PhD students.
@@ -57,9 +57,7 @@ Graduates with a PhD typically go on to careers in college teaching and related 
 - Transatlantic Feminist Theory
 - Queer Poetry and Poetics
 
-Following course work, you will choose a concentration in one or two of our main areas of strength, each of which will prepare you for teaching and research in the field. 
-
-Our main areas of strengh are listed below See listings with faculty at the bottom of the page).
+Following course work, you will choose a concentration in one or two of our main areas of strength, each of which will prepare you for teaching and research in the field. Our main areas of strengh are listed below See listings with faculty at the bottom of the page).
 
 - American Literature
 - British Literature
