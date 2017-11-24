@@ -47,9 +47,30 @@ If you want to earn only a master's degree or you want to explore education at t
 [Learn More about the MA in English](http://bulletin.temple.edu/graduate/scd/cla/english-ma/)
 
 ## PhD in English
-Graduates with a PhD typically go on to careers in college teaching and related fields. Foundational courses provide the broad background needed for independent research, while our advanced graduate classes allow students to engage with cutting-edge faculty research. Recent special topics courses have covered: Literary Aesthetics; Transatlantic Feminist Theory; Photography and Literature; Fetishism and the 19th Century Imagination; Feminist Rhetoric of Science; Joyce and Lacan; and Queer Poetry and Poetics.
+Graduates with a PhD typically go on to careers in college teaching and related fields. Foundational courses provide the broad background needed for independent research, while our advanced graduate classes allow you to engage with cutting-edge faculty research. Our special topics courses have covered the following subjects. 
 
-Following course work, students generally choose a concentration in one or two of our main areas of strength, each of which will prepare them to teach and do research in the field: British Literature; American Literature; Postcolonial and Global Literatures; Ethnic and African American Literatures; Literature and Visual Studies; Critical and Cultural Theories; Poetry and Poetics;  Gender and Sexuality; Composition and Rhetoric. Our PhD in English takes anywhere from 5-7 years to finish, depending on whether you already have an master's degree and whether you have fellowship support, teaching responsibilities and other factors.
+- Feminist Rhetoric of Science
+- Fetishism and the 19th Century Imagination
+- Joyce and Lacan
+- Literary Aesthetics
+- Photography and Literature
+- Transatlantic Feminist Theory
+- Queer Poetry and Poetics
+
+Following course work, you will choose a concentration in one or two of our main areas of strength, each of which will prepare you for teaching and research in the field. 
+
+Our main areas of strengh are listed below See listings with faculty at the bottom of the page).
+
+- American Literature
+- British Literature
+- Critical and Cultural Theories
+- Ethnic and African American Literatures
+- Gender and Sexuality
+- Literature and Visual Studies
+- Poetry and Poetics
+- Postcolonial and Global Literatures
+
+Our PhD in English takes anywhere from 5-7 years to finish, depending on whether you already have an master's degree and whether you have fellowship support, teaching responsibilities and other factors.
 
 ## Study Abroad in Rome
 The Rome Seminar in Art and Culture is offered in the Summer term at Temple University's Rome campus, the Villa Caproni. The interdisciplinary seminar serves as a foundation for advanced study in the human sciences and reflects the most current trends of though in post-modern culture. Graduate and post-doctoral students in literature, film studies, philosophy, art and social theory are welcome to apply. The seminar, taught in English, entails an intensive program of class work, field trips and guest lectures and uses the Rome extensively as a resource.
@@ -63,6 +84,12 @@ In recent years, 40% of our PhDs have found work in tenure-track positions, anot
 Applicants to Temple's MA or PhD programs in English should have the equivalent of an undergraduate concentration in English with broad chronological coverage of literature or have completed equivalent coursework. Successful applicants also have a strong record of academic achievement. When applying to our programs, you must declare whether you plan on earning your master's or doctorate. However, PhD students may choose to stop at the master's degree. If at any point you choose to apply and are accepted for Temple’s English PhD, all the credits you earn are transferable. Funding is available to available to eligible PhD candidates, including University Fellowships, Future Faculty Fellowships and Teaching Assistantships.
 
 [Learn About Funding and How to Apply to Our Graduate Programs](https://liberalarts.temple.edu/admissions/graduate/english)
+
+## Temple Tuition and Fees
+For more than 130 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other universities and see what we mean. Temple tuition rates vary by college or school, residency status, student level and more. Use the [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates) to estimate your tuition rate.
+
+## Application Deadline
+The deadline for applications is **December 15** for those students applying for funding (i.e. teaching fellowships). We accept applications until February 15.
 
 ## Doctoral Faculty
 **American Literature** - [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan), [Brian Teare](https://liberalarts.temple.edu/academics/faculty/teare-brian), [Daniel T. O’Hara](https://liberalarts.temple.edu/academics/faculty/o-hara-daniel), [James Salazar](https://liberalarts.temple.edu/academics/faculty/salazar-james), [Jena Osman](https://liberalarts.temple.edu/academics/faculty/osman-jena), [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce), [Katherine Henry](https://liberalarts.temple.edu/academics/faculty/henry-katherine), [Michael Kaufmann](https://liberalarts.temple.edu/academics/faculty/kaufmann-michael), [Miles Orvell](https://liberalarts.temple.edu/academics/faculty/orvell-miles), [Roland L. Williams Jr.](https://liberalarts.temple.edu/academics/faculty/williams-roland), [Sue-Im Lee](https://liberalarts.temple.edu/academics/faculty/lee-sue-im)
@@ -82,12 +109,6 @@ Applicants to Temple's MA or PhD programs in English should have the equivalent 
 **Poetry and Poetics** - [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan), [Brian Teare](https://liberalarts.temple.edu/academics/faculty/teare-brian), [Eli Goldblatt](https://liberalarts.temple.edu/academics/faculty/goldblatt-eli), [Jena Osman](https://liberalarts.temple.edu/academics/faculty/osman-jena), [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence), [Steve Newman](https://liberalarts.temple.edu/academics/faculty/newman-steve)
 
 **Postcolonial and Global Literatures** - [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce), [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence), [Priya Joshi](https://liberalarts.temple.edu/academics/faculty/joshi-priya), [Suzanne Gauch](https://liberalarts.temple.edu/academics/faculty/gauch-suzanne), [Talissa Ford](https://liberalarts.temple.edu/academics/faculty/ford-talissa)
-
-## Temple Tuition and Fees
-For more than 130 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other universities and see what we mean. Temple tuition rates vary by college or school, residency status, student level and more. Use the [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates) to estimate your tuition rate.
-
-## Application Deadline
-The deadline for applications is **December 15** for those students applying for funding (i.e. teaching fellowships). We accept applications until February 15.
 
 ## Academic Offerings
 - [MA in English](http://bulletin.temple.edu/graduate/scd/cla/english-ma/)
