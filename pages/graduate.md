@@ -39,15 +39,15 @@ sidebar-content: |
    [logansd@temple.edu](mailto:logansd@temple.edu)
 ---
 ## Earn Your MA or PhD in English
-Temple University's MA and PhD programs in English offer students the resources of a Research I institution in an energetic urban environment. Both the MA and PhD programs provide options for intensive study in critical theory, cultural theory, film theory, minority literature and women’s studies. As a graduate student at the Department of English, you are encouraged to work closely with faculty and engage in serious research and publication projects. Temple's graduate programs in English are highly regarded for teaching and research in both traditional and innovative areas of literary criticism and history. We are especially strong in 18th century studies, 19th century studies and we emphasize training in composition and rhetoric. We are affiliated with the Association of Departments of English (ADE) and the Modern Language Association (MLA).
+Temple University's MA and PhD programs in English offer students the resources of a Research I institution in an energetic urban environment. Both the MA and PhD programs provide options for intensive study in critical theory, cultural theory, film theory, minority literature and women’s studies. As a graduate student at the Department of English, you are encouraged to work closely with faculty and engage in serious research and publication projects. Temple's graduate programs in English are highly regarded for teaching and research in both traditional and innovative areas of literary criticism and history. We are especially strong in 18th century studies, 19th century studies and we emphasize training in composition and rhetoric. The department is affiliated with the Association of Departments of English (ADE) and the Modern Language Association (MLA).
 
 ## MA in English
-If you want to earn only a master's degree or you want to explore education at the graduate level before you commit to a PhD program, the Department of English offers an two year MA in English program. Graduates from our MA program find employment in high schools or preparatory schools, in editing or publishing, or as professional writers. Others go on to doctoral study at Temple and other institutions. Funding is usually reserved for PhD students.
+If you want to earn only a master's degree or you want to explore education at the graduate level before commiting to a PhD program, the Department of English offers a two year MA in English program. MA Graduates find employment in high schools or preparatory schools, in editing or publishing, or as professional writers. Others go on to doctoral study at Temple and other institutions. Funding is usually reserved for PhD students.
 
 [Learn More about the MA in English](http://bulletin.temple.edu/graduate/scd/cla/english-ma/)
 
 ## PhD in English
-Graduates with a PhD typically go on to careers in college teaching and related fields. Foundational courses provide the broad background needed for independent research, while our advanced graduate classes allow you to engage with cutting-edge faculty research. Our special topics courses have covered the following subjects. 
+Graduates with a PhD typically go on to careers in college teaching and related fields. Foundational courses provide the broad background needed for independent research, while our advanced graduate classes allow you to engage with cutting-edge faculty research. Our special topics courses have recently covered the following subjects. 
 
 - Feminist Rhetoric of Science
 - Fetishism and the 19th Century Imagination
@@ -57,7 +57,7 @@ Graduates with a PhD typically go on to careers in college teaching and related 
 - Transatlantic Feminist Theory
 - Queer Poetry and Poetics
 
-Following course work, you will choose a concentration in one or two of our main areas of strength, each of which will prepare you for teaching and research in the field. Our main areas of strengh are listed below See listings with faculty at the bottom of the page).
+Following course work, you will choose a concentration in one or two of our main areas of strength, each of which will prepare you for teaching and research in the field. Our main areas of strengh are listed below (see listings with faculty at the bottom of the page).
 
 - American Literature
 - British Literature
@@ -68,18 +68,18 @@ Following course work, you will choose a concentration in one or two of our main
 - Poetry and Poetics
 - Postcolonial and Global Literatures
 
-Our PhD in English takes anywhere from 5-7 years to finish, depending on whether you already have an master's degree and whether you have fellowship support, teaching responsibilities and other factors.
+A PhD in English at Temple takes anywhere from 5-7 years to finish, depending on whether you already have an master's degree and whether you have fellowship support, teaching responsibilities and other factors.
 
 ## Study Abroad in Rome
-The Rome Seminar in Art and Culture is offered in the Summer term at Temple University's Rome campus, the Villa Caproni. The interdisciplinary seminar serves as a foundation for advanced study in the human sciences and reflects the most current trends of though in post-modern culture. Graduate and post-doctoral students in literature, film studies, philosophy, art and social theory are welcome to apply. The seminar, taught in English, entails an intensive program of class work, field trips and guest lectures and uses the Rome extensively as a resource.
+The Rome Seminar in Art and Culture is offered in the Summer term at Temple University's Rome campus, the Villa Caproni. The interdisciplinary seminar serves as a foundation for advanced study in the human sciences and reflects the most current trends of thought in post-modern culture. Graduate and post-doctoral students in art, film studies, literature, philosophy and social theory are welcome to apply. The seminar, taught in English, entails an intensive program of class work, field trips and guest lectures and uses Rome extensively as a resource.
 
 [Learn More about the Rome Seminar in Art and Culture](https://studyabroad.temple.edu/sites/temple-rome-graduate-summer)
 
 ## English PhD Job Placement
-In recent years, 40% of our PhDs have found work in tenure-track positions, another 24% in non-tenure full time teaching. In addition, 15% are working in non-teaching position for which a PhD serves as a qualification. While some PhDs find work immediately upon graduating, it’s not uncommon for recent graduates to hold positions as adjuncts for one or more years before securing a full-time position. Our graduates tend to find jobs in the Northeast, demonstrating the enriching effect of Temple's English graduate program on the region. However, our PhDs also take jobs outside the region in state that include California, New York, Ohio and Wisconsin.
+In recent years, 40% of our PhDs have found work in tenure-track positions. Another 24% have found work in non-tenure full time teaching. In addition, 15% are working in non-teaching positions for which a PhD serves as a qualification. While some PhDs find work immediately upon graduating, it’s not uncommon for recent graduates to work as adjuncts for one or more years before securing a full-time position. Our graduates tend to find jobs in the Northeast, demonstrating the enriching effect of Temple's English graduate programs on the region. However, PhDs also take jobs outside the region in states that include California, New York, Ohio and Wisconsin.
 
 ## Admission Requirements
-Applicants to Temple's MA or PhD programs in English should have the equivalent of an undergraduate concentration in English with broad chronological coverage of literature or have completed equivalent coursework. Successful applicants also have a strong record of academic achievement. When applying to our programs, you must declare whether you plan on earning your master's or doctorate. However, PhD students may choose to stop at the master's degree. If at any point you choose to apply and are accepted for Temple’s English PhD, all the credits you earn are transferable. Funding is available to available to eligible PhD candidates, including University Fellowships, Future Faculty Fellowships and Teaching Assistantships.
+As an applicant to our graduate programs in English, you should have the equivalent of an undergraduate concentration in English with broad chronological coverage of literature or have completed equivalent coursework. Successful applicants also have a strong record of academic achievement. When applying to Temple, you must declare whether you plan on earning your master's or doctorate. However, PhD students may choose to stop at the master's degree. As an MA you may choose to apply for the PhD program, and all your credits are transferable. Funding is available to eligible PhD candidates in the form of University Fellowships, Future Faculty Fellowships and Teaching Assistantships.
 
 [Learn About Funding and How to Apply to Our Graduate Programs](https://liberalarts.temple.edu/admissions/graduate/english)
 
@@ -87,7 +87,7 @@ Applicants to Temple's MA or PhD programs in English should have the equivalent 
 For more than 130 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other universities and see what we mean. Temple tuition rates vary by college or school, residency status, student level and more. Use the [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates) to estimate your tuition rate.
 
 ## Application Deadline
-The deadline for applications is **December 15** for those students applying for funding (i.e. teaching fellowships). We accept applications until February 15.
+The deadline for applications is **December 15** for students applying for funding (i.e. teaching fellowships). We accept applications until February 15.
 
 ## Doctoral Faculty
 **American Literature** - [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan), [Brian Teare](https://liberalarts.temple.edu/academics/faculty/teare-brian), [Daniel T. O’Hara](https://liberalarts.temple.edu/academics/faculty/o-hara-daniel), [James Salazar](https://liberalarts.temple.edu/academics/faculty/salazar-james), [Jena Osman](https://liberalarts.temple.edu/academics/faculty/osman-jena), [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce), [Katherine Henry](https://liberalarts.temple.edu/academics/faculty/henry-katherine), [Michael Kaufmann](https://liberalarts.temple.edu/academics/faculty/kaufmann-michael), [Miles Orvell](https://liberalarts.temple.edu/academics/faculty/orvell-miles), [Roland L. Williams Jr.](https://liberalarts.temple.edu/academics/faculty/williams-roland), [Sue-Im Lee](https://liberalarts.temple.edu/academics/faculty/lee-sue-im)
