@@ -81,7 +81,7 @@ In recent years, 40% of our PhDs have found work in tenure-track positions. Anot
 ## Admission Requirements
 As an applicant to our graduate programs in English, you should have the equivalent of an undergraduate concentration in English with broad chronological coverage of literature or have completed equivalent coursework. Successful applicants also have a strong record of academic achievement. When applying to Temple, you must declare whether you plan on earning your master's or doctorate. However, PhD students may choose to stop at the master's degree. As an MA you may choose to apply for the PhD program, and all your credits are transferable. Funding is available to eligible PhD candidates in the form of University Fellowships, Future Faculty Fellowships and Teaching Assistantships.
 
-[Learn About Funding and How to Apply to Our Graduate Programs](https://liberalarts.temple.edu/admissions/graduate/english)
+Please visit the [English Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/english) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Temple Tuition and Fees
 For more than 130 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other universities and see what we mean. Temple tuition rates vary by college or school, residency status, student level and more. Use the [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates) to estimate your tuition rate.
