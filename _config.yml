@@ -58,7 +58,7 @@ college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
 program_news: https://liberalarts.temple.edu/news/english
-program_events: https://events.temple.edu/department/english 
+program_events: https://events.temple.edu/department/english
 
 # Google Tag Manager OR Google Analytics
 google_analytics:
@@ -68,7 +68,7 @@ google_tag_manager: GTM-58ZL5B
 
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
 events-feed: https://liberalarts.temple.edu/events/english/csv
-news-feed: https://liberalarts.temple.edu/articles/english/csv
+news-feed: https://liberalarts.temple.edu/news/english/csv
 articles-feed: https://liberalarts.temple.edu/articles/english/csv
 faculty-feed: https://liberalarts.temple.edu/profiles/english/csv
 media-mentions-feed: https://liberalarts.temple.edu/media-mentions/english/csv
