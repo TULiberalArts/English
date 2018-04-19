@@ -1,6 +1,6 @@
 ---
-title: Resources
-permalink: /resources/
+title: Srtudent Life
+permalink: /student-life/
 layout: page
 description: >-
   Earn an MA or PhD in English from Temple University. We excel in 18th and 19th century literature as well as contemporary literature.
@@ -43,18 +43,3 @@ The Central Branch of the Philadelphia Free Library (at 1901 Vine St.) bring som
 - [Bryn Mawr College Reading Series](http://www.brynmawr.edu/calendar/visiting_writers.shtml)
 Bryn Mawr can be easily reached via public transportation by taking the Paoli/Thorndale line to the Bryn Mawr station.
 - [Villanova Literary Festival](https://www1.villanova.edu/villanova/artsci/english/newsandevents/literaryfestival.html) This festival happens every Spring semester. Villanova can be easily reached via public transportation by taking the Paoli/Thorndale line to the Villanova station.
-
-## Undergraduate Resources
-- [Changing your Major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp)
-- [Graduation Application Process](http://www.temple.edu/registrar/students/graduation/)
-- [Financing your Education](http://sfs.temple.edu/)
-- [Undergraduate Policies and Procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
-- [Undergraduate Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/english/)
-
-## Graduate Resources
-- [Graduate FAQ's](https://liberalarts.temple.edu/sites/liberalarts/files/English-.FAQs_.final_.pdf)
-- [Graduate Handbook](http://www.temple.edu/grad/policies/gradpolicies.htm)
-- [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm)
-- [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
-- [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
-- [Applying to Graduate School](http://www.temple.edu/grad/admissions/howtoapply.htm)
