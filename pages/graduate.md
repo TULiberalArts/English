@@ -107,8 +107,10 @@ For more than 130 years, we have focused on providing a world-class education at
 
 **Postcolonial and Global Literatures** - [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce), [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence), [Priya Joshi](https://liberalarts.temple.edu/academics/faculty/joshi-priya), [Suzanne Gauch](https://liberalarts.temple.edu/academics/faculty/gauch-suzanne), [Talissa Ford](https://liberalarts.temple.edu/academics/faculty/ford-talissa)
 
-## Academic Offerings
-- [MA in English](http://bulletin.temple.edu/graduate/scd/cla/english-ma/)
-- [4+1 Accelerated B.A./M.A. Degree Program in English](/english/four-plus-one/)
-- [PhD in English](http://bulletin.temple.edu/graduate/scd/cla/english-phd/)
-- [MFA in Creative Writing](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/)
+## Graduate Resources
+- [Graduate FAQ's](https://liberalarts.temple.edu/sites/liberalarts/files/English-.FAQs_.final_.pdf)
+- [Graduate Handbook](http://www.temple.edu/grad/policies/gradpolicies.htm)
+- [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm)
+- [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
+- [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
+- [Applying to Graduate School](http://www.temple.edu/grad/admissions/howtoapply.htm)
