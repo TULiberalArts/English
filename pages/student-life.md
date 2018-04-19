@@ -1,5 +1,5 @@
 ---
-title: Srtudent Life
+title: Student Life
 permalink: /student-life/
 layout: page
 description: >-
