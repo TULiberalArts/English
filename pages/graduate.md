@@ -72,16 +72,13 @@ Following course work, you will choose a concentration in one or two of our main
 
 A PhD in English at Temple takes anywhere from 5-7 years to finish, depending on whether you already have an master's degree and whether you have fellowship support, teaching responsibilities and other factors.
 
-## Study Abroad in Rome
-The Rome Seminar in Art and Culture is offered in the Summer term at Temple University's Rome campus, the Villa Caproni. The interdisciplinary seminar serves as a foundation for advanced study in the human sciences and reflects the most current trends of thought in post-modern culture. Graduate and post-doctoral students in art, film studies, literature, philosophy and social theory are welcome to apply. The seminar, taught in English, entails an intensive program of class work, field trips and guest lectures and uses Rome extensively as a resource.
-
-[Learn More about the Rome Seminar in Art and Culture](https://studyabroad.temple.edu/sites/temple-rome-graduate-summer)
-
 ## English PhD Job Placement
 In recent years, 40% of our PhDs have found work in tenure-track positions. Another 24% have found work in non-tenure full time teaching. In addition, 15% are working in non-teaching positions for which a PhD serves as a qualification. While some PhDs find work immediately upon graduating, it’s not uncommon for recent graduates to work as adjuncts for one or more years before securing a full-time position. Our graduates tend to find jobs in the Northeast, demonstrating the enriching effect of Temple's English graduate programs on the region. However, PhDs also take jobs outside the region in states that include California, New York, Ohio and Wisconsin.
 
 ## Admission Requirements
-As an applicant to our graduate programs in English, you should have the equivalent of an undergraduate concentration in English with broad chronological coverage of literature or have completed equivalent coursework. Successful applicants also have a strong record of academic achievement. When applying to Temple, you must declare whether you plan on earning your master's or doctorate. However, PhD students may choose to stop at the master's degree. As an MA you may choose to apply for the PhD program, and all your credits are transferable. Funding is available to eligible PhD candidates in the form of University Fellowships, Future Faculty Fellowships and Teaching Assistantships. The deadline for applications is **December 15** for students applying for funding (i.e. teaching fellowships). **We accept applications until February 15.**
+As an applicant to our graduate programs in English, you should have the equivalent of an undergraduate concentration in English with broad chronological coverage of literature or have completed equivalent coursework. Successful applicants also have a strong record of academic achievement. When applying to Temple, you must declare whether you plan on earning your master's or doctorate. However, PhD students may choose to stop at the master's degree. As an MA you may choose to apply for the PhD program, and all your credits are transferable. Funding is available to eligible PhD candidates in the form of University Fellowships, Future Faculty Fellowships and Teaching Assistantships. 
+
+The deadline for applications is **December 15** for students applying for funding (i.e. teaching fellowships). **We accept applications until February 15.**
 
 Please visit the [English Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/english) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
