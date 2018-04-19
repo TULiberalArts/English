@@ -79,17 +79,14 @@ At Temple, we believe that students from all walks of life should have access to
 
 [Student Financial Services](https://sfs.temple.edu/financial-aid-types)
 
-## Undergraduate Admissions
-Ready to apply? [Submit your application online](http://admissions.temple.edu/apply).
-
-## Academic Offerings
-[BA in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english/)
-[BA in English with a Concentration in Creative Writing](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english-creative-writing/)
-[Minor in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/minor-english/)
-[Certificate in Writing](http://bulletin.temple.edu/undergraduate/liberal-arts/english/certificate-writing/)
-
 ## Temple Admissions Deadlines
 - **Feb. 1**: Freshman Application Deadline for Fall Semester
 - **March 1**: FAFSA Financial Aid Application Deadline
 - **Nov. 1**: Transfer Deadline for Spring Semester
 - **June 1**: Transfer Deadline for Fall Semester
+## Undergraduate Resources
+- [Changing your Major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp)
+- [Graduation Application Process](http://www.temple.edu/registrar/students/graduation/)
+- [Financing your Education](http://sfs.temple.edu/)
+- [Undergraduate Policies and Procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
+- [Undergraduate Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/english/)
