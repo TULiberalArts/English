@@ -9,7 +9,7 @@ keywords: >-
 published: true
 feature: true
 feature-title: Study English Literature in Philadelphia
-feature-image: media/English hero.jpg
+feature-image: media/englishhero.jpg
 feature-body: >-
   Learn to think and write with clarity and imagination, conduct research and live an innovative life. Study under outstanding faculty in a world-class city for the arts - Philadelphia.
 ---
