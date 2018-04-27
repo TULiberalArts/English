@@ -13,8 +13,11 @@ feature-image: media/englishhero2.jpg
 feature-body: >-
   Learn to think and write with clarity and imagination, conduct research and live an innovative life. Study under outstanding faculty in a world-class city for the arts - Philadelphia.
 ---
-## Why Study English Literature?
-Whether you major, minor or pursue a graduate degree in English, our award-winning faculty lead courses that explore past and present artistic, linguistic, literary and social movements and their aftermaths. Courses in Temple's Department of English study the language, literatures and cultures of the United States, Britain, the English-speaking world and beyond. Our students become critical and reflective readers, aware of the history and development of writing in English. In addition, studying English helps develop strong writing skills and the ability to analyze problems.
+## Study English in Philadelphia
+Literature, the practice of writing, and the analysis of language foster attentiveness and mental agility by presenting us with complex perspectives on social and artistic movements, historical events, cultural phenomena, and communication patterns.
+ 
+## Why Study English?
+Powerful, persuasive writing, sharp analytic skills and creative, flexible thinking are essential abilities for tomorrow’s leaders and professionals. The English major cultivates these abilities through the study of the literatures, language, and cultures of the United States, Britain, the English-speaking world, and beyond.
 
 ## Academic Offerings
 - [BA in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english/)
@@ -44,8 +47,8 @@ Whether you major, minor or pursue a graduate degree in English, our award-winni
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
-        title="Meet Our Faculty "
-        content="Temple’s Department of English faculty are especially strong in modern literature and cultural studies, but we offer training in all historical periods of British and American literature."
+        title="Meet Our Faculty"
+        content="Our faculty come from many backgrounds and are committed to teaching students to think and write with clarity, think deeply and innovatively and to conduct research with curiosity and attention to detail. We prepare our students to engage the world knowledgeably and effectively, so that they may go on to lead rich lives as professionals, members of their communities, and global citizens."
         image=""
         button-link="/english/faculty/"
         button-text="Learn More" %}
