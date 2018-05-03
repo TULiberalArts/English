@@ -2,10 +2,9 @@
 title: Student Life
 permalink: /student-life/
 layout: page
+keywords: 'study abroad, awrds and scholarships, poetry series, graduate english association'
 description: >-
   Earn an MA or PhD in English from Temple University. We excel in 18th and 19th century literature as well as contemporary literature.
-keywords: >-
-  MA in English Literature, PhD in English, Temple Department of English
 published: true
 ---
 ## Awards and Scholarships
