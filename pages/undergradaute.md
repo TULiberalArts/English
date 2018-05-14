@@ -38,6 +38,8 @@ sidebar-content: |
    [(215) 204-1796](tel:2152041796)   
    [logansd@temple.edu](mailto:logansd@temple.edu)
 ---
+At the College of Liberal Arts, you can [major](#major-in-english-at-temple), [minor](#minor-in-english) or earn a [certificate](#certificate-in-writing) in English. You can even earn an English degree with a [concentration in creative writing](#creative-writing-concentration) and contribute to the [Hyphen Interdisciplinary Journal](#hyphen-interdisciplinary-journal). At Temple University, you’ll get the [academic advising and professional development](#academic-advising-and-professional-development) to make sure you [fly in four years](#fly-in-four) and are on track for a career after graduation. Still have questions? Find out what your [tuition and fees](#tuition-and-fees) would be, learn about your [financial aid](#financial-aid-and-scholarships) options and [admissions deadlines](#temple-admissions-deadlines) and read over our [additional resources](#undergraduate-resources). 
+
 ## Major in English at Temple
 ![Department of English Undergraduates]({{site.baseurl}}/media/temple-undergrad-english.jpg){:.img-right}
 English majors become reflective readers and strong, inventive writers. Courses in the Department of English explore past and present artistic, linguistic, literary and social movements and their aftermaths. Learn about topics that range from Shakespeare to depictions of race in literature from distinguished and internationally renown faculty. Like all undergraduate programs in the College of Liberal Arts, majoring in English teaches you how to think creatively and critically, cultivate social intelligence and solve problems. A BA in English not only prepares you for graduate-level study in English literature and in other academic disciplines, but also prepares you for careers that include advertising, business, education, government and law. We offer a [well-established internship program](/english/resources/) and a popular [career seminar](http://bulletin.temple.edu/search/?P=ENG%201801) that prepares English majors for life after graduation.
@@ -84,6 +86,7 @@ At Temple, we believe that students from all walks of life should have access to
 - **March 1**: FAFSA Financial Aid Application Deadline
 - **Nov. 1**: Transfer Deadline for Spring Semester
 - **June 1**: Transfer Deadline for Fall Semester
+
 ## Undergraduate Resources
 - [Changing your Major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp)
 - [Graduation Application Process](http://www.temple.edu/registrar/students/graduation/)
