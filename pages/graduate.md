@@ -38,6 +38,8 @@ sidebar-content: |
    [(215) 204-1796](tel:2152041796)   
    [logansd@temple.edu](mailto:logansd@temple.edu)
 ---
+Ready to further your education with an English graduate degree? At the College of Liberal Arts, you can earn an English [master’s degree](#ma-in-english) or a [PhD](#phd-in-english), which has fantastic [job placement rates](#english-phd-job-placement). Read up on our [admissions requirements](#admission-requirements), [tuition and fees](#temple-tuition-and-fees) and [graduate resources](#graduate-resources) and get to know our [doctoral faculty](#doctoral-faculty).
+
 ## Earn Your MA or PhD in English
 Temple University's MA and PhD programs in English offer students the resources of a Research I institution in an energetic urban environment. Both the MA and PhD programs provide options for intensive study in critical theory, cultural theory, film theory, minority literature and women’s studies. As a graduate student at the Department of English, you are encouraged to work closely with faculty and engage in serious research and publication projects. Temple's graduate programs in English are highly regarded for teaching and research in both traditional and innovative areas of literary criticism and history. We are especially strong in 18th century studies, 19th century studies and we emphasize training in composition and rhetoric. The department is affiliated with the Association of Departments of English (ADE) and the Modern Language Association (MLA).
 
