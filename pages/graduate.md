@@ -58,7 +58,7 @@ Please visit the [English Graduate Admissions page](https://liberalarts.temple.e
 ## MA in English
 If you want to earn only a master's degree or you want to explore education at the graduate level before committing to a PhD program, the Department of English offers a two year MA in English program. MA Graduates find employment in high schools or preparatory schools, in editing or publishing, or as professional writers. Others go on to doctoral study at Temple and other institutions. Funding is usually reserved for PhD students.
 
-[Learn More about the MA in English](http://bulletin.temple.edu/graduate/scd/cla/english-ma/)
+Learn More about the [MA in English](http://bulletin.temple.edu/graduate/scd/cla/english-ma/)
 
 ## PhD in English
 Graduates with a PhD typically go on to careers in college teaching and related fields. Foundational courses provide the broad background needed for independent research, while our advanced graduate classes allow you to engage with cutting-edge faculty research. Our special topics courses have recently covered the following subjects:
@@ -82,6 +82,8 @@ Following course work, you will choose a concentration in one or two of our main
 - Postcolonial and Global Literatures
 
 A PhD in English at Temple takes anywhere from 4-7 years to finish, depending on whether you already have a master's degree and whether you have fellowship support, teaching responsibilities and other factors.
+
+Learn More about the [PhD in English](http://bulletin.temple.edu/graduate/scd/cla/english-phd/)
 
 ## English PhD Job Placement
 In recent years, 40% of our PhDs have found work in tenure-track positions. Another 24% have found work in non-tenure full time teaching. In addition, 15% are working in non-teaching positions for which a PhD serves as a qualification. While some PhDs find work immediately upon graduating, it’s not uncommon for recent graduates to work as adjuncts for one or more years before securing a full-time position. Our graduates tend to find jobs in the Northeast, demonstrating the enriching effect of Temple's English graduate programs on the region. However, PhDs also take jobs outside the region in states that include California, New York, Ohio and Wisconsin.
