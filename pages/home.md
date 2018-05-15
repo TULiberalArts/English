@@ -29,6 +29,8 @@ Powerful, persuasive writing, sharp analytic skills and creative, flexible think
 - [MFA in Creative Writing](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/)
 - [PhD in English](http://bulletin.temple.edu/graduate/scd/cla/english-phd/)
 
+___
+
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
     title="Study Creative Writing "
