@@ -1,7 +1,7 @@
 ---
 title: Next Stops
 permalink: /next-stops/
-layout: page
+layout: tla_page
 description: >-
  What can I do with a BA in English? You're more valuable than you think. The skills you develop as an English major translate into many careers.
 keywords: 'careers for English majors, careers for English degree, Temple Department of English, internships English majors'

@@ -1,7 +1,7 @@
 ---
 title: Faculty
 permalink: /faculty/
-layout: faculty2
+layout: tla_faculty
 description: >-
   Temple’s Department of English faculty offer instruction in American and British literature in addition to modern literature and cultural studies.
 keywords: >-

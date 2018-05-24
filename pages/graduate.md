@@ -91,7 +91,7 @@ In recent years, 40% of our PhDs have found work in tenure-track positions. Anot
 ## Admission Requirements
 As an applicant to our graduate programs in English, you should have the equivalent of an undergraduate concentration in English with broad chronological coverage of literature or have completed equivalent coursework. Successful applicants also have a strong record of academic achievement. When applying to Temple, you must declare whether you plan on earning your master's or doctorate.
 
-For the PhD program, preference is given to applicants who will have earned the MA degree upon entering the program. For those coming from another institution, up to 15 transfer credits (5 courses) will be allowed toward the Temple degree. With some exceptions, all students admitted to the PhD program are funded for four years, and the deadline for students seeking funding is **December 15**. We accept applications until **February 15**. 
+For the PhD program, preference is given to applicants who will have earned the MA degree upon entering the program. For those coming from another institution, up to 15 transfer credits (5 courses) will be allowed toward the Temple degree. With some exceptions, all students admitted to the PhD program are funded for four years, and the deadline for students seeking funding is **December 15**. We accept applications until **February 15**.
 
 For those entering with an MA, the PhD can be completed in four years; for students going beyond four years, funding is available on a competitive basis. Adjunct teaching will also be available for those in their fifth year and beyond.
 
