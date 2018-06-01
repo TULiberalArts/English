@@ -1,11 +1,16 @@
 ---
-title: Student Life
-permalink: /student-life/
+# global predefined variables
 layout: tla_page
-keywords: 'study abroad, awrds and scholarships, poetry series, graduate english association'
-description: >-
-  Earn an MA or PhD in English from Temple University. We excel in 18th and 19th century literature as well as contemporary literature.
+permalink: /student-life/
 published: true
+# meta-data variables
+title: Student Life
+description: >-
+  Earn an MA or PhD in English from Temple University. We excel in 18th
+  and 19th century literature as well as contemporary literature.
+keywords: 'study abroad, awrds and scholarships, poetry series, graduate english association'
+# custom variables
+sidebar: false
 ---
 You love literature, and so does the College of Liberal Arts’ Department of English. But your English degree program doesn’t start and end with books. You can win [awards and scholarships](#awards-and-scholarships);[study abroad in Rome](#study-abroad-in-rome); join the [Association of Departments of English](#association-of-departments-of-english) or the [Graduate English Association](#graduate-english-association); contribute to the [Journal of Modern Literature](#journal-of-modern-literature), [Tinge](#tinge-magazine) or [Hyphen](#hyphen); participate in the [Writer-in-Residence program](#writer-in-residence-program); or attend a [DuPlessis Lecture](#duplessis-lecture-in-poetry-and-poetics) or [Philadelphia reading series](#local-philadelphia-reading-series).
 
