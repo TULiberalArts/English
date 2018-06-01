@@ -1,12 +1,15 @@
 ---
-title: Home
-permalink: /
+# global predefined variables
 layout: tla_home
+permalink: /
+published: true
+# meta-data variables
+title: Home
 description: >-
   Study English Literature at Temple University in Philadelphia. Temple University offers a BA, MA and PhD in English.
-keywords: >-
-  MA in English Literature, BA in English, Minor in English, Temple Department of English
-published: true
+keywords: 'MA in English Literature, BA in English, Minor in English, Temple Department of English'
+# custom variables
+sidebar: false
 feature: true
 feature-title: Study English Literature in Philadelphia
 feature-image: media/englishhero2.jpg
