@@ -1,42 +1,17 @@
 ---
-title: Undergraduate
+# global predefined variables
+layout: tla_page
 permalink: /undergraduate/
-layout: page
-description: >-
-  Major or minor in English at Temple University. A BA in English teaches you how to solve problems, think creatively and write clearly.  
-keywords: >-
-  BA in English, Minor in English, Temple Department of English
 published: true
+# meta-data variables
+title: Undergraduate
+description: >-
+  Major or minor in English at Temple University. A BA in English teaches
+  you how to solve problems, think creatively and write clearly.  
+keywords: 'BA in English, Minor in English, creative writing, certificate, fly in four, tuition and fees resources'
+# custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Katherine Henry  
-   1042 Anderson Hall  
-   [(215) 204-7516](tel:2152047516)  
-   [khenry@temple.edu](mailto:khenry@temple.edu)  
-
-   ___
-
-   **Undegraduate Advisor:**  
-   Gabriel Wettach  
-   1030 Anderson Hall  
-   [(215) 204-8510](tel:2152048510)  
-   [gabe@temple.edu](mailto:gabe@temple.edu)  
-
-   ___
-
-   **Administrator:**  
-   Stephanie Morawski  
-   1041 Anderson Hall   
-   [(215) 204-8516](tel:2152048516)  
-   [morawski@temple.edu](mailto:morawski@temple.edu)  
-
-   ___
-
-   **Coordinator:**  
-   Sharon Logan      
-   [(215) 204-1796](tel:2152041796)   
-   [logansd@temple.edu](mailto:logansd@temple.edu)
+sidebar_content: sidebars/undergraduate.html
 ---
 At the College of Liberal Arts, you can [major](#major-in-english-at-temple), [minor](#minor-in-english) or earn a [certificate](#certificate-in-writing) in English. You can even earn an English degree with a [concentration in creative writing](#creative-writing-concentration) and contribute to the [Hyphen Interdisciplinary Journal](#hyphen-interdisciplinary-journal). At Temple University, you’ll get the [academic advising and professional development](#academic-advising-and-professional-development) to make sure you [fly in four years](#fly-in-four) and are on track for a career after graduation. Still have questions? Find out what your [tuition and fees](#tuition-and-fees) would be, learn about your [financial aid](#financial-aid-and-scholarships) options and [admissions deadlines](#temple-admissions-deadlines) and read over our [additional resources](#undergraduate-resources). 
 
