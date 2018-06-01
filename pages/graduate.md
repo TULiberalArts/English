@@ -1,42 +1,17 @@
 ---
-title: Graduate
+# global predefined variables
+layout: tla_page
 permalink: /graduate/
-layout: page
+published: true
+# meta-data variables
+title: Graduate
 description: >-
   Earn an MA or PhD in English from Temple University. We excel in 18th and 19th
   century literature as well as contemporary literature.
 keywords: 'MA in English Literature, PhD in English, Temple Department of English'
-published: true
+# custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Katherine Henry  
-   1042 Anderson Hall  
-   [(215) 204-7516](tel:2152047516)  
-   [khenry@temple.edu](mailto:khenry@temple.edu)  
-
-   ___
-
-   **Director of Graduate Studies:**  
-   Miles Orvell  
-   022-29 Anderson Hall  
-   [(215) 204-1796](tel:2152041796)  
-   [orvell@temple.edu](mailto:orvell@temple.edu)  
-
-   ___
-
-   **Administrator:**  
-   Stephanie Morawski  
-   1041 Anderson Hall   
-   [(215) 204-8516](tel:2152048516)  
-   [morawski@temple.edu](mailto:morawski@temple.edu)  
-
-   ___
-
-   **Coordinator:**  
-   Sharon Logan      
-   [(215) 204-1796](tel:2152041796)   
-   [logansd@temple.edu](mailto:logansd@temple.edu)
+sidebar_content: sidebars/graduate.html
 ---
 Ready to further your education with an English graduate degree? At the College of Liberal Arts, you can earn an English [master’s degree](#ma-in-english) or a [PhD](#phd-in-english), which has fantastic [job placement rates](#english-phd-job-placement). Read up on our [admissions requirements](#admission-requirements), [tuition and fees](#temple-tuition-and-fees) and [graduate resources](#graduate-resources) and get to know our [doctoral faculty](#doctoral-faculty).
 
