@@ -1,11 +1,16 @@
 ---
-title: Next Stops
-permalink: /next-stops/
+# global predefined variables
 layout: tla_page
-description: >-
- What can I do with a BA in English? You're more valuable than you think. The skills you develop as an English major translate into many careers.
-keywords: 'careers for English majors, careers for English degree, Temple Department of English, internships English majors'
+permalink: /next-stops/
 published: true
+# meta-data variables
+title: Next Stops
+description: >-
+ What can I do with a BA in English? You're more valuable than you think. 
+ The skills you develop as an English major translate into many careers.
+keywords: 'careers for English majors, careers for English degree, Temple Department of English, internships English majors'
+# custom variables
+sidebar: false
 ---
 What’s next after you earn your English degree from Temple University? Graduates have a lot of options. So [make your declaration](#make-your-declaration) and [apply](#apply) to Temple after you come [visit us](#visit-us) and find out what a College of Liberal Arts English degree is all about. Need to learn more? Find out everything you need to know about our [application deadlines](#deadlines) and [transfer policies](#thinking-of-transferring).
 
