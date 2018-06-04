@@ -6,8 +6,9 @@ published: true
 # meta-data variables
 title: Next Stops
 description: >-
- What can I do with a BA in English? You're more valuable than you think. 
- The skills you develop as an English major translate into many careers.
+ See where an English degree in the department of English at the College of Liberal Arts at Temple University
+ can take you. Discover careers and internships for English majors. Make your declaration, find out about our 
+ application deadlines and transfer policies, and apply!
 keywords: 'careers for English majors, careers for English degree, Temple Department of English, internships English majors'
 # custom variables
 sidebar: false
