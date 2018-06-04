@@ -6,9 +6,10 @@ published: true
 # meta-data variables
 title: Student Life
 description: >-
-  Earn an MA or PhD in English from Temple University. We excel in 18th
-  and 19th century literature as well as contemporary literature.
-keywords: 'study abroad, awrds and scholarships, poetry series, graduate english association'
+  Study abroad in Rome; join the Association of Departments of English or the Graduate English Association; contribute to
+  the Journal of Modern Literature, Tinge, or Hyphen; participate in the Writer-in-Residence program; and attend the
+  DuPlessis Lecture or Philadelphia reading series while studying English at Temple University’s College of Liberal Arts.
+keywords: 'study abroad, awards and scholarships, poetry series, graduate english association'
 # custom variables
 sidebar: false
 ---
