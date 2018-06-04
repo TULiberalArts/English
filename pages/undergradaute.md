@@ -6,8 +6,9 @@ published: true
 # meta-data variables
 title: Undergraduate
 description: >-
-  Major or minor in English at Temple University. A BA in English teaches
-  you how to solve problems, think creatively and write clearly.  
+  Major, minor, or earn a certificate in English. Explore a concentration in creative writing and contribute
+  to the Hyphen Interdisciplinary Journal. Learn more about academic advising, fly in four, tuition and fees,
+  financial aid, and admissions deadlines for Temple University’s College of Liberal Arts. 
 keywords: 'BA in English, Minor in English, creative writing, certificate, fly in four, tuition and fees resources'
 # custom variables
 sidebar: true
