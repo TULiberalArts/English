@@ -6,7 +6,8 @@ published: true
 # meta-data variables
 title: Faculty
 description: >-
-  Temple’s Department of English faculty offer instruction in American and British literature in addition to modern literature and cultural studies.
+  Meet our faculty within the department of English at the College of Liberal Arts! Our faculty expertise 
+  and research lie in modern literature and cultural studies, with interests from critical theory to the arts.
 keywords: 'Temple English Faculty, Department of English, literature, faculty expertise, faculty research'
 # custom variables
 sidebar: false
