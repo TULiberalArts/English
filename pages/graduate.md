@@ -6,8 +6,9 @@ published: true
 # meta-data variables
 title: Graduate
 description: >-
-  Earn an MA or PhD in English from Temple University. We excel in 18th and 19th
-  century literature as well as contemporary literature.
+  Earn your PhD in English, or an undergraduate BA and graduate MA degree in English Literature in just five years
+  with our 4+1 Accelerated Degree program at the College of Liberal Arts.Learn more about our requirements, 
+  course schedule, and application in the department of English at Temple University.
 keywords: 'MA in English Literature, PhD in English, Temple Department of English'
 # custom variables
 sidebar: true
