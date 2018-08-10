@@ -20,17 +20,17 @@ At the College of Liberal Arts, you can [major](#major-in-english-at-temple), [m
 ![Department of English Undergraduates]({{site.baseurl}}/media/temple-undergrad-english.jpg){:.img-right}
 English majors become reflective readers and strong, inventive writers. Courses in the Department of English explore past and present artistic, linguistic, literary and social movements and their aftermaths. Learn about topics that range from Shakespeare to depictions of race in literature from distinguished and internationally renown faculty. Like all undergraduate programs in the College of Liberal Arts, majoring in English teaches you how to think creatively and critically, cultivate social intelligence and solve problems. A BA in English not only prepares you for graduate-level study in English literature and in other academic disciplines, but also prepares you for careers that include advertising, business, education, government and law. We offer a [well-established internship program](/english/student-life#internships/) and a popular [career seminar](http://bulletin.temple.edu/search/?P=ENG%201801) that prepares English majors for life after graduation.
 
-[Learn More about Majoring in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english/)
+Learn More about [Majoring in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english/)
 
 ## Minor in English
 The Minor in English is an excellent way to extend the breadth of your education and experience the rich history of American, English and global literature. Whether you plan to become a lawyer, a doctor or a social worker, minoring in English helps you develop strong analytical thinking and writing skills. As a result, minoring in English gives you better leverage in the job search or in graduate admissions after college. English minors take introduction courses in American, British and global literature in addition to a course in interpreting literature.
 
-[Learn More about Minoring in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/minor-english/)
+Learn More about [Minoring in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/minor-english/)
 
 ## Certificate in Writing
 If you attend a different Temple program, the Certificate in Writing allows you to focus on the skills and theory of writing. Because it is not a degree program, the Writing Certificate is only available to matriculated students who are already pursuing an undergraduate degree at Temple. Students earn the Certificate by receiving an average of B or above in five of the writing courses listed on the bulletin, including at least one from each of the three certificate areas. If you are interested in the certificate email [Professor Eli Goldblatt](mailto:eligold@temple.edu).
 
-[Learn More about the Writing Certificate](http://bulletin.temple.edu/undergraduate/liberal-arts/english/certificate-writing/)
+Learn More about the [Writing Certificate](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-writing/)
 
 ## Creative Writing Concentration
 ![Jasmine-Combs-Temple-Poet]({{site.baseurl}}/media/jasmine-combs-temple-poet.jpg){:.img-right}
@@ -42,7 +42,7 @@ Hyphen is Temple's only undergraduate student literary magazine. Founded by Prof
 ## Academic Advising and Professional Development
 Take full advantage of the [College of Liberal Arts](https://liberalarts.temple.edu/)’ flexible curriculum with the help of our award-winning advisors. We help you select a major or a minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with internships, study abroad programs and other experiential learning opportunities.
 
-[Learn More about Temple’s Award-Winning Advisors](https://liberalarts.temple.edu/advising)
+Learn More about [Temple’s Award-Winning Advisors](https://liberalarts.temple.edu/advising)
 
 ## Fly in Four
 Take charge of your future and limit your debt. The Fly in 4 partnership allows you to complete your degree on time — or Temple will pay for your remaining course work. Graduating on time means your path to success starts sooner. We provide you with the resources you need to graduate in four years, like academic advising and classes offered when you need them. You commit to doing what it takes to blaze your career path in four years.
