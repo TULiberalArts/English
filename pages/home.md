@@ -28,7 +28,7 @@ Powerful, persuasive writing, sharp analytic skills and creative, flexible think
 - [BA in English with a Concentration in Creative Writing](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english-creative-writing/)
 - [Minor in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/minor-english/)
 - [Combined BA/MA 4+1 program in English](/english/four-plus-one/)
-- [Certificate in Writing](http://bulletin.temple.edu/undergraduate/liberal-arts/english/certificate-writing/)
+- [Certificate in Writing](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-writing/)
 - [MA in English](http://bulletin.temple.edu/graduate/scd/cla/english-ma/)
 - [MFA in Creative Writing](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/)
 - [PhD in English](http://bulletin.temple.edu/graduate/scd/cla/english-phd/)
