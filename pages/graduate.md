@@ -70,7 +70,9 @@ For the PhD program, preference is given to applicants who will have earned the 
 
 For those entering with an MA, the PhD can be completed in four years; for students going beyond four years, funding is available on a competitive basis. Adjunct teaching will also be available for those in their fifth year and beyond.
 
-Please visit the [English Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/english) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+Please visit the [English Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/english-ma/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+
+___
 
 ## Doctoral Faculty
 **American Literature** - [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan), [Brian Teare](https://liberalarts.temple.edu/academics/faculty/teare-brian), [James Salazar](https://liberalarts.temple.edu/academics/faculty/salazar-james), [Jena Osman](https://liberalarts.temple.edu/academics/faculty/osman-jena), [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce), [Katherine Henry](https://liberalarts.temple.edu/academics/faculty/henry-katherine), [Michael Kaufmann](https://liberalarts.temple.edu/academics/faculty/kaufmann-michael), [Miles Orvell](https://liberalarts.temple.edu/academics/faculty/orvell-miles), [Roland L. Williams Jr.](https://liberalarts.temple.edu/academics/faculty/williams-roland), [Sue-Im Lee](https://liberalarts.temple.edu/academics/faculty/lee-sue-im)
