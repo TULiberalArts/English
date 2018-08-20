@@ -28,7 +28,7 @@ The Graduate English Program offers students a range of methods and practices ce
 - Poetry and Poetics<br>
 - Gender and Sexuality<br>
 
-Please visit the [English Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/english) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+Please visit the [English Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/english-ma/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## MA in English
 If you want to earn only a master's degree or you want to explore education at the graduate level before committing to a PhD program, the Department of English offers a two year MA in English program. MA Graduates find employment in high schools or preparatory schools, in editing or publishing, or as professional writers. Others go on to doctoral study at Temple and other institutions. Funding is usually reserved for PhD students.
