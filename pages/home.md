@@ -11,6 +11,7 @@ description: >-
 keywords: 'MA in English Literature, BA in English, Minor in English, Temple Department of English'
 # custom variables
 sidebar: false
+promotion-table: true
 feature: true
 feature-title: Study English Literature in Philadelphia
 feature-image: media/FYWP hero_bg.png
