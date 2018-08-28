@@ -13,7 +13,7 @@ keywords: 'MA in English Literature, BA in English, Minor in English, Temple Dep
 sidebar: false
 feature: true
 feature-title: Study English Literature in Philadelphia
-feature-image: FYWP hero_bg.png
+feature-image: media/FYWP hero_bg.png
 feature-body: >-
   Learn to think and write with clarity and imagination, conduct research and live an innovative life. Study under outstanding faculty in a world-class city for the arts - Philadelphia.
 ---
