@@ -53,7 +53,3 @@ Ready to apply? [Submit your application online](http://admissions.temple.edu/ap
 - **March 1st**: FAFSA Financial Aid Application Deadline
 - **Nov. 1st**: Transfer Deadline for Spring Semester
 - **June 1st**: Transfer Deadline for Fall Semester
-
-___
-
-<script type="text/javascript" src="https://form.jotform.com/jsform/81124588388164"></script>
