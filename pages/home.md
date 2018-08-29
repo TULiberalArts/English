@@ -24,6 +24,8 @@ Literature, the practice of writing, and the analysis of language foster attenti
 ## Why Study English?
 Powerful, persuasive writing, sharp analytic skills and creative, flexible thinking are essential abilities for tomorrow’s leaders and professionals. The English major cultivates these abilities through the study of the literatures, language, and cultures of the United States, Britain, the English-speaking world, and beyond.
 
+Visit the **[First Year Writing Program Website](http://www.cla.temple.edu/first-year-writing-program/)** to learn more about your introduction to college-level reading, writing and thinking!
+
 ## Academic Offerings
 - [BA in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english/)
 - [BA in English with a Concentration in Creative Writing](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english-creative-writing/)
