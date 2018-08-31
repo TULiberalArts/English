@@ -72,6 +72,14 @@ For those entering with an MA, the PhD can be completed in four years; for stude
 
 Please visit the [English Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/english-ma/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
+## Graduate Resources
+- [Graduate FAQ's](https://liberalarts.temple.edu/sites/liberalarts/files/English-.FAQs_.final_.pdf)
+- [Graduate Handbook](http://www.temple.edu/grad/policies/gradpolicies.htm)
+- [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm)
+- [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
+- [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
+- [Applying to Graduate School](http://www.temple.edu/grad/admissions/howtoapply.htm)
+
 ___
 
 ## Doctoral Faculty
@@ -147,11 +155,3 @@ ___
 - [Priya Joshi](https://liberalarts.temple.edu/academics/faculty/joshi-priya)
 - [Suzanne Gauch](https://liberalarts.temple.edu/academics/faculty/gauch-suzanne)
 - [Talissa Ford](https://liberalarts.temple.edu/academics/faculty/ford-talissa)
-
-## Graduate Resources
-- [Graduate FAQ's](https://liberalarts.temple.edu/sites/liberalarts/files/English-.FAQs_.final_.pdf)
-- [Graduate Handbook](http://www.temple.edu/grad/policies/gradpolicies.htm)
-- [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm)
-- [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
-- [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
-- [Applying to Graduate School](http://www.temple.edu/grad/admissions/howtoapply.htm)
