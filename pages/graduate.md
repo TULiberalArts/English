@@ -75,23 +75,78 @@ Please visit the [English Graduate Bulletin](http://bulletin.temple.edu/graduate
 ___
 
 ## Doctoral Faculty
-**American Literature** - [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan), [Brian Teare](https://liberalarts.temple.edu/academics/faculty/teare-brian), [James Salazar](https://liberalarts.temple.edu/academics/faculty/salazar-james), [Jena Osman](https://liberalarts.temple.edu/academics/faculty/osman-jena), [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce), [Katherine Henry](https://liberalarts.temple.edu/academics/faculty/henry-katherine), [Michael Kaufmann](https://liberalarts.temple.edu/academics/faculty/kaufmann-michael), [Miles Orvell](https://liberalarts.temple.edu/academics/faculty/orvell-miles), [Roland L. Williams Jr.](https://liberalarts.temple.edu/academics/faculty/williams-roland), [Sue-Im Lee](https://liberalarts.temple.edu/academics/faculty/lee-sue-im)
+**American Literature** 
+- [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan)
+- [Brian Teare](https://liberalarts.temple.edu/academics/faculty/teare-brian)
+- [James Salazar](https://liberalarts.temple.edu/academics/faculty/salazar-james)
+- [Jena Osman](https://liberalarts.temple.edu/academics/faculty/osman-jena)
+- [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce)
+- [Katherine Henry](https://liberalarts.temple.edu/academics/faculty/henry-katherine)
+- [Michael Kaufmann](https://liberalarts.temple.edu/academics/faculty/kaufmann-michael)
+- [Miles Orvell](https://liberalarts.temple.edu/academics/faculty/orvell-miles)
+- [Roland L. Williams Jr.](https://liberalarts.temple.edu/academics/faculty/williams-roland)
+- [Sue-Im Lee](https://liberalarts.temple.edu/academics/faculty/lee-sue-im)
 
-**British Literature** - [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan), [Carissa M. Harris](https://liberalarts.temple.edu/academics/faculty/harris-carissa), [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence), [Nichole Miller](https://liberalarts.temple.edu/academics/faculty/miller-nichole), [Peter Logan](https://liberalarts.temple.edu/academics/faculty/logan-peter-m), [Priya Joshi](https://liberalarts.temple.edu/academics/faculty/joshi-priya), [Steve Newman](https://liberalarts.temple.edu/academics/faculty/newman-steve), [Talissa Ford](https://liberalarts.temple.edu/academics/faculty/ford-talissa)
+**British Literature** 
+- [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan)
+- [Carissa M. Harris](https://liberalarts.temple.edu/academics/faculty/harris-carissa)
+- [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence)
+- [Nichole Miller](https://liberalarts.temple.edu/academics/faculty/miller-nichole)
+- [Peter Logan](https://liberalarts.temple.edu/academics/faculty/logan-peter-m)
+- [Priya Joshi](https://liberalarts.temple.edu/academics/faculty/joshi-priya)
+- [Steve Newman](https://liberalarts.temple.edu/academics/faculty/newman-steve)
+- [Talissa Ford](https://liberalarts.temple.edu/academics/faculty/ford-talissa)
 
-**Composition and Rhetoric** - [Eli Goldblatt](https://liberalarts.temple.edu/academics/faculty/goldblatt-eli), Shannon Walters
+**Composition and Rhetoric** 
+- [Eli Goldblatt](https://liberalarts.temple.edu/academics/faculty/goldblatt-eli)
+- Shannon Walters
 
-**Critical and Cultural Theories** - [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan), [Eli Goldblatt](https://liberalarts.temple.edu/academics/faculty/goldblatt-eli), [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence), [Michael Kaufmann](https://liberalarts.temple.edu/academics/faculty/kaufmann-michael), [Nichole Miller](https://liberalarts.temple.edu/academics/faculty/miller-nichole), [Suzanne Gauch](https://liberalarts.temple.edu/academics/faculty/gauch-suzanne)
+**Critical and Cultural Theories** 
+- [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan)
+- [Eli Goldblatt](https://liberalarts.temple.edu/academics/faculty/goldblatt-eli)
+- [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence)
+- [Michael Kaufmann](https://liberalarts.temple.edu/academics/faculty/kaufmann-michael)
+- [Nichole Miller](https://liberalarts.temple.edu/academics/faculty/miller-nichole)
+- [Suzanne Gauch](https://liberalarts.temple.edu/academics/faculty/gauch-suzanne)
 
-**Gender and Sexuality** - [Brian Teare](https://liberalarts.temple.edu/academics/faculty/teare-brian), [Carissa M. Harris](https://liberalarts.temple.edu/academics/faculty/harris-carissa), [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce), [Suzanne Gauch](https://liberalarts.temple.edu/academics/faculty/gauch-suzanne), [Talissa Ford](https://liberalarts.temple.edu/academics/faculty/ford-talissa)
+**Gender and Sexuality** 
+- [Brian Teare](https://liberalarts.temple.edu/academics/faculty/teare-brian)
+- [Carissa M. Harris](https://liberalarts.temple.edu/academics/faculty/harris-carissa)
+- [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce)
+- [Suzanne Gauch](https://liberalarts.temple.edu/academics/faculty/gauch-suzanne)
+- [Talissa Ford](https://liberalarts.temple.edu/academics/faculty/ford-talissa)
 
-**Ethnic and African American Literatures** - [James Salazar](https://liberalarts.temple.edu/academics/faculty/salazar-james), [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce), [Katherine Henry](https://liberalarts.temple.edu/academics/faculty/henry-katherine), [Miles Orvell](https://liberalarts.temple.edu/academics/faculty/orvell-miles), [Roland L. Williams Jr.](https://liberalarts.temple.edu/academics/faculty/williams-roland), [Sue-Im Lee](https://liberalarts.temple.edu/academics/faculty/lee-sue-im)
+**Ethnic and African American Literatures** 
+- [James Salazar](https://liberalarts.temple.edu/academics/faculty/salazar-james)
+- [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce)
+- [Katherine Henry](https://liberalarts.temple.edu/academics/faculty/henry-katherine)
+- [Miles Orvell](https://liberalarts.temple.edu/academics/faculty/orvell-miles)
+- [Roland L. Williams Jr.](https://liberalarts.temple.edu/academics/faculty/williams-roland)
+- [Sue-Im Lee](https://liberalarts.temple.edu/academics/faculty/lee-sue-im)
 
-**Literature and Visual Studies (film, photography)** - [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan), [Jena Osman](https://liberalarts.temple.edu/academics/faculty/osman-jena), [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence), [Miles Orvell](https://liberalarts.temple.edu/academics/faculty/orvell-miles), [Priya Joshi](https://liberalarts.temple.edu/academics/faculty/joshi-priya), [Roland L. Williams Jr.](https://liberalarts.temple.edu/academics/faculty/williams-roland), [Suzanne Gauch](https://liberalarts.temple.edu/academics/faculty/gauch-suzanne)
+**Literature and Visual Studies (film, photography)** 
+- [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan)
+- [Jena Osman](https://liberalarts.temple.edu/academics/faculty/osman-jena)
+- [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence)
+- [Miles Orvell](https://liberalarts.temple.edu/academics/faculty/orvell-miles)
+- [Priya Joshi](https://liberalarts.temple.edu/academics/faculty/joshi-priya)
+- [Roland L. Williams Jr.](https://liberalarts.temple.edu/academics/faculty/williams-roland)
+- [Suzanne Gauch](https://liberalarts.temple.edu/academics/faculty/gauch-suzanne)
 
-**Poetry and Poetics** - [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan), [Brian Teare](https://liberalarts.temple.edu/academics/faculty/teare-brian), [Eli Goldblatt](https://liberalarts.temple.edu/academics/faculty/goldblatt-eli), [Jena Osman](https://liberalarts.temple.edu/academics/faculty/osman-jena), [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence), [Steve Newman](https://liberalarts.temple.edu/academics/faculty/newman-steve)
+**Poetry and Poetics** 
+- [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan)
+- [Brian Teare](https://liberalarts.temple.edu/academics/faculty/teare-brian)
+- [Eli Goldblatt](https://liberalarts.temple.edu/academics/faculty/goldblatt-eli)
+- [Jena Osman](https://liberalarts.temple.edu/academics/faculty/osman-jena)
+- [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence)
+- [Steve Newman](https://liberalarts.temple.edu/academics/faculty/newman-steve)
 
-**Postcolonial and Global Literatures** - [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce), [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence), [Priya Joshi](https://liberalarts.temple.edu/academics/faculty/joshi-priya), [Suzanne Gauch](https://liberalarts.temple.edu/academics/faculty/gauch-suzanne), [Talissa Ford](https://liberalarts.temple.edu/academics/faculty/ford-talissa)
+**Postcolonial and Global Literatures** 
+- [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce)
+- [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence)
+- [Priya Joshi](https://liberalarts.temple.edu/academics/faculty/joshi-priya)
+- [Suzanne Gauch](https://liberalarts.temple.edu/academics/faculty/gauch-suzanne)
+- [Talissa Ford](https://liberalarts.temple.edu/academics/faculty/ford-talissa)
 
 ## Graduate Resources
 - [Graduate FAQ's](https://liberalarts.temple.edu/sites/liberalarts/files/English-.FAQs_.final_.pdf)
