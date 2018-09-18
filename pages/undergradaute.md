@@ -33,7 +33,7 @@ If you attend a different Temple program, the Certificate in Writing allows you 
 Learn More about the [Writing Certificate](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-writing/)
 
 ## Creative Writing Concentration
-![Jasmine-Combs-Temple-Poet]({{site.baseurl}}/media/jasmine-combs-temple-poet.jpg){:.img-right}
+![Jasmine-Combs-Temple-Poet]({{site.baseurl}}/media/resized jasmine-combs-temple-poet.jpg){:.img-right}
 If writing is your passion, Temple’s Department of English offers a [BA in English with a Concentration in Creative Writing](http://develop.cla.temple.edu/creative-writing/undergraduate/). Our students are immersed in poetry and fiction and gain experience writing in different genres. Prominent and award-winning writers lead Temple’s undergraduate Creative Writing program - students work closely with faculty to become better writers and readers. We recommend Creative Writing Concentration students focus on either fiction, poetry or screenwriting.
 
 ## Hyphen Interdisciplinary Journal
