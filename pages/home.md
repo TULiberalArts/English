@@ -41,7 +41,7 @@ ___
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
     title="Study Creative Writing "
-    content="Prominent and award-winning writers lead Temple’s undergraduate Creative Writing program - students work closely with faculty to become better writers and readers."
+    content="Prominent and award-winning writers lead Temple’s Creative Writing program - students work closely with faculty to become better writers and readers."
     image=""
     button-link="http://develop.cla.temple.edu/creative-writing/"
     button-text="Learn More" %}
