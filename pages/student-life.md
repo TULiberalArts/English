@@ -40,7 +40,7 @@ The [Graduate English Association](https://sites.temple.edu/gradenglish/about/) 
 TINGE Magazine, Temple University’s online literary journal, is usually published twice a year, in the Spring (May) and in the Fall (December). The journal is edited by the graduate students of Temple’s MFA Program in Creative Writing. The journal has an open submission policy.
 
 ## Hyphen
-![Hyphen Students]({{site.baseurl}}/media/resized Hyphen.jpg){:.img-right}
+![Hyphen Students]({{site.baseurl}}/media/resized Hyphen.jpg){:.responsive-img .img-right}
 Hyphen Literary and Arts Magazine is Temple University's only undergraduate literary magazine. We were founded in 2000 by Jena Osman, with the mission of providing Temple students with an outlet to showcase their creative skills. Every year, we are proud to present a new round of the best of student writing and art. Interested in becoming a part of Hyphen? Contact us at [hyphen.temple@gmail.com](hyphen.temple@gmail.com), or message us on [Facebook](https://www.facebook.com/HyphenLit/). Our faculty advisor is [Don Lee](https://liberalarts.temple.edu/academics/faculty/lee-don).  
 
 ## Writer-in-Residence Program
