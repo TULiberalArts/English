@@ -17,7 +17,7 @@ sidebar_content: sidebars/undergraduate.html
 At the College of Liberal Arts, you can [major](#major-in-english-at-temple), [minor](#minor-in-english) or earn a [certificate](#certificate-in-writing) in English. You can even earn an English degree with a [concentration in creative writing](#creative-writing-concentration) and contribute to the [Hyphen Interdisciplinary Journal](#hyphen-interdisciplinary-journal). At Temple University, you’ll get the [academic advising and professional development](#academic-advising-and-professional-development) to make sure you [fly in four years](#fly-in-four) and are on track for a career after graduation. Still have questions? Find out what your [tuition and fees](#tuition-and-fees) would be, learn about your [financial aid](#financial-aid-and-scholarships) options and [admissions deadlines](#temple-admissions-deadlines) and read over our [additional resources](#undergraduate-resources). 
 
 ## Major in English at Temple
-![Department of English Undergraduates]({{site.baseurl}}/media/resized temple-undergrad-english.jpg){:.img-right}
+![Department of English Undergraduates]({{site.baseurl}}/media/resized temple-undergrad-english.jpg){:.responsive-img .img-right}
 English majors become reflective readers and strong, inventive writers. Courses in the Department of English explore past and present artistic, linguistic, literary and social movements and their aftermaths. Learn about topics that range from Shakespeare to depictions of race in literature from distinguished and internationally renown faculty. Like all undergraduate programs in the College of Liberal Arts, majoring in English teaches you how to think creatively and critically, cultivate social intelligence and solve problems. A BA in English not only prepares you for graduate-level study in English literature and in other academic disciplines, but also prepares you for careers that include advertising, business, education, government and law. We offer a [well-established internship program](/english/student-life#internships/) and a popular [career seminar](http://bulletin.temple.edu/search/?P=ENG%201801) that prepares English majors for life after graduation.
 
 Learn More about [Majoring in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english/)
@@ -33,7 +33,7 @@ If you attend a different Temple program, the Certificate in Writing allows you 
 Learn More about the [Writing Certificate](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-writing/)
 
 ## Creative Writing Concentration
-![Jasmine-Combs-Temple-Poet]({{site.baseurl}}/media/resized jasmine-combs-temple-poet.jpg){:.img-right}
+![Jasmine-Combs-Temple-Poet]({{site.baseurl}}/media/resized jasmine-combs-temple-poet.jpg){:.responsive-img .img-right}
 If writing is your passion, Temple’s Department of English offers a [BA in English with a Concentration in Creative Writing](http://develop.cla.temple.edu/creative-writing/undergraduate/). Our students are immersed in poetry and fiction and gain experience writing in different genres. Prominent and award-winning writers lead Temple’s undergraduate Creative Writing program - students work closely with faculty to become better writers and readers. We recommend Creative Writing Concentration students focus on either fiction, poetry or screenwriting.
 
 ## Hyphen Interdisciplinary Journal
