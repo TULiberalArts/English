@@ -8,13 +8,12 @@ title: Undergraduate
 description: >-
   Major, minor, or earn a certificate in English. Explore a concentration in creative writing and contribute
   to the Hyphen Interdisciplinary Journal. Learn more about academic advising, fly in four, tuition and fees,
-  financial aid, and admissions deadlines for Temple University’s College of Liberal Arts. 
+  financial aid, and admissions deadlines for Temple University’s College of Liberal Arts.
 keywords: 'BA in English, Minor in English, creative writing, certificate, fly in four, tuition and fees resources'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/undergraduate.html
+sidebar: sidebars/undergraduate.html
 ---
-At the College of Liberal Arts, you can [major](#major-in-english-at-temple), [minor](#minor-in-english) or earn a [certificate](#certificate-in-writing) in English. You can even earn an English degree with a [concentration in creative writing](#creative-writing-concentration) and contribute to the [Hyphen Interdisciplinary Journal](#hyphen-interdisciplinary-journal). At Temple University, you’ll get the [academic advising and professional development](#academic-advising-and-professional-development) to make sure you [fly in four years](#fly-in-four) and are on track for a career after graduation. Still have questions? Find out what your [tuition and fees](#tuition-and-fees) would be, learn about your [financial aid](#financial-aid-and-scholarships) options and [admissions deadlines](#temple-admissions-deadlines) and read over our [additional resources](#undergraduate-resources). 
+At the College of Liberal Arts, you can [major](#major-in-english-at-temple), [minor](#minor-in-english) or earn a [certificate](#certificate-in-writing) in English. You can even earn an English degree with a [concentration in creative writing](#creative-writing-concentration) and contribute to the [Hyphen Interdisciplinary Journal](#hyphen-interdisciplinary-journal). At Temple University, you’ll get the [academic advising and professional development](#academic-advising-and-professional-development) to make sure you [fly in four years](#fly-in-four) and are on track for a career after graduation. Still have questions? Find out what your [tuition and fees](#tuition-and-fees) would be, learn about your [financial aid](#financial-aid-and-scholarships) options and [admissions deadlines](#temple-admissions-deadlines) and read over our [additional resources](#undergraduate-resources).
 
 ## Major in English at Temple
 ![Department of English Undergraduates]({{site.baseurl}}/media/resized temple-undergrad-english.jpg){:.responsive-img .img-right}

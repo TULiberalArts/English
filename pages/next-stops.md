@@ -7,11 +7,10 @@ published: true
 title: Next Stops
 description: >-
  See where an English degree in the department of English at the College of Liberal Arts at Temple University
- can take you. Discover careers and internships for English majors. Make your declaration, find out about our 
+ can take you. Discover careers and internships for English majors. Make your declaration, find out about our
  application deadlines and transfer policies, and apply!
 keywords: 'careers for English majors, careers for English degree, Temple Department of English, internships English majors'
 # custom variables
-sidebar: false
 ---
 What’s next after you earn your English degree from Temple University? Graduates have a lot of options. So [make your declaration](#make-your-declaration) and [apply](#apply) to Temple after you come [visit us](#visit-us) and find out what a College of Liberal Arts English degree is all about. Need to learn more? Find out everything you need to know about our [application deadlines](#deadlines) and [transfer policies](#thinking-of-transferring).
 
