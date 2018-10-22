@@ -24,8 +24,6 @@ The entire list of awards and scholarships for English majors is listed along wi
 ## Study Abroad in Rome
 The Rome Seminar in Art and Culture is offered in the Summer term at Temple University's Rome campus, the Villa Caproni. The interdisciplinary seminar serves as a foundation for advanced study in the human sciences and reflects the most current trends of thought in post-modern culture. Graduate and post-doctoral students in art, film studies, literature, philosophy and social theory are welcome to apply. The seminar, taught in English, entails an intensive program of class work, field trips and guest lectures and uses Rome extensively as a resource.
 
-[Learn More about the Rome Seminar in Art and Culture](https://studyabroad.temple.edu/sites/temple-rome-graduate-summer)
-
 ## Association of Departments of English
 The [Association of Departments of English](https://www.ade.mla.org/) advocates for English departments and promotes the value of English studies. As a project of the Modern Language Association, the ADE provides information and research for its member departments, creating institutional, national, and professional contexts for exploring policy, disciplinary challenges, trends, and best practices in the broad field of English studies in higher education.
 
