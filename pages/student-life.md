@@ -22,7 +22,10 @@ _Students cannot register themselves for English 3085. In order to be registered
 The entire list of awards and scholarships for English majors is listed along with applications and instructions on the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4593&field_awards_academics_class_value=All) page.
 
 ## Study Abroad in Rome
-The Rome Seminar in Art and Culture is offered in the Summer term at Temple University's Rome campus, the Villa Caproni. The interdisciplinary seminar serves as a foundation for advanced study in the human sciences and reflects the most current trends of thought in post-modern culture. Graduate and post-doctoral students in art, film studies, literature, philosophy and social theory are welcome to apply. The seminar, taught in English, entails an intensive program of class work, field trips and guest lectures and uses Rome extensively as a resource.
+The Rome Seminar in Art and Culture is offered every few years in the Summer term at Temple University’s Rome campus, the Villa Caproni.
+The interdisciplinary seminar serves as a foundation for advanced study in the human sciences and reflects the most current trends of thought in post-modern culture. Graduate and post-doctoral students in art, film studies, literature, philosophy and social theory are welcome to apply. The seminar, taught in English, entails an intensive program of class work, field trips and guest lectures and uses Rome extensively as a resource.
+
+_Please contact the [Director of Graduate Studies](mailto:orvell@temple.edu) for further information._
 
 ## Association of Departments of English
 The [Association of Departments of English](https://www.ade.mla.org/) advocates for English departments and promotes the value of English studies. As a project of the Modern Language Association, the ADE provides information and research for its member departments, creating institutional, national, and professional contexts for exploring policy, disciplinary challenges, trends, and best practices in the broad field of English studies in higher education.
