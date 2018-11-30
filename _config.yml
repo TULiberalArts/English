@@ -56,9 +56,9 @@ media-mentions-feed: https://liberalarts.temple.edu/media-mentions/english/csv
 social:
   # Facebook - https://www.facebook.com/USERNAME
   # if your page does not have a custom URL, create one!
-  facebook: TempleLiberalArts
+  facebook: EnglishAtTemple
   # Twitter - https://twitter.com/USERNAME
-  twitter: TULiberalArts
+  twitter: EnglishAtTemple
   # Instagram - https://www.instagram.com/USERNAME
   instagram: TULiberalArts
   # Snapchat - USERNAME
