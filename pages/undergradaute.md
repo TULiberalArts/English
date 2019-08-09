@@ -26,10 +26,10 @@ The Minor in English is an excellent way to extend the breadth of your education
 
 Learn More about [Minoring in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/minor-english/)
 
-## Certificate in Writing
-If you attend a different Temple program, the Certificate in Writing allows you to focus on the skills and theory of writing. Because it is not a degree program, the Writing Certificate is only available to matriculated students who are already pursuing an undergraduate degree at Temple. Students earn the Certificate by receiving an average of B or above in five of the writing courses listed on the bulletin, including at least one from each of the three certificate areas. If you are interested in the certificate email [Professor Eli Goldblatt](mailto:eligold@temple.edu).
+## Certificate in Professional Writing
+If you attend a different Temple program, the Certificate in Professional Writing allows you to focus on the skills and theory of writing. Because it is not a degree program, the Writing Certificate is only available to matriculated students who are already pursuing an undergraduate degree at Temple. Students earn the Certificate by receiving an average of B or above in five of the writing courses listed on the bulletin, including at least one from each of the three certificate areas. If you are interested in the certificate email [Professor Eli Goldblatt](mailto:eligold@temple.edu).
 
-Learn More about the [Writing Certificate](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-writing/)
+Learn More about the [Certificate in Professional Writing](https://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-professional-writing/)
 
 ## Creative Writing Concentration
 ![Jasmine-Combs-Temple-Poet]({{site.baseurl}}/media/resized jasmine-combs-temple-poet.jpg){:.responsive-img .img-right}
