@@ -18,15 +18,7 @@ Ready to further your education with an English graduate degree? At the College 
 ## Earn Your MA or PhD in English
 Temple University’s MA and PhD programs in English offer students the resources of a Research I institution in an energetic urban environment. Both the MA and PhD programs provide options for intensive study in critical theory, cultural theory, film theory, minority literature and women’s studies. As a graduate student at the Department of English, you are encouraged to work closely with faculty and engage in serious research and publication projects. Temple’s graduate programs in English are highly regarded for teaching and research in both traditional and innovative areas of literary criticism and history.
 
-The Graduate English Program offers students a range of methods and practices centering on Interdisciplinary Studies in Literature, Culture, and Rhetoric.  We offer courses in the foundational areas of English studies, such as British and American, Modernism, Contemporary, Rhetoric and Composition. In addition, we offer advanced seminars in more specialized areas such as:
-
-- Postcolonial and Global Literatures<br>
-- Ethnic and African American literatures<br>
-- Literature and Visual Studies<br>
-- Critical and Cultural Theories<br>
-- Theory of Genres<br>
-- Poetry and Poetics<br>
-- Gender and Sexuality<br>
+The Graduate English Program offers students a range of methods and practices centering on Interdisciplinary Studies in Literature, Culture, and Rhetoric.  We offer courses in the foundational areas of English studies, such as British and American, Modernism, Contemporary, Rhetoric and Composition.  In addition, we offer advanced seminars in more specialized areas such as Postcolonial and Global Literatures; Ethnic and African American literatures, Literature and Visual Studies, Critical and Cultural Theories, Theory of Genres, Poetry and Poetics, Gender and Sexuality.
 
 Please visit the [English Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/english-ma/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
