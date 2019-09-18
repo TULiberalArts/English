@@ -79,6 +79,4 @@ We accept students in the PhD program with or without the MA in English. For tho
 - [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
 - [Applying to Graduate School](http://www.temple.edu/grad/admissions/howtoapply.htm)
 
-___
 
-## Doctoral Faculty
