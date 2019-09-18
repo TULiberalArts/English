@@ -65,6 +65,10 @@ We accept students in the PhD program with or without the MA in English. For tho
 
 Please visit the [English Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/english-ma/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
+Applicants to the Creative Writing M.F.A. program should visit the [Creative Writing website](http://www.cla.temple.edu/creative-writing/next-stops/) and follow those applications instructions.
+
+For questions about any of the English graduate programs, please call: [(215) 204-1796](tel:2152041796) or email [eng1grad@temple.edu](mailto:eng1grad@temple.edu).  
+
 ## Graduate Resources
 - [Graduate FAQ's](https://liberalarts.temple.edu/sites/liberalarts/files/English-.FAQs_.final_.pdf)
 - [Graduate Handbook](http://www.temple.edu/grad/policies/gradpolicies.htm)
@@ -86,7 +90,6 @@ ___
 - [James Salazar](https://liberalarts.temple.edu/academics/faculty/salazar-james)
 - [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan)
 - [Roland L. Williams Jr.](https://liberalarts.temple.edu/academics/faculty/williams-roland)
-
 
 **British Literature**
 - [Talissa Ford](https://liberalarts.temple.edu/academics/faculty/ford-talissa)
