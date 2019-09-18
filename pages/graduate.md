@@ -65,11 +65,11 @@ As an applicant to our graduate programs in English, you should have the equival
 
 We accept students in the PhD program with or without the MA in English. For those coming from another institution, up to 15 transfer credits (5 courses) will be allowed toward the Temple degree. We offer funding to four or five students each year, which includes five years of support (stipend, tuition, health care). Other students who have been admitted will be placed on the Waiting List for funding. Students are admitted to the MA program without funding. The deadline for students seeking funding is **December 15.** We accept applications until **February 15.**
 
-Please visit the [English Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/english-ma/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+- Please visit the [English Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/english-ma/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
-Applicants to the Creative Writing M.F.A. program should visit the [Creative Writing website](http://www.cla.temple.edu/creative-writing/next-stops/) and follow those applications instructions.
+- Applicants to the Creative Writing M.F.A. program should visit the [Creative Writing website](http://www.cla.temple.edu/creative-writing/next-stops/) and follow those applications instructions.
 
-For questions about any of the English graduate programs, please call: [(215) 204-1796](tel:2152041796) or email [eng1grad@temple.edu](mailto:eng1grad@temple.edu).  
+- For questions about any of the English graduate programs, please call: [(215) 204-1796](tel:2152041796) or email [eng1grad@temple.edu](mailto:eng1grad@temple.edu).  
 
 ## Graduate Resources
 - [Graduate FAQ's](https://liberalarts.temple.edu/sites/liberalarts/files/English-.FAQs_.final_.pdf)
