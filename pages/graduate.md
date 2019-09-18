@@ -11,7 +11,7 @@ description: >-
 keywords: 'MA in English Literature, PhD in English, Temple Department of English'
 # custom variables
 sidebar: sidebars/graduate.html
-profiles: profiles/graduate_faculty.html
+graduate_faculty: profiles/graduate_faculty.html
 ---
 Ready to further your education with an English graduate degree? At the College of Liberal Arts, you can earn an English [master’s degree](#ma-in-english) or a [PhD](#phd-in-english), which has fantastic [job placement rates](#english-phd-job-placement). Read up on our [admissions requirements](#admission-requirements), [tuition and fees](#temple-tuition-and-fees) and [graduate resources](#graduate-resources) and get to know our [doctoral faculty](#doctoral-faculty).
 
