@@ -103,7 +103,7 @@ ___
 
 **Composition and Rhetoric**
 - [Ryan Omizo](https://liberalarts.temple.edu/academics/faculty/omizo-ryan)
-- Shannon Walters
+- [Shannon Walters](https://liberalarts.temple.edu/academics/faculty/walters-shannon)
 
 **Critical and Cultural Theories**
 - [Suzanne Gauch](https://liberalarts.temple.edu/academics/faculty/gauch-suzanne)
