@@ -55,12 +55,13 @@ Learn More about the [PhD in English](http://bulletin.temple.edu/graduate/scd/cl
 ## English PhD Job Placement
 In recent years, 40% of our PhDs have found work in tenure-track positions. Another 24% have found work in non-tenure full time teaching. In addition, 15% are working in non-teaching positions for which a PhD serves as a qualification. While some PhDs find work immediately upon graduating, it’s not uncommon for recent graduates to work as adjuncts for one or more years before securing a full-time position. Our graduates tend to find jobs in the Northeast, demonstrating the enriching effect of Temple's English graduate programs on the region. However, PhDs also take jobs outside the region in states that include California, New York, Ohio and Wisconsin.
 
+## Funding Opportunities
+Temple offers financial support to eligible doctoral students. All applicants will be considered for funding, and no special application is required. Our fellowship support is for five years, and it includes tuition remission, a living stipend, and health care. English TAs have one non-teaching semester as they approach their dissertation. Graduate students are eligible for research and travel grants as well. Fellows are required to teach, and they may be assigned as graders or as instructors of record in composition courses and in lower level literature classes. Doctoral students are eligible to apply for the Dissertation Completion Grant and other special funding; they may also serve as adjunct instructors after they have entered the dissertation stage and assuming their five-year funding has expired.
+
 ## Admission Requirements
-As an applicant to our graduate programs in English, you should have the equivalent of an undergraduate concentration in English with broad chronological coverage of literature or have completed equivalent coursework. Successful applicants also have a strong record of academic achievement. When applying to Temple, you must declare whether you plan on earning your master's or doctorate.
+As an applicant to our graduate programs in English, you should have the equivalent of an undergraduate concentration in English with broad chronological coverage of literature or have completed equivalent coursework. Successful applicants also have a strong record of academic achievement. When applying to Temple, you must declare whether you plan on earning your master’s or doctorate.
 
-For the PhD program, preference is given to applicants who will have earned the MA degree upon entering the program. For those coming from another institution, up to 15 transfer credits (5 courses) will be allowed toward the Temple degree. With some exceptions, all students admitted to the PhD program are funded for four years, and the deadline for students seeking funding is **December 15**. We accept applications until **February 15**.
-
-For those entering with an MA, the PhD can be completed in four years; for students going beyond four years, funding is available on a competitive basis. Adjunct teaching will also be available for those in their fifth year and beyond.
+We accept students in the PhD program with or without the MA in English. For those coming from another institution, up to 15 transfer credits (5 courses) will be allowed toward the Temple degree. We offer funding to four or five students each year, which includes five years of support (stipend, tuition, health care). Other students who have been admitted will be placed on the Waiting List for funding. Students are admitted to the MA program without funding. The deadline for students seeking funding is **December 15.** We accept applications until **February 15.**
 
 Please visit the [English Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/english-ma/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
@@ -76,74 +77,79 @@ ___
 
 ## Doctoral Faculty
 **American Literature**
-- [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan)
-- [Brian Teare](https://liberalarts.temple.edu/academics/faculty/teare-brian)
-- [James Salazar](https://liberalarts.temple.edu/academics/faculty/salazar-james)
-- [Jena Osman](https://liberalarts.temple.edu/academics/faculty/osman-jena)
 - [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce)
 - [Katherine Henry](https://liberalarts.temple.edu/academics/faculty/henry-katherine)
 - [Michael Kaufmann](https://liberalarts.temple.edu/academics/faculty/kaufmann-michael)
-- [Miles Orvell](https://liberalarts.temple.edu/academics/faculty/orvell-miles)
-- [Roland L. Williams Jr.](https://liberalarts.temple.edu/academics/faculty/williams-roland)
 - [Sue-Im Lee](https://liberalarts.temple.edu/academics/faculty/lee-sue-im)
+- [Miles Orvell](https://liberalarts.temple.edu/academics/faculty/orvell-miles)
+- [Jena Osman](https://liberalarts.temple.edu/academics/faculty/osman-jena)
+- [James Salazar](https://liberalarts.temple.edu/academics/faculty/salazar-james)
+- [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan)
+- [Roland L. Williams Jr.](https://liberalarts.temple.edu/academics/faculty/williams-roland)
+
 
 **British Literature**
-- [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan)
-- [Carissa M. Harris](https://liberalarts.temple.edu/academics/faculty/harris-carissa)
-- [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence)
-- [Nichole Miller](https://liberalarts.temple.edu/academics/faculty/miller-nichole)
-- [Peter Logan](https://liberalarts.temple.edu/academics/faculty/logan-peter-m)
-- [Priya Joshi](https://liberalarts.temple.edu/academics/faculty/joshi-priya)
-- [Steve Newman](https://liberalarts.temple.edu/academics/faculty/newman-steve)
 - [Talissa Ford](https://liberalarts.temple.edu/academics/faculty/ford-talissa)
+- [Carissa M. Harris](https://liberalarts.temple.edu/academics/faculty/harris-carissa)
+- [Priya Joshi](https://liberalarts.temple.edu/academics/faculty/joshi-priya)
+- [Nichole Miller](https://liberalarts.temple.edu/academics/faculty/miller-nichole)
+- [Steve Newman](https://liberalarts.temple.edu/academics/faculty/newman-steve)
+- [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan)
+- [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence)
 
 **Composition and Rhetoric**
-- [Eli Goldblatt](https://liberalarts.temple.edu/academics/faculty/goldblatt-eli)
+- [Ryan Omizo](https://liberalarts.temple.edu/academics/faculty/omizo-ryan)
 - Shannon Walters
 
 **Critical and Cultural Theories**
-- [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan)
-- [Eli Goldblatt](https://liberalarts.temple.edu/academics/faculty/goldblatt-eli)
-- [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence)
+- [Suzanne Gauch](https://liberalarts.temple.edu/academics/faculty/gauch-suzanne)
+- [Priya Joshi](https://liberalarts.temple.edu/academics/faculty/joshi-priya)
 - [Michael Kaufmann](https://liberalarts.temple.edu/academics/faculty/kaufmann-michael)
 - [Nichole Miller](https://liberalarts.temple.edu/academics/faculty/miller-nichole)
-- [Suzanne Gauch](https://liberalarts.temple.edu/academics/faculty/gauch-suzanne)
-
-**Gender and Sexuality**
-- [Brian Teare](https://liberalarts.temple.edu/academics/faculty/teare-brian)
-- [Carissa M. Harris](https://liberalarts.temple.edu/academics/faculty/harris-carissa)
-- [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce)
-- [Suzanne Gauch](https://liberalarts.temple.edu/academics/faculty/gauch-suzanne)
-- [Talissa Ford](https://liberalarts.temple.edu/academics/faculty/ford-talissa)
+- [Steve Newman](https://liberalarts.temple.edu/academics/faculty/newman-steve)
+- [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan)
+- [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence)
 
 **Ethnic and African American Literatures**
-- [James Salazar](https://liberalarts.temple.edu/academics/faculty/salazar-james)
-- [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce)
-- [Katherine Henry](https://liberalarts.temple.edu/academics/faculty/henry-katherine)
-- [Miles Orvell](https://liberalarts.temple.edu/academics/faculty/orvell-miles)
-- [Roland L. Williams Jr.](https://liberalarts.temple.edu/academics/faculty/williams-roland)
-- [Sue-Im Lee](https://liberalarts.temple.edu/academics/faculty/lee-sue-im)
 
-**Literature and Visual Studies (film, photography)**
-- [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan)
-- [Jena Osman](https://liberalarts.temple.edu/academics/faculty/osman-jena)
-- [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence)
+- [Katherine Henry](https://liberalarts.temple.edu/academics/faculty/henry-katherine)
+- [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce)
+- [Sue-Im Lee](https://liberalarts.temple.edu/academics/faculty/lee-sue-im)
 - [Miles Orvell](https://liberalarts.temple.edu/academics/faculty/orvell-miles)
-- [Priya Joshi](https://liberalarts.temple.edu/academics/faculty/joshi-priya)
+- [James Salazar](https://liberalarts.temple.edu/academics/faculty/salazar-james)
+- [Roland L. Williams Jr.](https://liberalarts.temple.edu/academics/faculty/williams-roland)
+
+**Gender and Sexuality**
+- [Talissa Ford](https://liberalarts.temple.edu/academics/faculty/ford-talissa)
+- [Suzanne Gauch](https://liberalarts.temple.edu/academics/faculty/gauch-suzanne)
+- [Carissa M. Harris](https://liberalarts.temple.edu/academics/faculty/harris-carissa)
+- [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce)
+
+**Literature and Visual Studies**
 - [Roland L. Williams Jr.](https://liberalarts.temple.edu/academics/faculty/williams-roland)
 - [Suzanne Gauch](https://liberalarts.temple.edu/academics/faculty/gauch-suzanne)
+- [Priya Joshi](https://liberalarts.temple.edu/academics/faculty/joshi-priya)
+- [Miles Orvell](https://liberalarts.temple.edu/academics/faculty/orvell-miles)
+- [Jena Osman](https://liberalarts.temple.edu/academics/faculty/osman-jena)
+- [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan)
+- [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence)
+- [Roland L. Williams Jr.](https://liberalarts.temple.edu/academics/faculty/williams-roland)
 
 **Poetry and Poetics**
-- [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan)
-- [Brian Teare](https://liberalarts.temple.edu/academics/faculty/teare-brian)
-- [Eli Goldblatt](https://liberalarts.temple.edu/academics/faculty/goldblatt-eli)
-- [Jena Osman](https://liberalarts.temple.edu/academics/faculty/osman-jena)
-- [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence)
 - [Steve Newman](https://liberalarts.temple.edu/academics/faculty/newman-steve)
+- [Jena Osman](https://liberalarts.temple.edu/academics/faculty/osman-jena)
+- [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan)
+- [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence)
 
 **Postcolonial and Global Literatures**
+- [Talissa Ford](https://liberalarts.temple.edu/academics/faculty/ford-talissa)
+- [Suzanne Gauch](https://liberalarts.temple.edu/academics/faculty/gauch-suzanne)
+- [Priya Joshi](https://liberalarts.temple.edu/academics/faculty/joshi-priya)
 - [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce)
 - [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence)
-- [Priya Joshi](https://liberalarts.temple.edu/academics/faculty/joshi-priya)
-- [Suzanne Gauch](https://liberalarts.temple.edu/academics/faculty/gauch-suzanne)
-- [Talissa Ford](https://liberalarts.temple.edu/academics/faculty/ford-talissa)
+
+**Digital Humanities**
+- [Michael Kaufmann](https://liberalarts.temple.edu/academics/faculty/kaufmann-michael)
+- Laura McGrath (_Laura McGrath begins in Fall 2020_)
+- [Steve Newman](https://liberalarts.temple.edu/academics/faculty/newman-steve)
+- [Ryan Omizo](https://liberalarts.temple.edu/academics/faculty/omizo-ryan)
