@@ -10,15 +10,17 @@ description: >-
   course schedule, and application in the department of English at Temple University.
 keywords: 'MA in English Literature, PhD in English, Temple Department of English'
 # custom variables
-
 sidebar: sidebars/graduate.html
+profiles: profiles/graduate_faculty.html
 ---
 Ready to further your education with an English graduate degree? At the College of Liberal Arts, you can earn an English [master’s degree](#ma-in-english) or a [PhD](#phd-in-english), which has fantastic [job placement rates](#english-phd-job-placement). Read up on our [admissions requirements](#admission-requirements), [tuition and fees](#temple-tuition-and-fees) and [graduate resources](#graduate-resources) and get to know our [doctoral faculty](#doctoral-faculty).
 
 ## Earn Your MA or PhD in English
-Temple University’s MA and PhD programs in English offer students the resources of a Research I institution in an energetic urban environment. Both the MA and PhD programs provide options for intensive study in critical theory, cultural theory, film theory, minority literature and women’s studies. As a graduate student at the Department of English, you are encouraged to work closely with faculty and engage in serious research and publication projects. Temple’s graduate programs in English are highly regarded for teaching and research in both traditional and innovative areas of literary criticism and history.
+Temple University is a Research I university, and the Graduate Programs in English offer the M.A., the Ph.D., and the M.F.A. in Creative Writing.  The literature programs balance theoretical sophistication with historical scope and are designed to give students a foundational knowledge in traditional and emerging fields in English studies and a grounding in the methods of literary research.  Our strengths are in cultural studies and interdisciplinary studies, gender studies, minority literatures, film, visual and spatial studies, and critical theory.  In addition, we are strong in such traditional areas as Composition and Rhetoric, pre-1800 British literature, American literature, and ethnic and global literatures.  We are building our Digital Humanities area, and our faculty and students work with the Charles Library's Digital Scholar's Center.  
 
-The Graduate English Program offers students a range of methods and practices centering on Interdisciplinary Studies in Literature, Culture, and Rhetoric.  We offer courses in the foundational areas of English studies, such as British and American, Modernism, Contemporary, Rhetoric and Composition.  In addition, we offer advanced seminars in more specialized areas such as Postcolonial and Global Literatures; Ethnic and African American literatures, Literature and Visual Studies, Critical and Cultural Theories, Theory of Genres, Poetry and Poetics, Gender and Sexuality.
+Graduates with a Ph.D. typically go on to careers in college teaching and related fields.  We also offer a two-year, 30-credit M.A. program. Temple M.A.s in English find employment in high schools or preparatory schools, in editing or publishing, or as professional writers; they also go on to doctoral study at Temple and other institutions. 
+
+Our [M.F.A. degree in Creative Writing]((http://www.cla.temple.edu/creative-writing/next-stops/)) is a two-year, 33-credit program in either fiction or poetry. The Creative Writing faculty includes nationally recognized writers in poetry, fiction, and nonfiction. The writing component features small, intensive workshops, supplemented by one-on-one tutorials and courses in literature and the craft of writing. Temple M.F.A.s in Creative Writing find employment as writers, teachers, publicists, writing consultants, or publishers; they also go on to doctoral study in English or other disciplines.
 
 Please visit the [English Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/english-ma/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
@@ -80,79 +82,3 @@ For questions about any of the English graduate programs, please call: [(215) 20
 ___
 
 ## Doctoral Faculty
-**American Literature**
-- [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce)
-- [Katherine Henry](https://liberalarts.temple.edu/academics/faculty/henry-katherine)
-- [Michael Kaufmann](https://liberalarts.temple.edu/academics/faculty/kaufmann-michael)
-- [Sue-Im Lee](https://liberalarts.temple.edu/academics/faculty/lee-sue-im)
-- [Miles Orvell](https://liberalarts.temple.edu/academics/faculty/orvell-miles)
-- [Jena Osman](https://liberalarts.temple.edu/academics/faculty/osman-jena)
-- [James Salazar](https://liberalarts.temple.edu/academics/faculty/salazar-james)
-- [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan)
-- [Roland L. Williams Jr.](https://liberalarts.temple.edu/academics/faculty/williams-roland)
-
-**British Literature**
-- [Talissa Ford](https://liberalarts.temple.edu/academics/faculty/ford-talissa)
-- [Carissa M. Harris](https://liberalarts.temple.edu/academics/faculty/harris-carissa)
-- [Priya Joshi](https://liberalarts.temple.edu/academics/faculty/joshi-priya)
-- [Nichole Miller](https://liberalarts.temple.edu/academics/faculty/miller-nichole)
-- [Steve Newman](https://liberalarts.temple.edu/academics/faculty/newman-steve)
-- [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan)
-- [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence)
-
-**Composition and Rhetoric**
-- [Ryan Omizo](https://liberalarts.temple.edu/academics/faculty/omizo-ryan)
-- Shannon Walters
-
-**Critical and Cultural Theories**
-- [Suzanne Gauch](https://liberalarts.temple.edu/academics/faculty/gauch-suzanne)
-- [Priya Joshi](https://liberalarts.temple.edu/academics/faculty/joshi-priya)
-- [Michael Kaufmann](https://liberalarts.temple.edu/academics/faculty/kaufmann-michael)
-- [Nichole Miller](https://liberalarts.temple.edu/academics/faculty/miller-nichole)
-- [Steve Newman](https://liberalarts.temple.edu/academics/faculty/newman-steve)
-- [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan)
-- [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence)
-
-**Ethnic and African American Literatures**
-
-- [Katherine Henry](https://liberalarts.temple.edu/academics/faculty/henry-katherine)
-- [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce)
-- [Sue-Im Lee](https://liberalarts.temple.edu/academics/faculty/lee-sue-im)
-- [Miles Orvell](https://liberalarts.temple.edu/academics/faculty/orvell-miles)
-- [James Salazar](https://liberalarts.temple.edu/academics/faculty/salazar-james)
-- [Roland L. Williams Jr.](https://liberalarts.temple.edu/academics/faculty/williams-roland)
-
-**Gender and Sexuality**
-- [Talissa Ford](https://liberalarts.temple.edu/academics/faculty/ford-talissa)
-- [Suzanne Gauch](https://liberalarts.temple.edu/academics/faculty/gauch-suzanne)
-- [Carissa M. Harris](https://liberalarts.temple.edu/academics/faculty/harris-carissa)
-- [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce)
-
-**Literature and Visual Studies**
-- [Roland L. Williams Jr.](https://liberalarts.temple.edu/academics/faculty/williams-roland)
-- [Suzanne Gauch](https://liberalarts.temple.edu/academics/faculty/gauch-suzanne)
-- [Priya Joshi](https://liberalarts.temple.edu/academics/faculty/joshi-priya)
-- [Miles Orvell](https://liberalarts.temple.edu/academics/faculty/orvell-miles)
-- [Jena Osman](https://liberalarts.temple.edu/academics/faculty/osman-jena)
-- [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan)
-- [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence)
-- [Roland L. Williams Jr.](https://liberalarts.temple.edu/academics/faculty/williams-roland)
-
-**Poetry and Poetics**
-- [Steve Newman](https://liberalarts.temple.edu/academics/faculty/newman-steve)
-- [Jena Osman](https://liberalarts.temple.edu/academics/faculty/osman-jena)
-- [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan)
-- [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence)
-
-**Postcolonial and Global Literatures**
-- [Talissa Ford](https://liberalarts.temple.edu/academics/faculty/ford-talissa)
-- [Suzanne Gauch](https://liberalarts.temple.edu/academics/faculty/gauch-suzanne)
-- [Priya Joshi](https://liberalarts.temple.edu/academics/faculty/joshi-priya)
-- [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce)
-- [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence)
-
-**Digital Humanities**
-- [Michael Kaufmann](https://liberalarts.temple.edu/academics/faculty/kaufmann-michael)
-- Laura McGrath (_Laura McGrath begins in Fall 2020_)
-- [Steve Newman](https://liberalarts.temple.edu/academics/faculty/newman-steve)
-- [Ryan Omizo](https://liberalarts.temple.edu/academics/faculty/omizo-ryan)
