@@ -82,7 +82,7 @@ Learn More about the [PhD in English](http://bulletin.temple.edu/graduate/scd/cl
 [Talissa Ford](https://liberalarts.temple.edu/academics/faculty/ford-talissa); [Suzanne Gauch](https://liberalarts.temple.edu/academics/faculty/gauch-suzanne); [Priya Joshi](https://liberalarts.temple.edu/academics/faculty/joshi-priya); [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce); [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence)
 
 **Digital Humanities**<br>
-[Michael Kaufmann](http://www.cla.temple.edu/english/michael-kaufmann/); Laura McGrath*; [Steven Newman](http://www.cla.temple.edu/english/faculty/steve-newman/); [Ryan Omizo](https://liberalarts.temple.edu/academics/faculty/omizo-ryan) (/* Laura McGrath begins Fall 2020)
+[Michael Kaufmann](http://www.cla.temple.edu/english/michael-kaufmann/); Laura McGrath*; [Steven Newman](http://www.cla.temple.edu/english/faculty/steve-newman/); [Ryan Omizo](https://liberalarts.temple.edu/academics/faculty/omizo-ryan)(\*Laura McGrath begins Fall 2020)
 
 ## English PhD Job Placement
 In recent years, 40% of our PhDs have found work in tenure-track positions. Another 24% have found work in non-tenure full time teaching. In addition, 15% are working in non-teaching positions for which a PhD serves as a qualification. While some PhDs find work immediately upon graduating, it’s not uncommon for recent graduates to work as adjuncts for one or more years before securing a full-time position. Our graduates tend to find jobs in the Northeast, demonstrating the enriching effect of Temple's English graduate programs on the region. However, PhDs also take jobs outside the region in states that include California, New York, Ohio and Wisconsin.
