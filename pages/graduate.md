@@ -54,7 +54,7 @@ A PhD in English at Temple takes anywhere from 4-7 years to finish, depending on
 Learn More about the [PhD in English](http://bulletin.temple.edu/graduate/scd/cla/english-phd/)
 
 ## Areas of Study and Doctoral Faculty
-**American Literature**<br>  
+**American Literature**
 [Katherine Henry](https://liberalarts.temple.edu/academics/faculty/henry-katherine); [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce); [Michael Kaufmann](); [Sue-Im Lee](https://liberalarts.temple.edu/academics/faculty/lee-sue-im); [Miles Orvell](https://liberalarts.temple.edu/academics/faculty/orvell-miles); [Jena Osman](https://liberalarts.temple.edu/academics/faculty/osman-jena); [James Salazar](https://liberalarts.temple.edu/academics/faculty/salazar-james); [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan);[ Roland L. Williams, Jr.](https://liberalarts.temple.edu/academics/faculty/williams-roland)
 
 **British Literature**<br>
