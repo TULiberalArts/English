@@ -11,7 +11,6 @@ description: >-
 keywords: 'MA in English Literature, PhD in English, Temple Department of English'
 # custom variables
 sidebar: sidebars/graduate.html
-graduate_faculty: profiles/graduate_faculty_2.html
 ---
 Ready to further your education with an English graduate degree? At the College of Liberal Arts, you can earn an English [master’s degree](#ma-in-english) or a [PhD](#phd-in-english), which has fantastic [job placement rates](#english-phd-job-placement). Read up on our [admissions requirements](#admission-requirements), [tuition and fees](#temple-tuition-and-fees) and [graduate resources](#graduate-resources) and get to know our [doctoral faculty](#doctoral-faculty).
 
@@ -54,6 +53,37 @@ A PhD in English at Temple takes anywhere from 4-7 years to finish, depending on
 
 Learn More about the [PhD in English](http://bulletin.temple.edu/graduate/scd/cla/english-phd/)
 
+## Areas of Study and Doctoral Faculty
+**American Literature**<br>  
+[Katherine Henry](https://liberalarts.temple.edu/academics/faculty/henry-katherine); [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce); [Michael Kaufmann](https://liberalarts.temple.edu/academics/faculty/kaufmann-michael); [Sue-Im Lee](https://liberalarts.temple.edu/academics/faculty/lee-sue-im); [Miles Orvell](https://liberalarts.temple.edu/academics/faculty/orvell-miles); [Jena Osman](https://liberalarts.temple.edu/academics/faculty/osman-jena); [James Salazar](https://liberalarts.temple.edu/academics/faculty/salazar-james); [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan);[ Roland L. Williams, Jr.](https://liberalarts.temple.edu/academics/faculty/williams-roland)
+
+**British Literature**<br>
+[Talissa Ford](https://liberalarts.temple.edu/academics/faculty/ford-talissa), [Carissa M. Harris](https://liberalarts.temple.edu/academics/faculty/harris-carissa); [Priya Joshi](https://liberalarts.temple.edu/academics/faculty/joshi-priya); [Nichole Miller](https://liberalarts.temple.edu/academics/faculty/miller-nichole); [Steven Newman](https://liberalarts.temple.edu/academics/faculty/newman-steve); [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan); [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence) 
+
+**Composition and Rhetoric**<br>
+[Ryan Omizo](https://liberalarts.temple.edu/academics/faculty/omizo-ryan); [Shannon Walters]()
+
+**Critical and Cultural Theories**<br>
+[Suzanne Gauch](https://liberalarts.temple.edu/academics/faculty/gauch-suzanne); [Priya Joshi](https://liberalarts.temple.edu/academics/faculty/joshi-priya); [Michael Kaufmann](https://liberalarts.temple.edu/academics/faculty/kaufmann-michael); [Nichole Miller](https://liberalarts.temple.edu/academics/faculty/miller-nichole); [Steven Newman](https://liberalarts.temple.edu/academics/faculty/newman-steve); [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan); [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence)
+
+**Ethnic and African American Literatures**<br>
+[Katherine Henry](https://liberalarts.temple.edu/academics/faculty/henry-katherine); [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce); [Sue-Im Lee](https://liberalarts.temple.edu/academics/faculty/lee-sue-im); [Miles Orvell](https://liberalarts.temple.edu/academics/faculty/orvell-miles); [James Salazar](https://liberalarts.temple.edu/academics/faculty/salazar-james); [Roland L. Williams, Jr.](https://liberalarts.temple.edu/academics/faculty/williams-roland)
+
+**Gender and Sexuality**<br>
+[Talissa Ford](https://liberalarts.temple.edu/academics/faculty/ford-talissa); [Suzanne Gauch](https://liberalarts.temple.edu/academics/faculty/gauch-suzanne); [Carissa M. Harris](https://liberalarts.temple.edu/academics/faculty/harris-carissa); [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce)
+
+**Literature and Visual Studies**<br>
+[Suzanne Gauch](https://liberalarts.temple.edu/academics/faculty/gauch-suzanne); [Priya Joshi](https://liberalarts.temple.edu/academics/faculty/joshi-priya); [Miles Orvell](https://liberalarts.temple.edu/academics/faculty/orvell-miles); [Jena Osman](https://liberalarts.temple.edu/academics/faculty/osman-jena); [Alan Singer](); [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence); [Roland L. Williams, Jr.](https://liberalarts.temple.edu/academics/faculty/williams-roland) 
+
+**Poetry and Poetics**<br>
+[Steven Newman](https://liberalarts.temple.edu/academics/faculty/newman-steve); [Jena Osman](https://liberalarts.temple.edu/academics/faculty/osman-jena); [Alan Singer](https://liberalarts.temple.edu/academics/faculty/singer-alan); [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence)
+
+**Postcolonial and Global Literature**<br>
+[Talissa Ford](https://liberalarts.temple.edu/academics/faculty/ford-talissa); [Suzanne Gauch](https://liberalarts.temple.edu/academics/faculty/gauch-suzanne); [Priya Joshi](https://liberalarts.temple.edu/academics/faculty/joshi-priya); [Joyce A. Joyce](https://liberalarts.temple.edu/academics/faculty/joyce-joyce); [Lawrence Venuti](https://liberalarts.temple.edu/academics/faculty/venuti-lawrence)
+
+**Digital Humanities**<br>
+[Michael Kaufmann](http://www.cla.temple.edu/english/michael-kaufmann/); Laura McGrath*; [Steven Newman](http://www.cla.temple.edu/english/faculty/steve-newman/); [Ryan Omizo](https://liberalarts.temple.edu/academics/faculty/omizo-ryan) (/*Laura McGrath begins Fall 2020)
+
 ## English PhD Job Placement
 In recent years, 40% of our PhDs have found work in tenure-track positions. Another 24% have found work in non-tenure full time teaching. In addition, 15% are working in non-teaching positions for which a PhD serves as a qualification. While some PhDs find work immediately upon graduating, it’s not uncommon for recent graduates to work as adjuncts for one or more years before securing a full-time position. Our graduates tend to find jobs in the Northeast, demonstrating the enriching effect of Temple's English graduate programs on the region. However, PhDs also take jobs outside the region in states that include California, New York, Ohio and Wisconsin.
 
@@ -78,7 +108,3 @@ We accept students in the PhD program with or without the MA in English. For tho
 - [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
 - [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
 - [Applying to Graduate School](http://www.temple.edu/grad/admissions/howtoapply.htm)
-
-___
-
-{% include {{ page.graduate_faculty_2 }} %}
