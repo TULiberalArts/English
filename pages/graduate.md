@@ -81,4 +81,3 @@ We accept students in the PhD program with or without the MA in English. For tho
 
 ___
 
-{% include {{ page.graduate_faculty_2 }} %}
