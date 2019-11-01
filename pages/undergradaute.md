@@ -27,7 +27,9 @@ The Minor in English is an excellent way to extend the breadth of your education
 Learn More about [Minoring in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/minor-english/)
 
 ## Certificate in Professional Writing
-If you attend a different Temple program, the Certificate in Professional Writing allows you to focus on the skills and theory of writing. Because it is not a degree program, the Writing Certificate is only available to matriculated students who are already pursuing an undergraduate degree at Temple. Students earn the Certificate by receiving an average of B or above in five of the writing courses listed on the bulletin, including at least one from each of the three certificate areas. If you are interested in the certificate email [Professor Eli Goldblatt](mailto:eligold@temple.edu).
+If you attend a different Temple program, the Certificate in Professional Writing allows you to focus on the skills and theory of writing. Powerful writing is an invaluable asset for people in all walks of life. This certificate is designed to give students training that will prepare them to be polished communicators in a variety of professional environments, effectively use digital tools, skillfully convey field-specific information, productively collaborate with diverse teams, and competently interact with cross-cultural audiences. 
+
+Students will put the specific knowledge and skills learned in their majors to work in publishing, editing, content-generation, development, communications, or administration in for-profit, non-profit, government, and free-lance settings, among others. At the conclusion of the certificate, they will have assembled a portfolio of accomplished work. The certificate provides maximum flexibility, allowing students to focus on the specific skills and competencies that are most relevant for their chosen field.
 
 Learn More about the [Certificate in Professional Writing](https://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-professional-writing/)
 
