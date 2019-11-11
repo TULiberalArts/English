@@ -30,8 +30,8 @@ The [Journal of Modern Literature](https://muse.jhu.edu/journal/97) (JML) is a j
 ## Graduate English Association
 The [Graduate English Association](https://sites.temple.edu/gradenglish/about/) (GEA) is an organization for all graduate students in the English department, regardless of program (Literature or Creative Writing) or funding status (fellowship, GA, TA or otherwise). The organization conducts regular monthly meetings, and its purpose is to make recommendations to the faculty on departmental issues (instructor training, program changes, etc.) and to enrich the graduate experience with developmental workshops and social events.
 
-## Tinge Magazine
-TINGE Magazine, Temple University’s online literary journal, is usually published twice a year, in the Spring (May) and in the Fall (December). The journal is edited by the graduate students of Temple’s MFA Program in Creative Writing. The journal has an open submission policy.
+## _Tinge_ Magazine
+_TINGE_ Magazine, Temple University’s online literary journal, is usually published twice a year, in the Spring (May) and in the Fall (December). The journal is edited by the graduate students of Temple’s MFA Program in Creative Writing. The journal has an open submission policy.
 
 ## Hyphen
 ![Hyphen Students]({{site.baseurl}}/media/resized Hyphen.jpg){:.responsive-img .img-right}
