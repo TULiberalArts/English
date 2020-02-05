@@ -102,7 +102,7 @@ We accept students in the PhD program with or without the MA in English. For tho
 
 ## Graduate Resources
 - [Graduate FAQ's](https://liberalarts.temple.edu/sites/liberalarts/files/English-.FAQs_.final_.pdf)
-- [Graduate Handbook](http://www.temple.edu/grad/policies/gradpolicies.htm)
+- Graduate Handbook
 - [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm)
 - [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
 - [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
