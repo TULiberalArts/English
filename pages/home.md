@@ -38,7 +38,7 @@ Visit the **[First Year Writing Program Website](http://www.cla.temple.edu/first
 ___
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
+  <div class="col m12 l4">{% include cards/card2-fixed.html
     title="Study Creative Writing "
     content="Prominent and award-winning writers lead Temple’s Creative Writing program - students work closely with faculty to become better writers and readers."
     image=""
@@ -46,7 +46,7 @@ ___
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
+    <div class="col m12 l4">{% include cards/card2-fixed.html
       title="Study Abroad in Rome "
       content="Taught in English, the Rome seminar entails intensive class work, field trips and guest lectures using Rome extensively as a resource. The Rome Seminar in Art and Culture for graduate students is offered in the Summer term."
       image=""
@@ -54,7 +54,7 @@ ___
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
+      <div class="col m12 l4">{% include cards/card2-fixed.html
         title="Meet Our Faculty"
         content="Our faculty come from many backgrounds and are committed to teaching students to think and write with clarity, think deeply and innovatively and to conduct research with curiosity and attention to detail. We prepare our students to engage the world knowledgeably and effectively, so that they may go on to lead rich lives as professionals, members of their communities, and global citizens."
         image=""
