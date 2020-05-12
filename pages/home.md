@@ -56,7 +56,7 @@ ___
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-fixed.html
         title="Meet Our Faculty"
-        content="Our faculty come from many backgrounds and are committed to teaching students to write with clarity, think deeply and innovatively, and to conduct research with curiosity and attention to detail. We prepare our students to engage the world knowledgeably and effectively, so that they may go on to lead rich lives as professionals, members of their communities and global citizens."
+        content="Our faculty come from many backgrounds and are committed to teaching students to write with clarity, think deeply and innovatively, and to conduct research with curiosity and attention to detail. We prepare our students to engage the world knowledgeably and effectively."
        image=""
        button-link="/english/faculty/"
        button-text="Learn More" %}
