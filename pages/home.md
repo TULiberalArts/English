@@ -15,15 +15,15 @@ feature: true
 feature-title: Study English Literature in Philadelphia
 feature-image: media/FYWP hero_bg.png
 feature-body: >-
-  Learn to think and write with clarity and imagination, conduct research and live an innovative life. Study under outstanding faculty in a world-class city for the arts - Philadelphia.
+  Learn to think and write with clarity and imagination, conduct research and live an innovative life. Study under outstanding faculty in a world-class city for the arts—Philadelphia.
 ---
 ## Study English in Philadelphia
-Literature, the practice of writing, and the analysis of language foster attentiveness and mental agility by presenting us with complex perspectives on social and artistic movements, historical events, cultural phenomena, and communication patterns.
+Literature, the practice of writing and the analysis of language foster attentiveness and mental agility by presenting us with complex perspectives on social and artistic movements, historical events, cultural phenomena, and communication patterns.
  
 ## Why Study English?
-Powerful, persuasive writing, sharp analytic skills and creative, flexible thinking are essential abilities for tomorrow’s leaders and professionals. The English major cultivates these abilities through the study of the literatures, language, and cultures of the United States, Britain, the English-speaking world, and beyond.
+Powerful, persuasive writing, sharp analytic skills and creative, flexible thinking are essential abilities for tomorrow’s leaders and professionals. The English major cultivates these abilities through the study of the literatures, language and cultures of the United States, Britain, the English-speaking world and beyond.
 
-Visit the **[First Year Writing Program Website](http://www.cla.temple.edu/first-year-writing-program/)** to learn more about your introduction to college-level reading, writing and thinking!
+Visit the **[First Year Writing Program website](http://www.cla.temple.edu/first-year-writing-program/)** to learn more about your introduction to college-level reading, writing and thinking!
 
 ## Academic Offerings
 - [BA in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english/)
@@ -39,8 +39,8 @@ ___
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-fixed.html
-    title="Study Creative Writing "
-    content="Prominent and award-winning writers lead Temple’s Creative Writing program - students work closely with faculty to become better writers and readers."
+    title="Study Creative Writing"
+    content="Prominent and award-winning writers lead Temple’s Creative Writing Program. Students work closely with faculty to become better writers and readers."
     image=""
     button-link="https://www.cla.temple.edu/creative-writing/"
     button-text="Learn More" %}
@@ -48,7 +48,7 @@ ___
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-fixed.html
       title="Study Abroad in Rome "
-      content="Taught in English, the Rome seminar entails intensive class work, field trips and guest lectures using Rome extensively as a resource. The Rome Seminar in Art and Culture for graduate students is offered in the Summer term."
+      content="Taught in English, the Rome seminar entails intensive class work, field trips and guest lectures using Rome extensively as a resource. The Rome Seminar in Art and Culture for graduate students is offered in the summer term."
       image=""
       button-link="/english/student-life/#study-abroad-in-rome"
       button-text="Learn More" %}
@@ -56,9 +56,9 @@ ___
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-fixed.html
         title="Meet Our Faculty"
-        content="Our faculty come from many backgrounds and are committed to teaching students to think and write with clarity, think deeply and innovatively and to conduct research with curiosity and attention to detail. We prepare our students to engage the world knowledgeably and effectively, so that they may go on to lead rich lives as professionals, members of their communities, and global citizens."
-        image=""
-        button-link="/english/faculty/"
-        button-text="Learn More" %}
-      </div>
+        content="Our faculty come from many backgrounds and are committed to teaching students to write with clarity, think deeply and innovatively, and to conduct research with curiosity and attention to detail. We prepare our students to engage the world knowledgeably and effectively, so that they may go on to lead rich lives as professionals, members of their communities and global citizens."
+       image=""
+       button-link="/english/faculty/"
+       button-text="Learn More" %}
+     </div>
 </div>
