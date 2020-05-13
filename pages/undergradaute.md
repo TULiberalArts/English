@@ -19,9 +19,9 @@ At the College of Liberal Arts, you can [major](#major-in-english-at-temple), [m
 ![Department of English Undergraduates]({{site.baseurl}}/media/resized temple-undergrad-english.jpg){:.responsive-img .img-right}
 English majors become reflective readers and strong, inventive writers. You’ll learn about topics ranging from Shakespeare to depictions of race in literature from distinguished and internationally renowned faculty. Like all College of Liberal Arts undergraduate programs, the English major teaches you how to think creatively and critically, cultivate social intelligence and solve problems.
 
-An English bachelor’s degree not only prepares you for graduate-level study in English literature and other academic disciplines, but also prepares you for careers that include advertising, business, education, government and law. Our [well-established internship program](/english/student-life#internships/) and a popular [career seminar](http://bulletin.temple.edu/search/?P=ENG%201801) that prepares English majors for life after graduation.
+An English bachelor’s degree not only prepares you for graduate-level study in English literature and other academic disciplines, but also prepares you for careers that include advertising, business, education, government and law. Our [well-established internship program and a popular career seminar](https://www.temple.edu/academics/degrees-programs/undegraduate-majors-minors/english-major-ba-eng/careers-internships-opportunities) that prepares English majors for life after graduation.
 
-Learn More about the [BA in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english/)
+Learn More about the [BA in English](https://www.temple.edu/academics/degree-programs/english-major-la-eng-ba)
 
 ## Minor in English
 The English minor is an excellent way to extend the breadth of your education and interpreting the rich history of American, English and global literature. Whether you plan to become a lawyer, a doctor or a social worker, minoring in English helps you develop strong analytical thinking and writing skills. As a result, you’ll have better leverage in your job search or in graduate admissions.
@@ -33,14 +33,16 @@ The certificate in professional writing allows you to focus on the skills and th
 
 At the conclusion of the certificate, students will have assembled a portfolio of accomplished work. The certificate provides maximum flexibility, allowing students to focus on the specific skills and competencies that are most relevant for their chosen field.
 
-Learn More about the [Certificate in Professional Writing](https://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-professional-writing/)
+Learn More about the [Certificate in Professional Writing](https://www.temple.edu/academics/degree-programs/professional-writing-certificate-undergraduate-la-prwr-cert)
 
 ## Creative Writing Concentration
 ![Jasmine-Combs-Temple-Poet]({{site.baseurl}}/media/resized jasmine-combs-temple-poet.jpg){:.responsive-img .img-right}
-If writing is your passion, the [BA in English with a Concentration in Creative Writing](http://develop.cla.temple.edu/creative-writing/undergraduate/) is the program for you. Our students are immersed in poetry and fiction and gain experience writing in different genres. The English Department recommends creative writing concentration students focus on either fiction, poetry or screenwriting.
+If writing is your passion, the [BA in English with a Concentration in Creative Writing](https://www.temple.edu/academics/degree-programs/english-major-la-eng-ba) is the program for you. Our students are immersed in poetry and fiction and gain experience writing in different genres. The English Department recommends creative writing concentration students focus on either fiction, poetry or screenwriting.
 
 ## Hyphen Interdisciplinary Journal
 Hyphen is Temple's only undergraduate student literary magazine. Founded by Professor Jena Osman twelve years ago, the journal has published close to 400 fiction writers, poets and visual artists. We release a print magazine every spring and host open mic nights and other events to support Temple’s literary and artistic community. To get involved, please contact us at [hyphen@temple.edu](mailto:hyphen@temple.edu).
+
+Please visit the Student Clubs & Organizations section of the [English major webpage](https://www.temple.edu/academics/degree-programs/english-major-la-eng-ba) for information about Hyphen or contact us at hyphen@temple.edu.
 
 ## Academic Advising and Professional Development
 Take full advantage of the [College of Liberal Arts](https://liberalarts.temple.edu/)’ flexible curriculum with the help of our award-winning advisors. We help you select a major or a minor and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at the College of Liberal Arts by complementing your academic work with internships, study abroad programs and other experiential learning opportunities.
