@@ -26,14 +26,14 @@ Powerful, persuasive writing, sharp analytic skills and creative, flexible think
 Visit the **[First Year Writing Program website](http://www.cla.temple.edu/first-year-writing-program/)** to learn more about your introduction to college-level reading, writing and thinking!
 
 ## Academic Offerings
-- [BA in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english/)
-- [BA in English with a Concentration in Creative Writing](http://bulletin.temple.edu/undergraduate/liberal-arts/english/ba-english-creative-writing/)
+- [BA in English](https://www.temple.edu/academics/degree-programs/english-major-la-eng-ba)
+- [BA in English with a Concentration in Creative Writing](https://www.temple.edu/academics/degree-programs/english-major-la-eng-ba)
 - [Minor in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/minor-english/)
 - [Combined BA/MA 4+1 program in English](/english/four-plus-one/)
-- [Certificate in Professional Writing](https://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-professional-writing/)
-- [MA in English](http://bulletin.temple.edu/graduate/scd/cla/english-ma/)
-- [MFA in Creative Writing](http://bulletin.temple.edu/graduate/scd/cla/creative-writing-mfa/)
-- [PhD in English](http://bulletin.temple.edu/graduate/scd/cla/english-phd/)
+- [Certificate in Professional Writing](https://www.temple.edu/academics/degree-programs/professional-writing-certificate-undergraduate-la-prwr-cert)
+- [MA in English](https://www.temple.edu/academics/degree-programs/english-ma-la-eng-ma)
+- [MFA in Creative Writing](https://www.temple.edu/academics/degree-programs/creative-writing-mfa-la-crwr-mfa)
+- [PhD in English](https://www.temple.edu/academics/degree-programs/english-phd-la-eng-phd)
 
 ___
 
