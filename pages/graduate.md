@@ -27,7 +27,7 @@ If you want to complete your educational journey with a master’s degree or wan
 
 Learn More about the [MA in English](https://www.temple.edu/academics/degree-programs/english-ma-la-eng-ma)
 
-## PhD in English
+## English PhD
 Graduates with a PhD typically go on to careers in college teaching and related fields. Foundational courses provide the broad background needed for independent research, while our advanced graduate classes allow you to engage with cutting-edge faculty research. Our special topics courses have recently covered the following subjects:
 
 - Literary Aesthetics
@@ -37,20 +37,9 @@ Graduates with a PhD typically go on to careers in college teaching and related 
 - Documentary Poetics
 - Environmental Studies
 
-Following course work, you will choose a concentration in one or two of our main areas of strength, each of which will prepare you for teaching and research in the field. Our main areas of strength are listed below (see listings with faculty at the bottom of the page).
+Following coursework, you will choose a concentration in one or two of our main areas of strength, each of which will prepare you for teaching and research in the field. A Temple PhD in English takes anywhere from four to seven to finish, depending on whether you already have a master’s degree and whether you have fellowship support, teaching responsibilities and other factors.
 
-- American Literature
-- British Literature
-- Critical and Cultural Theories
-- Ethnic and African American Literatures
-- Gender and Sexuality
-- Literature and Visual Studies
-- Poetry and Poetics
-- Postcolonial and Global Literatures
-
-A PhD in English at Temple takes anywhere from 4-7 years to finish, depending on whether you already have a master's degree and whether you have fellowship support, teaching responsibilities and other factors.
-
-Learn More about the [PhD in English](http://bulletin.temple.edu/graduate/scd/cla/english-phd/)
+Learn More about the [PhD in English](https://www.temple.edu/academics/degree-programs/english-phd-la-eng-phd)
 
 ## Areas of Study and Doctoral Faculty
 
@@ -85,26 +74,25 @@ Learn More about the [PhD in English](http://bulletin.temple.edu/graduate/scd/cl
 [Michael Kaufmann](); Laura McGrath*; [Steven Newman](); [Ryan Omizo](https://liberalarts.temple.edu/academics/faculty/omizo-ryan) (\*Laura McGrath begins Fall 2020)
 
 ## English PhD Job Placement
-In recent years, 40% of our PhDs have found work in tenure-track positions. Another 24% have found work in non-tenure full time teaching. In addition, 15% are working in non-teaching positions for which a PhD serves as a qualification. While some PhDs find work immediately upon graduating, it’s not uncommon for recent graduates to work as adjuncts for one or more years before securing a full-time position. Our graduates tend to find jobs in the Northeast, demonstrating the enriching effect of Temple's English graduate programs on the region. However, PhDs also take jobs outside the region in states that include California, New York, Ohio and Wisconsin.
+In recent years, 40% of our PhDs have found work in tenure-track positions. Another 24% have found work in non-tenure full-time teaching. In addition, 15% are working in non-teaching positions for which a PhD serves as a qualification. While some PhDs find work immediately upon graduating, it’s not uncommon for recent graduates to work as adjuncts for one or more years before securing a full-time position. 
+
+Learn More about [English PhD Careers](https://www.temple.edu/academics/degrees-programs/graduate-programs/english-phd-eng/careers-internships-opportunities)
 
 ## Funding Opportunities
-Temple offers financial support to eligible doctoral students. All applicants will be considered for funding, and no special application is required. Our fellowship support is for five years, and it includes tuition remission, a living stipend, and health care. English TAs have one non-teaching semester as they approach their dissertation. Graduate students are eligible for research and travel grants as well. Fellows are required to teach, and they may be assigned as graders or as instructors of record in composition courses and in lower level literature classes. Doctoral students are eligible to apply for the Dissertation Completion Grant and other special funding; they may also serve as adjunct instructors after they have entered the dissertation stage and assuming their five-year funding has expired.
+Temple offers financial support to eligible doctoral students. All applicants will be considered for funding, and no special application is required. Our fellowship support is for five years, and it includes tuition remission, a living stipend and health care. English TAs have one non-teaching semester as they approach their dissertation. Graduate students are eligible for research and travel grants as well. Fellows are required to teach, and they may be assigned as graders or as instructors of record in composition courses and in lower-level literature courses. Doctoral students are eligible to apply for the Dissertation Completion Grant and other special funding; they may also serve as adjunct instructors after they have entered the dissertation stage and assuming their five-year funding has expired.
 
 ## Admission Requirements
-As an applicant to our graduate programs in English, you should have the equivalent of an undergraduate concentration in English with broad chronological coverage of literature or have completed equivalent coursework. Successful applicants also have a strong record of academic achievement. When applying to Temple, you must declare whether you plan on earning your master’s or doctorate.
+As an applicant to a Temple English graduate program, you should have the equivalent of an undergraduate concentration in English with broad chronological coverage of literature or have completed equivalent coursework. Successful applicants also have a strong record of academic achievement. When applying to Temple, you must declare whether you plan on earning your master’s or doctorate.
 
-We accept students in the PhD program with or without the MA in English. For those coming from another institution, up to 15 transfer credits (5 courses) will be allowed toward the Temple degree. We offer funding to four or five students each year, which includes five years of support (stipend, tuition, health care). Other students who have been admitted will be placed on the Waiting List for funding. Students are admitted to the MA program without funding. The deadline for students seeking funding is **December 15.** We accept applications until **February 15.**
+We accept students in the PhD program with or without the MA in English. For those coming from another institution, up to 15 transfer credits (five courses) will be allowed toward your Temple degree. We offer funding to four or five students each year, which includes five years of support (stipend, tuition, health care). Other students who have been admitted will be placed on the Waiting List for funding. Students are admitted to the MA program without funding. The deadline for students seeking funding is **December 15.** We accept applications until **February 15.**
 
-- Please visit the [English M.A. Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/english-ma/#admissiontext) or the [English PhD Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/english-phd/) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+- Please visit the [English MA admissions page](https://www.temple.edu/academics/schools-and-colleges/college-of-liberal-arts/cla-english-admissions?p=2847) or the [English PhD admissions page](https://www.temple.edu/academics/schools-and-colleges/college-of-liberal-arts/cla-english-admissions?p=2750) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
-- Applicants to the Creative Writing M.F.A. program should visit the [Creative Writing website](http://www.cla.temple.edu/creative-writing/next-stops/) and follow those applications instructions.
+- Applicants to the creative writing MFA program should visit the [creative writing admissions page](https://www.temple.edu/academics/degree-programs/creative-writing-mfa-la-crwr-mfa/cla-creative-writing-mfa-admissions) and follow those applications instructions.
 
-- For questions about any of the English graduate programs, please call: [(215) 204-1796](tel:2152041796) or email [eng1grad@temple.edu](mailto:eng1grad@temple.edu).  
+- For questions about any of the English graduate programs, please call (215) 204-1796](tel:2152041796) or email [eng1grad@temple.edu](mailto:eng1grad@temple.edu).
 
 ## Graduate Resources
-- [Graduate FAQ's](https://liberalarts.temple.edu/sites/liberalarts/files/English-.FAQs_.final_.pdf)
-- Graduate Handbook
-- [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm)
-- [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
+- [Graduate FAQs](https://liberalarts.temple.edu/sites/liberalarts/files/English-.FAQs_.final_.pdf)
 - [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
 - [Applying to Graduate School](http://www.temple.edu/grad/admissions/howtoapply.htm)
