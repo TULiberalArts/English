@@ -15,7 +15,7 @@ sidebar: sidebars/undergraduate.html
 ---
 At the College of Liberal Arts, you can [major](#major-in-english-at-temple), [minor](#minor-in-english) or earn a [certificate](#certificate-in-writing) in English. Students can also earn an English degree with a [concentration in creative writing](#creative-writing-concentration) and contribute to the [Hyphen Interdisciplinary Journal](#hyphen-interdisciplinary-journal). At Temple University, you’ll get [academic advising and professional development](#academic-advising-and-professional-development) to make sure you [fly in four years](#fly-in-four) and are on track for a career after graduation. Still have questions? Find out what your [tuition and fees](#tuition-and-fees) would be, learn about your [financial aid](#financial-aid-and-scholarships) options and [admissions deadlines](#temple-admissions-deadlines) and read over our [additional resources](#undergraduate-resources).
 
-## Major in English at Temple
+## Bachelor of Arts in English at Temple
 ![Department of English Undergraduates]({{site.baseurl}}/media/resized temple-undergrad-english.jpg){:.responsive-img .img-right}
 English majors become reflective readers and strong, inventive writers. You’ll learn about topics ranging from Shakespeare to depictions of race in literature from distinguished and internationally renowned faculty. Like all College of Liberal Arts undergraduate programs, the English major teaches you how to think creatively and critically, cultivate social intelligence and solve problems.
 
@@ -26,7 +26,7 @@ Learn More about the [BA in English](https://www.temple.edu/academics/degree-pro
 ## Minor in English
 The English minor is an excellent way to extend the breadth of your education and interpreting the rich history of American, English and global literature. Whether you plan to become a lawyer, a doctor or a social worker, minoring in English helps you develop strong analytical thinking and writing skills. As a result, you’ll have better leverage in your job search or in graduate admissions.
 
-Learn More about [Minoring in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/minor-english/)
+Learn More about the [Minor in English](http://bulletin.temple.edu/undergraduate/liberal-arts/english/minor-english/)
 
 ## Certificate in Professional Writing
 The certificate in professional writing allows you to focus on the skills and theory of writing. Powerful writing is an invaluable asset for people in all walks of life. This certificate is designed to give students training that will prepare them to be published communicators in a variety of professional environments, effectively use digital tools, skillfully convey field-specific information, productively collaborate with diverse teams and competently interact with cross-cultural audiences.
