@@ -12,17 +12,17 @@ keywords: 'MA in English Literature, PhD in English, Temple Department of Englis
 # custom variables
 sidebar: sidebars/graduate.html
 ---
-At the College of Liberal Arts, you can earn an English [master’s degree](#ma-in-english) or a [PhD](#phd-in-english). Our programs provide foundational training in the major areas of literary and cultural studies as well as more specialized seminars in research topics. Learn more about our [admissions requirements](#admission-requirements), [tuition and fees](#funding-opportunities) and [graduate resources](#graduate-resources) and get to know our [areas of study and doctoral faculty](#areas-of-study-and-doctoral-faculty).
+At the College of Liberal Arts, you can earn an English [master’s degree](#master-of-arts-in-english) or a [PhD](#phd-in-english). Our programs provide foundational training in the major areas of literary and cultural studies as well as more specialized seminars in research topics. Learn more about our [admissions requirements](#admission-requirements), [tuition and fees](#funding-opportunities) and [graduate resources](#graduate-resources) and get to know our [areas of study and doctoral faculty](#areas-of-study-and-doctoral-faculty).
 
 ## Earn Your MA or PhD in English
-Temple University is a Research I university, and the Graduate Programs in English offer the M.A., the Ph.D., and the M.F.A. in Creative Writing. The literature programs balance theoretical sophistication with historical scope and are designed to give students a foundational knowledge in traditional and emerging fields in English studies and a grounding in the methods of literary research. Our strengths are in cultural studies and interdisciplinary studies, gender studies, minority literatures, film, visual and spatial studies, and critical theory. In addition, we are strong in such traditional areas as Composition and Rhetoric, pre-1800 British literature, American literature, and ethnic and global literatures. 
+Temple University is a Research I university, and the Graduate Programs in English offer the MA, the PhD, and the MFA in Creative Writing. The literature programs balance theoretical sophistication with historical scope and are designed to give students a foundational knowledge in traditional and emerging fields in English studies and a grounding in the methods of literary research. Our strengths are in cultural studies and interdisciplinary studies, gender studies, minority literatures, film, visual and spatial studies, and critical theory. In addition, we are strong in such traditional areas as Composition and Rhetoric, pre-1800 British literature, American literature, and ethnic and global literatures. 
 
-## Creative Writing Master of Fine Arts
+## Master of Fine Arts in Creative Writing 
 Our MFA degree in creative writing is a two-year, 33-credit program in either fiction or poetry. The Creative Writing Program faculty includes nationally recognized writers in poetry, fiction and nonfiction. The writing component features small, intensive workshops, supplemented by one-on-one tutorials and courses in literature and the craft of writing. Temple creative writing MFA graduates find employment as writers, teachers, publicists, writing consultants or publishers; they also go on to doctoral study in English or other disciplines.
 
 Learn More about the [MFA in Creative Writing](https://www.temple.edu/academics/degree-programs/creative-writing-mfa-la-crwr-mfa)
 
-## English Master of Arts 
+## Master of Arts in English
 If you want to complete your educational journey with a master’s degree or want to explore education at the graduate level before committing to a PhD program, the Department of English offers a two-year MA in English master of arts degree. Graduates find employment in high schools or preparatory schools, in editing or publishing, or as professional writers. Others go on to doctoral study at Temple and other institutions. Funding is usually reserved for PhD students.
 
 Learn More about the [MA in English](https://www.temple.edu/academics/degree-programs/english-ma-la-eng-ma)
@@ -88,7 +88,7 @@ We accept students in the PhD program with or without the MA in English. For tho
 
 - Please visit the [English MA admissions page](https://www.temple.edu/academics/schools-and-colleges/college-of-liberal-arts/cla-english-admissions?p=2847) or the [English PhD admissions page](https://www.temple.edu/academics/schools-and-colleges/college-of-liberal-arts/cla-english-admissions?p=2750) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
-- Applicants to the creative writing MFA program should visit the [creative writing admissions page](https://www.temple.edu/academics/degree-programs/creative-writing-mfa-la-crwr-mfa/cla-creative-writing-mfa-admissions) and follow those applications instructions.
+- Applicants to the Creative Writing MFA program should visit the [Creative Writing admissions page](https://www.temple.edu/academics/degree-programs/creative-writing-mfa-la-crwr-mfa/cla-creative-writing-mfa-admissions) and follow those applications instructions.
 
 - For questions about any of the English graduate programs, please call (215) 204-1796](tel:2152041796) or email [eng1grad@temple.edu](mailto:eng1grad@temple.edu).
 
