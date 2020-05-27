@@ -17,12 +17,12 @@ At the College of Liberal Arts, you can earn an English [master’s degree](#ma-
 ## Earn Your MA or PhD in English
 Temple University is a Research I university, and the Graduate Programs in English offer the M.A., the Ph.D., and the M.F.A. in Creative Writing. The literature programs balance theoretical sophistication with historical scope and are designed to give students a foundational knowledge in traditional and emerging fields in English studies and a grounding in the methods of literary research. Our strengths are in cultural studies and interdisciplinary studies, gender studies, minority literatures, film, visual and spatial studies, and critical theory. In addition, we are strong in such traditional areas as Composition and Rhetoric, pre-1800 British literature, American literature, and ethnic and global literatures. 
 
-## Creative Writing Master of Fine Arts Degree
+## Creative Writing Master of Fine Arts
 Our MFA degree in creative writing is a two-year, 33-credit program in either fiction or poetry. The Creative Writing Program faculty includes nationally recognized writers in poetry, fiction and nonfiction. The writing component features small, intensive workshops, supplemented by one-on-one tutorials and courses in literature and the craft of writing. Temple creative writing MFA graduates find employment as writers, teachers, publicists, writing consultants or publishers; they also go on to doctoral study in English or other disciplines.
 
 Learn More about the [MFA in Creative Writing](https://www.temple.edu/academics/degree-programs/creative-writing-mfa-la-crwr-mfa)
 
-## English Master of Arts Degree
+## English Master of Arts 
 If you want to complete your educational journey with a master’s degree or want to explore education at the graduate level before committing to a PhD program, the Department of English offers a two-year MA in English master of arts degree. Graduates find employment in high schools or preparatory schools, in editing or publishing, or as professional writers. Others go on to doctoral study at Temple and other institutions. Funding is usually reserved for PhD students.
 
 Learn More about the [MA in English](https://www.temple.edu/academics/degree-programs/english-ma-la-eng-ma)
