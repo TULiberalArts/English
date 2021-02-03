@@ -19,7 +19,7 @@ At the College of Liberal Arts, you can [major](#major-in-english-at-temple), [m
 ![Department of English Undergraduates]({{site.baseurl}}/media/resized temple-undergrad-english.jpg){:.responsive-img .img-right}
 English majors become reflective readers and strong, inventive writers. You’ll learn about topics ranging from Shakespeare to depictions of race in literature from distinguished and internationally renowned faculty. Like all College of Liberal Arts undergraduate programs, the English major teaches you how to think creatively and critically, cultivate social intelligence and solve problems.
 
-An English bachelor’s degree not only prepares you for graduate-level study in English literature and other academic disciplines, but also prepares you for careers that include advertising, business, education, government and law. Our [well-established internship program and a popular career seminar](https://www.temple.edu/academics/degrees-programs/undegraduate-majors-minors/english-major-ba-eng/careers-internships-opportunities) that prepares English majors for life after graduation.
+An English bachelor’s degree not only prepares you for graduate-level study in English literature and other academic disciplines, but also prepares you for careers that include advertising, business, education, government and law. Our [well-established internship program and a popular career seminar](https://www.temple.edu/academics/degree-programs/undergraduate-majors-minors/english-major-ba-eng/careers-internships-opportunities) that prepares English majors for life after graduation.
 
 Learn More about the [BA in English](https://www.temple.edu/academics/degree-programs/english-major-la-eng-ba)
 
