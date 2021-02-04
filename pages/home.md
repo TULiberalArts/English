@@ -50,7 +50,7 @@ ___
       title="Study Abroad in Rome "
       content="Taught in English, the Rome seminar entails intensive class work, field trips and guest lectures using Rome extensively as a resource. The Rome Seminar in Art and Culture for graduate students is offered in the summer term."
       image=""
-      button-link="/english/student-life/#study-abroad-in-rome"
+      button-link="https://studyabroad.temple.edu/courses/temple-rome-graduate-summer/rome-seminar-in-art-culture"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
